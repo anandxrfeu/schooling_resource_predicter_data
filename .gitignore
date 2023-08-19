@@ -1,4 +1,6 @@
-git lo.ipynb_checkpoints/
-**/.DS_Store
 .DS_Store
+raw_data/.DS_Store
+**/.DS_Store
+
+git lo.ipynb_checkpoints/
 notebooks/.ipynb_checkpoints/*

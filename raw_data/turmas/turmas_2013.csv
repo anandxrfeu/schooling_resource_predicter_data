@@ -1,5 +1,5 @@
 ﻿Região Geográfica,Unidade da Federação,Município,Código do Município,Urbana,Rural
- Centro-Oeste  , Distrito Federal  , Brasília  ,5300108,"2,248",62
+ Centro-Oeste  , Distrito Federal  , Brasília  ,5300108,2248,62
  Centro-Oeste  , Goiás  , Vila Propício  ,5222302,6,4
  Centro-Oeste  , Goiás  , Vila Boa  ,5222203,10,0
  Centro-Oeste  , Goiás  , Vicentinópolis  ,5222054,11,0
@@ -151,7 +151,7 @@
  Centro-Oeste  , Goiás  , Goiatuba  ,5209101,42,0
  Centro-Oeste  , Goiás  , Goiás  ,5208905,35,0
  Centro-Oeste  , Goiás  , Goianira  ,5208806,46,0
- Centro-Oeste  , Goiás  , Goiânia  ,5208707,"1,243",0
+ Centro-Oeste  , Goiás  , Goiânia  ,5208707,1243,0
  Centro-Oeste  , Goiás  , Goianésia  ,5208608,74,0
  Centro-Oeste  , Goiás  , Goiandira  ,5208509,9,0
  Centro-Oeste  , Goiás  , Goianápolis  ,5208400,17,0
@@ -637,7 +637,7 @@
  Sul  , Rio Grande do Sul  , Porto Vera Cruz  ,4315073,3,0
  Sul  , Rio Grande do Sul  , Porto Mauá  ,4315057,3,0
  Sul  , Rio Grande do Sul  , Porto Lucena  ,4315008,5,0
- Sul  , Rio Grande do Sul  , Porto Alegre  ,4314902,"1,246",0
+ Sul  , Rio Grande do Sul  , Porto Alegre  ,4314902,1246,0
  Sul  , Rio Grande do Sul  , Portão  ,4314803,34,0
  Sul  , Rio Grande do Sul  , Ponte Preta  ,4314787,3,0
  Sul  , Rio Grande do Sul  , Pontão  ,4314779,6,0
@@ -1563,7 +1563,7 @@
  Sul  , Paraná  , Diamante do Sul  ,4107124,9,3
  Sul  , Paraná  , Diamante do Norte  ,4107108,10,8
  Sul  , Paraná  , Curiúva  ,4107009,22,3
- Sul  , Paraná  , Curitiba  ,4106902,"2,016",0
+ Sul  , Paraná  , Curitiba  ,4106902,2016,0
  Sul  , Paraná  , Cruzmaltina  ,4106852,6,0
  Sul  , Paraná  , Cruz Machado  ,4106803,34,4
  Sul  , Paraná  , Cruzeiro do Sul  ,4106704,8,0
@@ -1739,7 +1739,7 @@
  Sudeste  , São Paulo  , São Roque  ,3550605,76,0
  Sudeste  , São Paulo  , São Pedro do Turvo  ,3550506,10,0
  Sudeste  , São Paulo  , São Pedro  ,3550407,31,0
- Sudeste  , São Paulo  , São Paulo  ,3550308,"11,173",81
+ Sudeste  , São Paulo  , São Paulo  ,3550308,11173,81
  Sudeste  , São Paulo  , São Miguel Arcanjo  ,3550209,29,15
  Sudeste  , São Paulo  , São Manuel  ,3550100,42,7
  Sudeste  , São Paulo  , São Luís do Paraitinga  ,3550001,15,0
@@ -2089,7 +2089,7 @@
  Sudeste  , São Paulo  , Herculândia  ,3519006,9,0
  Sudeste  , São Paulo  , Guzolândia  ,3518909,7,0
  Sudeste  , São Paulo  , Guatapará  ,3518859,12,0
- Sudeste  , São Paulo  , Guarulhos  ,3518800,"1,682",0
+ Sudeste  , São Paulo  , Guarulhos  ,3518800,1682,0
  Sudeste  , São Paulo  , Guarujá  ,3518701,333,0
  Sudeste  , São Paulo  , Guariba  ,3518602,42,0
  Sudeste  , São Paulo  , Guareí  ,3518503,16,0
@@ -2193,7 +2193,7 @@
  Sudeste  , São Paulo  , Campos Novos Paulista  ,3509809,6,0
  Sudeste  , São Paulo  , Campos do Jordão  ,3509700,48,0
  Sudeste  , São Paulo  , Campo Limpo Paulista  ,3509601,112,0
- Sudeste  , São Paulo  , Campinas  ,3509502,"1,104",0
+ Sudeste  , São Paulo  , Campinas  ,3509502,1104,0
  Sudeste  , São Paulo  , Campina do Monte Alegre  ,3509452,12,0
  Sudeste  , São Paulo  , Cajuru  ,3509403,29,0
  Sudeste  , São Paulo  , Cajobi  ,3509304,11,0
@@ -2326,7 +2326,7 @@
  Sudeste  , Rio de Janeiro  , São Francisco de Itabapoana  ,3304755,31,18
  Sudeste  , Rio de Janeiro  , Santo Antônio de Pádua  ,3304706,45,11
  Sudeste  , Rio de Janeiro  , Santa Maria Madalena  ,3304607,8,0
- Sudeste  , Rio de Janeiro  , Rio de Janeiro  ,3304557,"5,429",0
+ Sudeste  , Rio de Janeiro  , Rio de Janeiro  ,3304557,5429,0
  Sudeste  , Rio de Janeiro  , Rio das Ostras  ,3304524,92,6
  Sudeste  , Rio de Janeiro  , Rio das Flores  ,3304508,13,0
  Sudeste  , Rio de Janeiro  , Rio Claro  ,3304409,26,0
@@ -3259,7 +3259,7 @@
  Sudeste  , Minas Gerais  , Berilo  ,3106507,14,9
  Sudeste  , Minas Gerais  , Belo Vale  ,3106408,8,0
  Sudeste  , Minas Gerais  , Belo Oriente  ,3106309,27,0
- Sudeste  , Minas Gerais  , Belo Horizonte  ,3106200,"2,282",0
+ Sudeste  , Minas Gerais  , Belo Horizonte  ,3106200,2282,0
  Sudeste  , Minas Gerais  , Belmiro Braga  ,3106101,9,0
  Sudeste  , Minas Gerais  , Bela Vista de Minas  ,3106002,14,0
  Sudeste  , Minas Gerais  , Barroso  ,3105905,23,0
@@ -3406,7 +3406,7 @@
  Nordeste  , Bahia  , Santa Cruz Cabrália  ,2927705,34,0
  Nordeste  , Bahia  , Santa Brígida  ,2927606,17,0
  Nordeste  , Bahia  , Santa Bárbara  ,2927507,22,0
- Nordeste  , Bahia  , Salvador  ,2927408,"2,628",0
+ Nordeste  , Bahia  , Salvador  ,2927408,2628,0
  Nordeste  , Bahia  , Salinas da Margarida  ,2927309,16,13
  Nordeste  , Bahia  , Ruy Barbosa  ,2927200,43,0
  Nordeste  , Bahia  , Rodelas  ,2927101,13,0
@@ -3972,7 +3972,7 @@
  Nordeste  , Pernambuco  , Rio Formoso  ,2611903,25,12
  Nordeste  , Pernambuco  , Ribeirão  ,2611804,43,6
  Nordeste  , Pernambuco  , Riacho das Almas  ,2611705,18,0
- Nordeste  , Pernambuco  , Recife  ,2611606,"1,434",0
+ Nordeste  , Pernambuco  , Recife  ,2611606,1434,0
  Nordeste  , Pernambuco  , Quixaba  ,2611533,6,7
  Nordeste  , Pernambuco  , Quipapá  ,2611507,21,0
  Nordeste  , Pernambuco  , Primavera  ,2611408,13,0
@@ -4619,7 +4619,7 @@
  Nordeste  , Ceará  , General Sampaio  ,2304608,10,0
  Nordeste  , Ceará  , Frecheirinha  ,2304509,15,0
  Nordeste  , Ceará  , Fortim  ,2304459,15,0
- Nordeste  , Ceará  , Fortaleza  ,2304400,"2,149",0
+ Nordeste  , Ceará  , Fortaleza  ,2304400,2149,0
  Nordeste  , Ceará  , Forquilha  ,2304350,33,0
  Nordeste  , Ceará  , Farias Brito  ,2304301,29,0
  Nordeste  , Ceará  , Eusébio  ,2304285,66,0
@@ -4686,7 +4686,7 @@
  Nordeste  , Piauí  , Valença do Piauí  ,2211308,28,0
  Nordeste  , Piauí  , Uruçuí  ,2211209,33,6
  Nordeste  , Piauí  , União  ,2211100,45,20
- Nordeste  , Piauí  , Teresina  ,2211001,"1,025",68
+ Nordeste  , Piauí  , Teresina  ,2211001,1025,68
  Nordeste  , Piauí  , Tanque do Piauí  ,2210979,4,0
  Nordeste  , Piauí  , Tamboril do Piauí  ,2210953,4,0
  Nordeste  , Piauí  , Sussuapara  ,2210938,9,0
@@ -4933,7 +4933,7 @@
  Nordeste  , Maranhão  , São Pedro da Água Branca  ,2111532,12,1
  Nordeste  , Maranhão  , São Mateus do Maranhão  ,2111508,46,0
  Nordeste  , Maranhão  , São Luís Gonzaga do Maranhão  ,2111409,23,0
- Nordeste  , Maranhão  , São Luís  ,2111300,"1,145",85
+ Nordeste  , Maranhão  , São Luís  ,2111300,1145,85
  Nordeste  , Maranhão  , São José dos Basílios  ,2111250,8,0
  Nordeste  , Maranhão  , São José de Ribamar  ,2111201,53,47
  Nordeste  , Maranhão  , São João dos Patos  ,2111102,35,0
@@ -5118,7 +5118,7 @@
  Nordeste  , Maranhão  , Alcântara  ,2100204,16,5
  Nordeste  , Maranhão  , Água Doce do Maranhão  ,2100154,7,14
  Nordeste  , Maranhão  , Afonso Cunha  ,2100105,13,0
- Nordeste  , Maranhão  , Açailândia  ," 2,100,055 ",108,27
+ Nordeste  , Maranhão  , Açailândia  ,2100055,108,27
  Norte  , Tocantins  , Xambioá  ,1722107,20,0
  Norte  , Tocantins  , Wanderlândia  ,1722081,16,0
  Norte  , Tocantins  , Tupiratins  ,1721307,4,0
@@ -5399,7 +5399,7 @@
  Norte  , Pará  , Bom Jesus do Tocantins  ,1501576,20,8
  Norte  , Pará  , Benevides  ,1501501,68,8
  Norte  , Pará  , Belterra  ,1501451,31,0
- Norte  , Pará  , Belém  ,1501402,"1,551",0
+ Norte  , Pará  , Belém  ,1501402,1551,0
  Norte  , Pará  , Barcarena  ,1501303,40,114
  Norte  , Pará  , Bannach  ,1501253,9,0
  Norte  , Pará  , Baião  ,1501204,54,0
@@ -5457,7 +5457,7 @@
  Norte  , Amazonas  , Maués  ,1302900,68,41
  Norte  , Amazonas  , Maraã  ,1302801,13,9
  Norte  , Amazonas  , Manicoré  ,1302702,47,47
- Norte  , Amazonas  , Manaus  ,1302603,"2,209",56
+ Norte  , Amazonas  , Manaus  ,1302603,2209,56
  Norte  , Amazonas  , Manaquiri  ,1302553,13,43
  Norte  , Amazonas  , Manacapuru  ,1302504,106,78
  Norte  , Amazonas  , Lábrea  ,1302405,48,13
