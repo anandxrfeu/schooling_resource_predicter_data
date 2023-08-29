@@ -2,5 +2,8 @@
 raw_data/.DS_Store
 **/.DS_Store
 
+# dotenv
+.env
+
 git lo.ipynb_checkpoints/
 notebooks/.ipynb_checkpoints/*

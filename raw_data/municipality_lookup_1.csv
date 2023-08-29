@@ -1,0 +1,1394 @@
+Código_UF,Estado,UF,Código_IBGE,Município,Região,Latitude,Longitude
+11,Rondônia,RO,1100015,Alta Floresta D'Oeste,Norte,-11.929692,-61.996128
+11,Rondônia,RO,1100023,Ariquemes,Norte,-9.907652,-63.033069
+11,Rondônia,RO,1100031,Cabixi,Norte,-13.495606,-60.542444
+11,Rondônia,RO,1100049,Cacoal,Norte,-11.4333,-61.44205
+11,Rondônia,RO,1100056,Cerejeiras,Norte,-13.186987,-60.816836
+11,Rondônia,RO,1100064,Colorado do Oeste,Norte,-13.117431,-60.545428
+11,Rondônia,RO,1100072,Corumbiara,Norte,-12.997767,-60.945501
+11,Rondônia,RO,1100080,Costa Marques,Norte,-12.436716,-64.227977
+11,Rondônia,RO,1100098,Espigão D'Oeste,Norte,-11.532175,-61.013094
+11,Rondônia,RO,1100106,Guajará-Mirim,Norte,-10.780424,-65.332783
+11,Rondônia,RO,1100114,Jaru,Norte,-10.431826,-62.478769
+11,Rondônia,RO,1100122,Ji-Paraná,Norte,-10.877815,-61.927785
+11,Rondônia,RO,1100130,Machadinho D'Oeste,Norte,-9.424085,-61.992372
+11,Rondônia,RO,1100148,Nova Brasilândia D'Oeste,Norte,-11.722692,-62.315545
+11,Rondônia,RO,1100155,Ouro Preto do Oeste,Norte,-10.716685,-62.26024
+11,Rondônia,RO,1100189,Pimenta Bueno,Norte,-11.680781,-61.183441
+11,Rondônia,RO,1100205,Porto Velho,Norte,-8.749452,-63.873544
+11,Rondônia,RO,1100254,Presidente Médici,Norte,-11.168664,-61.905763
+11,Rondônia,RO,1100262,Rio Crespo,Norte,-9.705278,-62.900447
+11,Rondônia,RO,1100288,Rolim de Moura,Norte,-11.727071,-61.771411
+11,Rondônia,RO,1100296,Santa Luzia D'Oeste,Norte,-11.907252,-61.7793085
+11,Rondônia,RO,1100304,Vilhena,Norte,-12.736854,-60.146556
+11,Rondônia,RO,1100320,São Miguel do Guaporé,Norte,-11.695147,-62.719574
+11,Rondônia,RO,1100338,Nova Mamoré,Norte,-10.410486,-65.331376
+11,Rondônia,RO,1100346,Alvorada D'Oeste,Norte,-11.346271,-62.284697
+11,Rondônia,RO,1100379,Alto Alegre dos Parecis,Norte,-12.131451,-61.856265
+11,Rondônia,RO,1100403,Alto Paraíso,Norte,-9.72401,-63.318812
+11,Rondônia,RO,1100452,Buritis,Norte,-10.205494,-63.828195
+11,Rondônia,RO,1100502,Novo Horizonte do Oeste,Norte,-11.710531,-61.999328
+11,Rondônia,RO,1100601,Cacaulândia,Norte,-10.338004,-62.900723
+11,Rondônia,RO,1100700,Campo Novo de Rondônia,Norte,-10.570423,-63.619951
+11,Rondônia,RO,1100809,Candeias do Jamari,Norte,-8.794994,-63.701885
+11,Rondônia,RO,1100908,Castanheiras,Norte,-11.427721,-61.94868
+11,Rondônia,RO,1100924,Chupinguaia,Norte,-12.552892,-60.902782
+11,Rondônia,RO,1100940,Cujubim,Norte,-9.368792,-62.583211
+11,Rondônia,RO,1101005,Governador Jorge Teixeira,Norte,-10.614022,-62.732641
+11,Rondônia,RO,1101104,Itapuã do Oeste,Norte,-9.189646,-63.19101
+11,Rondônia,RO,1101203,Ministro Andreazza,Norte,-11.198104,-61.516742
+11,Rondônia,RO,1101302,Mirante da Serra,Norte,-11.032169,-62.671701
+11,Rondônia,RO,1101401,Monte Negro,Norte,-10.26034,-63.297703
+11,Rondônia,RO,1101435,Nova União,Norte,-10.91591,-62.55701
+11,Rondônia,RO,1101450,Parecis,Norte,-12.181071,-61.603756
+11,Rondônia,RO,1101468,Pimenteiras do Oeste,Norte,-13.482271,-61.047052
+11,Rondônia,RO,1101476,Primavera de Rondônia,Norte,-11.829456,-61.315336
+11,Rondônia,RO,1101484,São Felipe D'Oeste,Norte,-11.91078,-61.513006
+11,Rondônia,RO,1101492,São Francisco do Guaporé,Norte,-12.060998,-63.566831
+11,Rondônia,RO,1101500,Seringueiras,Norte,-11.771574,-63.034684
+11,Rondônia,RO,1101559,Teixeirópolis,Norte,-10.933697,-62.256005
+11,Rondônia,RO,1101609,Theobroma,Norte,-10.246489,-62.34938
+11,Rondônia,RO,1101708,Urupá,Norte,-10.88,-61.96
+11,Rondônia,RO,1101757,Vale do Anari,Norte,-9.858081,-62.174142
+11,Rondônia,RO,1101807,Vale do Paraíso,Norte,-10.426696,-62.13009
+12,Acre,AC,1200013,Acrelândia,Norte,-10.075917,-67.05269
+12,Acre,AC,1200054,Assis Brasil,Norte,-10.94092,-69.567211
+12,Acre,AC,1200104,Brasiléia,Norte,-11.015841,-68.746415
+12,Acre,AC,1200138,Bujari,Norte,-9.830966,-67.952089
+12,Acre,AC,1200179,Capixaba,Norte,-10.574134,-67.675972
+12,Acre,AC,1200203,Cruzeiro do Sul,Norte,-7.630796,-72.670387
+12,Acre,AC,1200252,Epitaciolândia,Norte,-11.028944,-68.741152
+12,Acre,AC,1200302,Feijó,Norte,-8.164865,-70.353958
+12,Acre,AC,1200328,Jordão,Norte,-9.191141,-71.94814
+12,Acre,AC,1200336,Mâncio Lima,Norte,-7.614591,-72.905264
+12,Acre,AC,1200344,Manoel Urbano,Norte,-8.838755,-69.261947
+12,Acre,AC,1200351,Marechal Thaumaturgo,Norte,-8.947979,-72.787261
+12,Acre,AC,1200385,Plácido de Castro,Norte,-10.312185,-67.188337
+12,Acre,AC,1200393,Porto Walter,Norte,-8.268772,-72.744446
+12,Acre,AC,1200401,Rio Branco,Norte,-9.976536,-67.822078
+12,Acre,AC,1200427,Rodrigues Alves,Norte,-7.738028,-72.650938
+12,Acre,AC,1200435,Santa Rosa do Purus,Norte,-9.435487,-70.492611
+12,Acre,AC,1200450,Senador Guiomard,Norte,-10.150919,-67.73595
+12,Acre,AC,1200500,Sena Madureira,Norte,-9.065956,-68.657106
+12,Acre,AC,1200609,Tarauacá,Norte,-8.160202,-70.766537
+12,Acre,AC,1200708,Xapuri,Norte,-10.651117,-68.50179
+12,Acre,AC,1200807,Porto Acre,Norte,-9.587972,-67.53307
+13,Amazonas,AM,1300029,Alvarães,Norte,-3.214786,-64.814312
+13,Amazonas,AM,1300060,Amaturá,Norte,-3.364051,-68.199469
+13,Amazonas,AM,1300086,Anamã,Norte,-3.579736,-61.405
+13,Amazonas,AM,1300102,Anori,Norte,-3.743525,-61.66052
+13,Amazonas,AM,1300144,Apuí,Norte,-7.194019,-59.883019
+13,Amazonas,AM,1300201,Atalaia do Norte,Norte,-4.365855,-70.190874
+13,Amazonas,AM,1300300,Autazes,Norte,-3.583328,-59.130152
+13,Amazonas,AM,1300409,Barcelos,Norte,-0.972921,-62.925635
+13,Amazonas,AM,1300508,Barreirinha,Norte,-2.798863,-57.067897
+13,Amazonas,AM,1300607,Benjamin Constant,Norte,-4.378275,-70.02906
+13,Amazonas,AM,1300631,Beruri,Norte,-3.900713,-61.371732
+13,Amazonas,AM,1300680,Boa Vista do Ramos,Norte,-2.971693,-57.586982
+13,Amazonas,AM,1300706,Boca do Acre,Norte,-8.755349,-67.393087
+13,Amazonas,AM,1300805,Borba,Norte,-4.387468999999999,-59.5937955
+13,Amazonas,AM,1300839,Caapiranga,Norte,-3.318888,-61.20964
+13,Amazonas,AM,1300904,Canutama,Norte,-6.533002,-64.383497
+13,Amazonas,AM,1301001,Carauari,Norte,-4.876643,-66.896143
+13,Amazonas,AM,1301100,Careiro,Norte,-3.818528,-60.361651
+13,Amazonas,AM,1301159,Careiro da Várzea,Norte,-3.197024,-59.82591
+13,Amazonas,AM,1301209,Coari,Norte,-4.085769,-63.141068000000004
+13,Amazonas,AM,1301308,Codajás,Norte,-3.84132,-62.060344
+13,Amazonas,AM,1301407,Eirunepé,Norte,-6.656765,-69.866161
+13,Amazonas,AM,1301506,Envira,Norte,-7.437889,-70.028143
+13,Amazonas,AM,1301605,Fonte Boa,Norte,-2.514746,-66.094842
+13,Amazonas,AM,1301654,Guajará,Norte,-7.545593,-72.583277
+13,Amazonas,AM,1301704,Humaitá,Norte,-7.50994,-63.024867
+13,Amazonas,AM,1301803,Ipixuna,Norte,-7.047909,-71.693426
+13,Amazonas,AM,1301852,Iranduba,Norte,-3.27582,-60.186743
+13,Amazonas,AM,1301902,Itacoatiara,Norte,-3.14779,-58.446104
+13,Amazonas,AM,1301951,Itamarati,Norte,-6.438519,-68.243739
+13,Amazonas,AM,1302009,Itapiranga,Norte,-2.748009,-58.0227545
+13,Amazonas,AM,1302108,Japurá,Norte,-1.880847,-66.996766
+13,Amazonas,AM,1302207,Juruá,Norte,-3.474667,-66.062234
+13,Amazonas,AM,1302306,Jutaí,Norte,-2.747148,-66.772126
+13,Amazonas,AM,1302405,Lábrea,Norte,-7.261368,-64.792451
+13,Amazonas,AM,1302504,Manacapuru,Norte,-3.299677,-60.621353
+13,Amazonas,AM,1302553,Manaquiri,Norte,-3.432529,-60.459756
+13,Amazonas,AM,1302603,Manaus,Norte,-3.131633,-59.982504
+13,Amazonas,AM,1302702,Manicoré,Norte,-5.804618,-61.289483
+13,Amazonas,AM,1302801,Maraã,Norte,-1.853558,-65.589775
+13,Amazonas,AM,1302900,Maués,Norte,-3.37958,-57.719607
+13,Amazonas,AM,1303007,Nhamundá,Norte,-2.192152,-56.711131
+13,Amazonas,AM,1303106,Nova Olinda do Norte,Norte,-3.892689,-59.095305
+13,Amazonas,AM,1303205,Novo Airão,Norte,-2.626024,-60.943441
+13,Amazonas,AM,1303304,Novo Aripuanã,Norte,-5.119759,-60.374581
+13,Amazonas,AM,1303403,Parintins,Norte,-2.634457,-56.731932
+13,Amazonas,AM,1303502,Pauini,Norte,-7.712221,-66.999844
+13,Amazonas,AM,1303536,Presidente Figueiredo,Norte,-2.048636,-60.023666
+13,Amazonas,AM,1303569,Rio Preto da Eva,Norte,-2.699065,-59.701249
+13,Amazonas,AM,1303601,Santa Isabel do Rio Negro,Norte,-0.416039,-65.01531
+13,Amazonas,AM,1303700,Santo Antônio do Içá,Norte,-3.095443,-67.946279
+13,Amazonas,AM,1303809,São Gabriel da Cachoeira,Norte,-0.124971,-67.081386
+13,Amazonas,AM,1303908,São Paulo de Olivença,Norte,-3.465063,-68.946846
+13,Amazonas,AM,1303957,São Sebastião do Uatumã,Norte,-2.571934,-57.870362
+13,Amazonas,AM,1304005,Silves,Norte,-2.837261,-58.21052
+13,Amazonas,AM,1304062,Tabatinga,Norte,-4.232735,-69.926337
+13,Amazonas,AM,1304104,Tapauá,Norte,-5.623228,-63.187916
+13,Amazonas,AM,1304203,Tefé,Norte,-3.348528,-64.710228
+13,Amazonas,AM,1304237,Tonantins,Norte,-2.86261,-67.773548
+13,Amazonas,AM,1304260,Uarini,Norte,-2.982706,-65.157862
+13,Amazonas,AM,1304302,Urucará,Norte,-2.537073,-57.759025
+13,Amazonas,AM,1304401,Urucurituba,Norte,-3.130433,-58.154916
+14,Roraima,RR,1400027,Amajari,Norte,3.652387,-61.419432
+14,Roraima,RR,1400050,Alto Alegre,Norte,2.98858,-61.307167
+14,Roraima,RR,1400100,Boa Vista,Norte,2.820848,-60.671958
+14,Roraima,RR,1400159,Bonfim,Norte,3.361382,-59.842724
+14,Roraima,RR,1400175,Cantá,Norte,2.60994,-60.605827
+14,Roraima,RR,1400209,Caracaraí,Norte,1.827598,-61.125389
+14,Roraima,RR,1400233,Caroebe,Norte,0.88087,-59.69638
+14,Roraima,RR,1400282,Iracema,Norte,2.166474,-61.051305
+14,Roraima,RR,1400308,Mucajaí,Norte,2.448608,-60.919999
+14,Roraima,RR,1400407,Normandia,Norte,3.879236,-59.629337
+14,Roraima,RR,1400456,Pacaraima,Norte,4.479125,-61.147102
+14,Roraima,RR,1400472,Rorainópolis,Norte,0.938731,-60.423646
+14,Roraima,RR,1400506,São João da Baliza,Norte,0.951659,-59.913293
+14,Roraima,RR,1400605,São Luiz,Norte,1.017061,-60.037172
+14,Roraima,RR,1400704,Uiramutã,Norte,4.595369,-60.159886
+15,Pará,PA,1500107,Abaetetuba,Norte,-1.721828,-48.878843
+15,Pará,PA,1500131,Abel Figueiredo,Norte,-4.953001,-48.395849
+15,Pará,PA,1500206,Acará,Norte,-1.40789525,-48.44680745
+15,Pará,PA,1500305,Afuá,Norte,-0.153566,-50.387922
+15,Pará,PA,1500347,Água Azul do Norte,Norte,-6.806488,-50.484967
+15,Pará,PA,1500404,Alenquer,Norte,-1.946229,-54.738355
+15,Pará,PA,1500503,Almeirim,Norte,-1.529038,-52.578811
+15,Pará,PA,1500602,Altamira,Norte,-1.0664467,-48.3537856
+15,Pará,PA,1500701,Anajás,Norte,-0.9859155,-49.939923
+15,Pará,PA,1500800,Ananindeua,Norte,-1.374035,-48.401662
+15,Pará,PA,1500859,Anapu,Norte,-3.466829,-51.205704
+15,Pará,PA,1500909,Augusto Corrêa,Norte,-1.022933,-46.640403
+15,Pará,PA,1500958,Aurora do Pará,Norte,-2.13232,-47.558436
+15,Pará,PA,1501006,Aveiro,Norte,-1.400666,-48.4571664
+15,Pará,PA,1501105,Bagre,Norte,-1.89945,-50.210384
+15,Pará,PA,1501204,Baião,Norte,-1.3972039,-48.4592181
+15,Pará,PA,1501253,Bannach,Norte,-7.35085,-50.406453
+15,Pará,PA,1501303,Barcarena,Norte,-1.510794,-48.619068
+15,Pará,PA,1501402,Belém,Norte,-1.45056,-48.4682
+15,Pará,PA,1501451,Belterra,Norte,-2.636091,-54.937392
+15,Pará,PA,1501501,Benevides,Norte,-1.355558,-48.252235
+15,Pará,PA,1501576,Bom Jesus do Tocantins,Norte,-5.04718,-48.597836
+15,Pará,PA,1501600,Bonito,Norte,-1.360572,-47.304991
+15,Pará,PA,1501709,Bragança,Norte,-1.057425,-46.763523
+15,Pará,PA,1501725,Brasil Novo,Norte,-3.305585,-52.539198
+15,Pará,PA,1501758,Brejo Grande do Araguaia,Norte,-5.701145,-48.403731
+15,Pará,PA,1501782,Breu Branco,Norte,-3.778507,-49.56848
+15,Pará,PA,1501808,Breves,Norte,-1.68036,-50.479085
+15,Pará,PA,1501907,Bujaru,Norte,-1.516924,-48.04107
+15,Pará,PA,1501956,Cachoeira do Piriá,Norte,-1.759944,-46.544695
+15,Pará,PA,1502004,Cachoeira do Arari,Norte,-1.014357,-48.962109
+15,Pará,PA,1502103,Cametá,Norte,-2.242949,-49.497885
+15,Pará,PA,1502152,Canaã dos Carajás,Norte,-6.529684,-49.851659
+15,Pará,PA,1502202,Capanema,Norte,-1.193305,-47.182868
+15,Pará,PA,1502301,Capitão Poço,Norte,-1.744716,-47.06385
+15,Pará,PA,1502400,Castanhal,Norte,-1.292703,-47.92239
+15,Pará,PA,1502509,Chaves,Norte,-1.3971663,-48.4600335
+15,Pará,PA,1502608,Colares,Norte,-0.931984,-48.287378
+15,Pará,PA,1502707,Conceição do Araguaia,Norte,-8.26969,-49.267686
+15,Pará,PA,1502756,Concórdia do Pará,Norte,-1.992406,-47.945047
+15,Pará,PA,1502764,Cumaru do Norte,Norte,-7.812267,-50.767768
+15,Pará,PA,1502772,Curionópolis,Norte,-6.099044,-49.605904
+15,Pará,PA,1502806,Curralinho,Norte,-1.813788,-49.798017
+15,Pará,PA,1502855,Curuá,Norte,-1.887754,-55.116842
+15,Pará,PA,1502905,Curuçá,Norte,-0.727679,-47.856568
+15,Pará,PA,1502939,Dom Eliseu,Norte,-4.292811,-47.555908
+15,Pará,PA,1502954,Eldorado do Carajás,Norte,-6.102925,-49.357249
+15,Pará,PA,1503002,Faro,Norte,-1.446101,-48.491766
+15,Pará,PA,1503044,Floresta do Araguaia,Norte,-7.559706,-49.703283
+15,Pará,PA,1503077,Garrafão do Norte,Norte,-1.928226,-47.051316
+15,Pará,PA,1503093,Goianésia do Pará,Norte,-3.8381,-49.097799
+15,Pará,PA,1503101,Gurupá,Norte,-1.406325,-51.642746
+15,Pará,PA,1503200,Igarapé-Açu,Norte,-1.128244,-47.619902
+15,Pará,PA,1503309,Igarapé-Miri,Norte,-1.978521,-48.963483
+15,Pará,PA,1503408,Inhangapi,Norte,-1.428374,-47.910861
+15,Pará,PA,1503457,Ipixuna do Pará,Norte,-2.559214,-47.496546
+15,Pará,PA,1503507,Irituia,Norte,-1.77056775,-47.438689749999995
+15,Pará,PA,1503606,Itaituba,Norte,-4.262522,-55.987814
+15,Pará,PA,1503705,Itupiranga,Norte,-5.133722,-49.332199
+15,Pará,PA,1503754,Jacareacanga,Norte,-6.219652,-57.758625
+15,Pará,PA,1503804,Jacundá,Norte,-4.446173,-49.115272
+15,Pará,PA,1503903,Juruti,Norte,-2.157138,-56.090098
+15,Pará,PA,1504000,Limoeiro do Ajuru,Norte,-1.895881,-49.382844
+15,Pará,PA,1504059,Mãe do Rio,Norte,-2.045869,-47.552208
+15,Pará,PA,1504109,Magalhães Barata,Norte,-0.794338,-47.598438
+15,Pará,PA,1504208,Marabá,Norte,-5.346282,-49.10074
+15,Pará,PA,1504307,Maracanã,Norte,-0.766658,-47.453782
+15,Pará,PA,1504406,Marapanim,Norte,-0.713449,-47.698538
+15,Pará,PA,1504422,Marituba,Norte,-1.359531,-48.33615
+15,Pará,PA,1504455,Medicilândia,Norte,-3.443839,-52.888924
+15,Pará,PA,1504505,Melgaço,Norte,-1.803202,-50.714927
+15,Pará,PA,1504604,Mocajuba,Norte,-2.5835055000000002,-49.505637
+15,Pará,PA,1504703,Moju,Norte,-1.889926,-48.766765
+15,Pará,PA,1504752,Mojuí dos Campos,Norte,-2.682167,-54.642717
+15,Pará,PA,1504802,Monte Alegre,Norte,-1.998911,-54.072769
+15,Pará,PA,1504901,Muaná,Norte,-1.531744,-49.222357
+15,Pará,PA,1504950,Nova Esperança do Piriá,Norte,-2.266309,-46.966162
+15,Pará,PA,1504976,Nova Ipixuna,Norte,-4.9201785000000005,-49.0757925
+15,Pará,PA,1505007,Nova Timboteua,Norte,-1.205243,-47.393578
+15,Pará,PA,1505031,Novo Progresso,Norte,-7.037488,-55.41859
+15,Pará,PA,1505064,Novo Repartimento,Norte,-4.251917,-49.952426
+15,Pará,PA,1505106,Óbidos,Norte,-1.901072,-55.520812
+15,Pará,PA,1505205,Oeiras do Pará,Norte,-2.00327175,-49.854692
+15,Pará,PA,1505304,Oriximiná,Norte,-1.766999,-55.868285
+15,Pará,PA,1505403,Ourém,Norte,-1.3998126,-48.4553976
+15,Pará,PA,1505437,Ourilândia do Norte,Norte,-6.755329,-51.065794
+15,Pará,PA,1505486,Pacajá,Norte,-3.835419,-50.639925
+15,Pará,PA,1505494,Palestina do Pará,Norte,-5.742394,-48.318553
+15,Pará,PA,1505502,Paragominas,Norte,-2.99564,-47.354894
+15,Pará,PA,1505536,Parauapebas,Norte,-6.069685,-49.890328
+15,Pará,PA,1505551,Pau D'Arco,Norte,-7.833115,-50.040444
+15,Pará,PA,1505601,Peixe-Boi,Norte,-1.188574,-47.319481
+15,Pará,PA,1505635,Piçarra,Norte,-6.447582,-48.86338
+15,Pará,PA,1505650,Placas,Norte,-3.868953,-54.215435
+15,Pará,PA,1505700,Ponta de Pedras,Norte,-1.395873,-48.866073
+15,Pará,PA,1505809,Portel,Norte,-1.3992444,-48.4622356
+15,Pará,PA,1505908,Porto de Moz,Norte,-1.750209,-52.235556
+15,Pará,PA,1506005,Prainha,Norte,-2.43,-54.7
+15,Pará,PA,1506104,Primavera,Norte,-0.940652,-47.116728
+15,Pará,PA,1506112,Quatipuru,Norte,-0.894872,-47.004932
+15,Pará,PA,1506138,Redenção,Norte,-8.025294,-50.031687
+15,Pará,PA,1506161,Rio Maria,Norte,-7.313731,-50.046537
+15,Pará,PA,1506187,Rondon do Pará,Norte,-4.775596500000001,-48.067727500000004
+15,Pará,PA,1506195,Rurópolis,Norte,-4.101431,-54.908685
+15,Pará,PA,1506203,Salinópolis,Norte,-0.625928,-47.344282
+15,Pará,PA,1506302,Salvaterra,Norte,-1.3965952,-48.4566352
+15,Pará,PA,1506351,Santa Bárbara do Pará,Norte,-1.226144,-48.295101
+15,Pará,PA,1506401,Santa Cruz do Arari,Norte,-0.661019,-49.177139
+15,Pará,PA,1506500,Santa Izabel do Pará,Norte,-1.296856,-48.160553
+15,Pará,PA,1506559,Santa Luzia do Pará,Norte,-1.522005,-46.90207
+15,Pará,PA,1506583,Santa Maria das Barreiras,Norte,-8.871016,-49.717126
+15,Pará,PA,1506609,Santa Maria do Pará,Norte,-1.345548,-47.578298
+15,Pará,PA,1506708,Santana do Araguaia,Norte,-9.335014,-50.337732
+15,Pará,PA,1506807,Santarém,Norte,-2.438489,-54.699611
+15,Pará,PA,1506906,Santarém Novo,Norte,-0.92839,-47.399996
+15,Pará,PA,1507003,Santo Antônio do Tauá,Norte,-1.1523940000000001,-48.13001725
+15,Pará,PA,1507102,São Caetano de Odivelas,Norte,-0.747293,-48.024622
+15,Pará,PA,1507151,São Domingos do Araguaia,Norte,-5.5374795,-48.73271200000001
+15,Pará,PA,1507201,São Domingos do Capim,Norte,-1.678933,-47.771782
+15,Pará,PA,1507300,São Félix do Xingu,Norte,-6.638697,-51.978758
+15,Pará,PA,1507409,São Francisco do Pará,Norte,-1.169399,-47.797259
+15,Pará,PA,1507458,São Geraldo do Araguaia,Norte,-6.400167,-48.55338
+15,Pará,PA,1507466,São João da Ponta,Norte,-0.852652,-47.92241
+15,Pará,PA,1507474,São João de Pirabas,Norte,-0.77332,-47.177063
+15,Pará,PA,1507508,São João do Araguaia,Norte,-5.3577595,-48.7899465
+15,Pará,PA,1507607,São Miguel do Guamá,Norte,-1.61168,-47.475755
+15,Pará,PA,1507706,São Sebastião da Boa Vista,Norte,-1.718288,-49.531996
+15,Pará,PA,1507755,Sapucaia,Norte,-6.94135,-49.699388
+15,Pará,PA,1507805,Senador José Porfírio,Norte,-2.593542,-51.948209
+15,Pará,PA,1507904,Soure,Norte,-1.3998478,-48.4564099
+15,Pará,PA,1507953,Tailândia,Norte,-2.936096,-48.952337
+15,Pará,PA,1507961,Terra Alta,Norte,-1.039792,-47.90916
+15,Pará,PA,1507979,Terra Santa,Norte,-2.104435,-56.487653
+15,Pará,PA,1508001,Tomé-Açu,Norte,-2.416631,-48.152291
+15,Pará,PA,1508035,Tracuateua,Norte,-1.076534,-46.903082
+15,Pará,PA,1508050,Trairão,Norte,-4.700551,-55.997217
+15,Pará,PA,1508084,Tucumã,Norte,-1.3795152,-48.45202
+15,Pará,PA,1508100,Tucuruí,Norte,-3.773851,-49.67082
+15,Pará,PA,1508126,Ulianópolis,Norte,-3.740304,-47.493775
+15,Pará,PA,1508159,Uruará,Norte,-3.718538,-53.738549
+15,Pará,PA,1508209,Vigia,Norte,-0.854603,-48.143287
+15,Pará,PA,1508308,Viseu,Norte,-1.3995313,-48.4622356
+15,Pará,PA,1508357,Vitória do Xingu,Norte,-2.883306,-52.011489
+15,Pará,PA,1508407,Xinguara,Norte,-7.099851,-49.941663
+16,Amapá,AP,1600055,Serra do Navio,Norte,0.901104,-52.00134
+16,Amapá,AP,1600105,Amapá,Norte,2.053,-50.793
+16,Amapá,AP,1600154,Pedra Branca do Amapari,Norte,0.777183,-51.952322
+16,Amapá,AP,1600204,Calçoene,Norte,2.498176,-50.95395
+16,Amapá,AP,1600212,Cutias,Norte,0.970863,-50.800061
+16,Amapá,AP,1600238,Ferreira Gomes,Norte,0.858084,-51.1814
+16,Amapá,AP,1600253,Itaubal,Norte,0.602752,-50.699874
+16,Amapá,AP,1600279,Laranjal do Jari,Norte,-0.841999,-52.516
+16,Amapá,AP,1600303,Macapá,Norte,0.040153,-51.056959
+16,Amapá,AP,1600402,Mazagão,Norte,-0.116056,-51.286176
+16,Amapá,AP,1600501,Oiapoque,Norte,3.843213,-51.83508
+16,Amapá,AP,1600535,Porto Grande,Norte,0.702837,-51.404161
+16,Amapá,AP,1600550,Pracuúba,Norte,1.742904,-50.784883
+16,Amapá,AP,1600600,Santana,Norte,-0.030707,-51.178967
+16,Amapá,AP,1600709,Tartarugalzinho,Norte,1.505239,-50.912313
+16,Amapá,AP,1600808,Vitória do Jari,Norte,-0.925801,-52.424515
+17,Tocantins,TO,1700251,Abreulândia,Norte,-9.622153,-49.155834
+17,Tocantins,TO,1700301,Aguiarnópolis,Norte,-6.560045,-47.472119
+17,Tocantins,TO,1700350,Aliança do Tocantins,Norte,-11.305958,-48.938938
+17,Tocantins,TO,1700400,Almas,Norte,-11.568131,-47.17028
+17,Tocantins,TO,1700707,Alvorada,Norte,-12.480429,-49.11933
+17,Tocantins,TO,1701002,Ananás,Norte,-6.366305,-48.080238
+17,Tocantins,TO,1701051,Angico,Norte,-6.389373,-47.865672
+17,Tocantins,TO,1701101,Aparecida do Rio Negro,Norte,-9.951349,-47.977379
+17,Tocantins,TO,1701309,Aragominas,Norte,-7.16541,-48.525488
+17,Tocantins,TO,1701903,Araguacema,Norte,-8.806739,-49.556097
+17,Tocantins,TO,1702000,Araguaçu,Norte,-12.92461,-49.829813
+17,Tocantins,TO,1702109,Araguaína,Norte,-7.193241,-48.20186
+17,Tocantins,TO,1702158,Araguanã,Norte,-6.579911,-48.642848
+17,Tocantins,TO,1702208,Araguatins,Norte,-5.652938,-48.116192
+17,Tocantins,TO,1702307,Arapoema,Norte,-7.6573055,-49.0648875
+17,Tocantins,TO,1702406,Arraias,Norte,-12.928779,-46.943723
+17,Tocantins,TO,1702554,Augustinópolis,Norte,-5.466227,-47.889752
+17,Tocantins,TO,1702703,Aurora do Tocantins,Norte,-12.71045,-46.407604
+17,Tocantins,TO,1702901,Axixá do Tocantins,Norte,-5.612747,-47.77007
+17,Tocantins,TO,1703008,Babaçulândia,Norte,-7.203435,-47.761613
+17,Tocantins,TO,1703057,Bandeirantes do Tocantins,Norte,-7.76357,-48.579148
+17,Tocantins,TO,1703073,Barra do Ouro,Norte,-7.711378,-47.674393
+17,Tocantins,TO,1703107,Barrolândia,Norte,-9.837246,-48.726435
+17,Tocantins,TO,1703206,Bernardo Sayão,Norte,-7.879424,-48.896891
+17,Tocantins,TO,1703305,Bom Jesus do Tocantins,Norte,-5.04718,-48.597836
+17,Tocantins,TO,1703602,Brasilândia do Tocantins,Norte,-8.388662,-48.484273
+17,Tocantins,TO,1703701,Brejinho de Nazaré,Norte,-11.013826,-48.564626
+17,Tocantins,TO,1703800,Buriti do Tocantins,Norte,-5.318744,-48.225661
+17,Tocantins,TO,1703826,Cachoeirinha,Norte,-6.118647,-47.920889
+17,Tocantins,TO,1703842,Campos Lindos,Norte,-7.97406,-46.802388
+17,Tocantins,TO,1703867,Cariri do Tocantins,Norte,-11.888273,-49.160422
+17,Tocantins,TO,1703883,Carmolândia,Norte,-7.033804,-48.39513
+17,Tocantins,TO,1703891,Carrasco Bonito,Norte,-5.320573,-48.037667
+17,Tocantins,TO,1703909,Caseara,Norte,-9.273159,-49.957684
+17,Tocantins,TO,1704105,Centenário,Norte,-8.958689,-47.335518
+17,Tocantins,TO,1704600,Chapada de Areia,Norte,-10.141738,-49.178185
+17,Tocantins,TO,1705102,Chapada da Natividade,Norte,-11.611924,-47.753852
+17,Tocantins,TO,1705508,Colinas do Tocantins,Norte,-8.061269,-48.471677
+17,Tocantins,TO,1705557,Combinado,Norte,-12.813658,-46.546104
+17,Tocantins,TO,1705607,Conceição do Tocantins,Norte,-12.220874,-47.295103
+17,Tocantins,TO,1706001,Couto Magalhães,Norte,-8.360583,-49.177396
+17,Tocantins,TO,1706100,Cristalândia,Norte,-10.59848,-49.194202
+17,Tocantins,TO,1706258,Crixás do Tocantins,Norte,-11.10394,-48.918827
+17,Tocantins,TO,1706506,Darcinópolis,Norte,-6.708596,-47.752428
+17,Tocantins,TO,1707009,Dianópolis,Norte,-11.624008,-46.819787
+17,Tocantins,TO,1707108,Divinópolis do Tocantins,Norte,-9.801572,-49.214353
+17,Tocantins,TO,1707207,Dois Irmãos do Tocantins,Norte,-9.25399,-49.066556
+17,Tocantins,TO,1707306,Dueré,Norte,-11.341631,-49.271566
+17,Tocantins,TO,1707405,Esperantina,Norte,-5.365823,-48.536818
+17,Tocantins,TO,1707553,Fátima,Norte,-10.757566,-48.903133
+17,Tocantins,TO,1707652,Figueirópolis,Norte,-12.134792,-49.173714
+17,Tocantins,TO,1707702,Filadélfia,Norte,-7.339583,-47.496372
+17,Tocantins,TO,1708205,Formoso do Araguaia,Norte,-11.805999,-49.525715
+17,Tocantins,TO,1708254,Tabocão,Norte,-9.056521,-48.521675
+17,Tocantins,TO,1708304,Goianorte,Norte,-8.772009,-48.934088
+17,Tocantins,TO,1709005,Goiatins,Norte,-7.713205,-47.315484
+17,Tocantins,TO,1709302,Guaraí,Norte,-8.835429,-48.511432
+17,Tocantins,TO,1709500,Gurupi,Norte,-11.72794,-49.068046
+17,Tocantins,TO,1709807,Ipueiras,Norte,-11.240801,-48.443888
+17,Tocantins,TO,1710508,Itacajá,Norte,-8.392935,-47.772615
+17,Tocantins,TO,1710706,Itaguatins,Norte,-5.769677,-47.481538
+17,Tocantins,TO,1710904,Itapiratins,Norte,-8.383212,-48.105497
+17,Tocantins,TO,1711100,Itaporã do Tocantins,Norte,-8.571722,-48.689481
+17,Tocantins,TO,1711506,Jaú do Tocantins,Norte,-12.652665,-48.592253
+17,Tocantins,TO,1711803,Juarina,Norte,-8.119421,-49.096746
+17,Tocantins,TO,1711902,Lagoa da Confusão,Norte,-10.788304,-49.622443
+17,Tocantins,TO,1711951,Lagoa do Tocantins,Norte,-10.296788,-47.566253
+17,Tocantins,TO,1712009,Lajeado,Norte,-9.754894,-48.356371
+17,Tocantins,TO,1712157,Lavandeira,Norte,-12.788792,-46.50732
+17,Tocantins,TO,1712405,Lizarda,Norte,-9.595534,-46.675218
+17,Tocantins,TO,1712454,Luzinópolis,Norte,-6.191818,-47.856204
+17,Tocantins,TO,1712504,Marianópolis do Tocantins,Norte,-9.79625,-49.654717
+17,Tocantins,TO,1712702,Mateiros,Norte,-10.546225,-46.417423
+17,Tocantins,TO,1712801,Maurilândia do Tocantins,Norte,-5.951688,-47.512492
+17,Tocantins,TO,1713205,Miracema do Tocantins,Norte,-9.561794,-48.396654
+17,Tocantins,TO,1713304,Miranorte,Norte,-9.529068,-48.592222
+17,Tocantins,TO,1713601,Monte do Carmo,Norte,-10.762369,-48.110079
+17,Tocantins,TO,1713700,Monte Santo do Tocantins,Norte,-10.005194,-48.992753
+17,Tocantins,TO,1713809,Palmeiras do Tocantins,Norte,-6.609603,-47.546399
+17,Tocantins,TO,1713957,Muricilândia,Norte,-7.14669,-48.609135
+17,Tocantins,TO,1714203,Natividade,Norte,-11.708988,-47.728417
+17,Tocantins,TO,1714302,Nazaré,Norte,-6.373331,-47.66327
+17,Tocantins,TO,1714880,Nova Olinda,Norte,-7.631712,-48.425232
+17,Tocantins,TO,1715002,Nova Rosalândia,Norte,-10.565102,-48.912477
+17,Tocantins,TO,1715101,Novo Acordo,Norte,-9.964658,-47.67628
+17,Tocantins,TO,1715150,Novo Alegre,Norte,-12.915134,-46.574094
+17,Tocantins,TO,1715259,Novo Jardim,Norte,-11.819925,-46.625411
+17,Tocantins,TO,1715507,Oliveira de Fátima,Norte,-10.709136,-48.907745
+17,Tocantins,TO,1715705,Palmeirante,Norte,-7.858233,-47.926438
+17,Tocantins,TO,1715754,Palmeirópolis,Norte,-13.0439615,-48.401716
+17,Tocantins,TO,1716109,Paraíso do Tocantins,Norte,-10.175247,-48.886759
+17,Tocantins,TO,1716208,Paranã,Norte,-12.616747,-47.873378
+17,Tocantins,TO,1716307,Pau D'Arco,Norte,-7.541683,-49.368622
+17,Tocantins,TO,1716505,Pedro Afonso,Norte,-8.975735,-48.173328
+17,Tocantins,TO,1716604,Peixe,Norte,-12.039099,-48.539246
+17,Tocantins,TO,1716653,Pequizeiro,Norte,-8.594846,-48.933278
+17,Tocantins,TO,1716703,Colméia,Norte,-8.734098,-48.75109
+17,Tocantins,TO,1717008,Pindorama do Tocantins,Norte,-11.131074,-47.57263
+17,Tocantins,TO,1717206,Piraquê,Norte,-6.769831,-48.294551
+17,Tocantins,TO,1717503,Pium,Norte,-10.442137,-49.174774
+17,Tocantins,TO,1717800,Ponte Alta do Bom Jesus,Norte,-12.087361,-46.478573
+17,Tocantins,TO,1717909,Ponte Alta do Tocantins,Norte,-10.745459,-47.537448
+17,Tocantins,TO,1718006,Porto Alegre do Tocantins,Norte,-11.60708,-47.052627
+17,Tocantins,TO,1718204,Porto Nacional,Norte,-10.701979,-48.411095
+17,Tocantins,TO,1718303,Praia Norte,Norte,-5.392812,-47.811144
+17,Tocantins,TO,1718402,Presidente Kennedy,Norte,-8.534064,-48.506075
+17,Tocantins,TO,1718451,Pugmil,Norte,-10.425516,-48.896982
+17,Tocantins,TO,1718501,Recursolândia,Norte,-8.736868,-47.241635
+17,Tocantins,TO,1718550,Riachinho,Norte,-6.442637,-48.137969
+17,Tocantins,TO,1718659,Rio da Conceição,Norte,-11.394863,-46.884664
+17,Tocantins,TO,1718709,Rio dos Bois,Norte,-9.341223,-48.534921
+17,Tocantins,TO,1718758,Rio Sono,Norte,-9.344251,-47.899883
+17,Tocantins,TO,1718808,Sampaio,Norte,-5.354233,-47.878184
+17,Tocantins,TO,1718840,Sandolândia,Norte,-12.538946,-49.928596
+17,Tocantins,TO,1718865,Santa Fé do Araguaia,Norte,-7.150072,-48.692594
+17,Tocantins,TO,1718881,Santa Maria do Tocantins,Norte,-8.775214,-47.748296
+17,Tocantins,TO,1718899,Santa Rita do Tocantins,Norte,-10.864362,-48.908298
+17,Tocantins,TO,1718907,Santa Rosa do Tocantins,Norte,-11.447392,-48.121627
+17,Tocantins,TO,1719004,Santa Tereza do Tocantins,Norte,-10.28162,-47.809187
+17,Tocantins,TO,1720002,Santa Terezinha do Tocantins,Norte,-6.435605,-47.673061
+17,Tocantins,TO,1720101,São Bento do Tocantins,Norte,-6.021853,-47.900057
+17,Tocantins,TO,1720150,São Félix do Tocantins,Norte,-10.161465,-46.661786
+17,Tocantins,TO,1720200,São Miguel do Tocantins,Norte,-5.554982,-47.574765
+17,Tocantins,TO,1720259,São Salvador do Tocantins,Norte,-12.750333,-48.235215
+17,Tocantins,TO,1720309,São Sebastião do Tocantins,Norte,-5.258709,-48.205557
+17,Tocantins,TO,1720499,São Valério,Norte,-11.974315,-48.235315
+17,Tocantins,TO,1720655,Silvanópolis,Norte,-11.147099,-48.16937
+17,Tocantins,TO,1720804,Sítio Novo do Tocantins,Norte,-5.602866,-47.63499
+17,Tocantins,TO,1720853,Sucupira,Norte,-11.985088,-48.911369
+17,Tocantins,TO,1720903,Taguatinga,Norte,-12.402404,-46.436577
+17,Tocantins,TO,1720937,Taipas do Tocantins,Norte,-12.193349,-46.9918
+17,Tocantins,TO,1720978,Talismã,Norte,-12.797836,-49.092984
+17,Tocantins,TO,1721000,Palmas,Norte,-10.183785,-48.333642
+17,Tocantins,TO,1721109,Tocantínia,Norte,-9.563198,-48.374104
+17,Tocantins,TO,1721208,Tocantinópolis,Norte,-6.328093,-47.421767
+17,Tocantins,TO,1721257,Tupirama,Norte,-8.974653,-48.188739
+17,Tocantins,TO,1721307,Tupiratins,Norte,-8.399625,-48.129964
+17,Tocantins,TO,1722081,Wanderlândia,Norte,-6.852273,-47.965392
+17,Tocantins,TO,1722107,Xambioá,Norte,-6.408469,-48.533607
+21,Maranhão,MA,2100055,Açailândia,Nordeste,-4.951428,-47.484456
+21,Maranhão,MA,2100105,Afonso Cunha,Nordeste,-4.13261,-43.323003
+21,Maranhão,MA,2100154,Água Doce do Maranhão,Nordeste,-2.8402,-42.118195
+21,Maranhão,MA,2100204,Alcântara,Nordeste,-2.516193,-44.303451
+21,Maranhão,MA,2100303,Aldeias Altas,Nordeste,-4.629196,-43.470862
+21,Maranhão,MA,2100402,Altamira do Maranhão,Nordeste,-4.164301,-45.467457
+21,Maranhão,MA,2100436,Alto Alegre do Maranhão,Nordeste,-4.205569,-44.452529
+21,Maranhão,MA,2100477,Alto Alegre do Pindaré,Nordeste,-3.669819,-45.846215
+21,Maranhão,MA,2100501,Alto Parnaíba,Nordeste,-9.112506,-45.931015
+21,Maranhão,MA,2100550,Amapá do Maranhão,Nordeste,-1.676211,-46.010967
+21,Maranhão,MA,2100600,Amarante do Maranhão,Nordeste,-5.56913,-46.747284
+21,Maranhão,MA,2100709,Anajatuba,Nordeste,-3.26441,-44.617992
+21,Maranhão,MA,2100808,Anapurus,Nordeste,-3.675325,-43.116877
+21,Maranhão,MA,2100832,Apicum-Açu,Nordeste,-1.527929,-45.082278
+21,Maranhão,MA,2100873,Araguanã,Nordeste,-2.95084,-45.665199
+21,Maranhão,MA,2100907,Araioses,Nordeste,-2.890914,-41.904993
+21,Maranhão,MA,2100956,Arame,Nordeste,-4.885877,-46.010248
+21,Maranhão,MA,2101004,Arari,Nordeste,-3.45476,-44.777272
+21,Maranhão,MA,2101103,Axixá,Nordeste,-2.837946,-44.056105
+21,Maranhão,MA,2101202,Bacabal,Nordeste,-4.231813,-44.781167
+21,Maranhão,MA,2101251,Bacabeira,Nordeste,-2.977575,-44.315594
+21,Maranhão,MA,2101301,Bacuri,Nordeste,-1.728894,-45.141715
+21,Maranhão,MA,2101350,Bacurituba,Nordeste,-2.708259,-44.738131
+21,Maranhão,MA,2101400,Balsas,Nordeste,-7.53214,-46.037163
+21,Maranhão,MA,2101509,Barão de Grajaú,Nordeste,-6.7549075,-43.0234365
+21,Maranhão,MA,2101608,Barra do Corda,Nordeste,-5.496823,-45.248496
+21,Maranhão,MA,2101707,Barreirinhas,Nordeste,-2.754127,-42.825969
+21,Maranhão,MA,2101731,Belágua,Nordeste,-3.160403,-43.508505
+21,Maranhão,MA,2101772,Bela Vista do Maranhão,Nordeste,-3.741637,-45.251419
+21,Maranhão,MA,2101806,Benedito Leite,Nordeste,-7.217345,-44.552333
+21,Maranhão,MA,2101905,Bequimão,Nordeste,-2.449538,-44.788489
+21,Maranhão,MA,2101939,Bernardo do Mearim,Nordeste,-4.631593,-44.761751
+21,Maranhão,MA,2101970,Boa Vista do Gurupi,Nordeste,-1.798117,-46.307188
+21,Maranhão,MA,2102002,Bom Jardim,Nordeste,-3.54129,-45.606004
+21,Maranhão,MA,2102036,Bom Jesus das Selvas,Nordeste,-4.487807,-46.852664
+21,Maranhão,MA,2102077,Bom Lugar,Nordeste,-4.372802,-45.036605
+21,Maranhão,MA,2102101,Brejo,Nordeste,-3.68044,-42.752931
+21,Maranhão,MA,2102150,Brejo de Areia,Nordeste,-4.331678,-45.583333
+21,Maranhão,MA,2102200,Buriti,Nordeste,-3.943094,-42.924428
+21,Maranhão,MA,2102309,Buriti Bravo,Nordeste,-5.839188,-43.836788
+21,Maranhão,MA,2102325,Buriticupu,Nordeste,-4.322747,-46.451699
+21,Maranhão,MA,2102358,Buritirana,Nordeste,-5.589745,-47.014892
+21,Maranhão,MA,2102374,Cachoeira Grande,Nordeste,-2.929049,-44.057322
+21,Maranhão,MA,2102408,Cajapió,Nordeste,-2.877871,-44.674687
+21,Maranhão,MA,2102507,Cajari,Nordeste,-3.321308,-45.011876
+21,Maranhão,MA,2102556,Campestre do Maranhão,Nordeste,-6.172911,-47.364051
+21,Maranhão,MA,2102606,Cândido Mendes,Nordeste,-1.453112,-45.727314
+21,Maranhão,MA,2102705,Cantanhede,Nordeste,-3.6355,-44.377874
+21,Maranhão,MA,2102754,Capinzal do Norte,Nordeste,-4.730401,-44.324906
+21,Maranhão,MA,2102804,Carolina,Nordeste,-7.331344,-47.473876
+21,Maranhão,MA,2102903,Carutapera,Nordeste,-1.201664,-46.020562
+21,Maranhão,MA,2103000,Caxias,Nordeste,-4.86542,-43.353664
+21,Maranhão,MA,2103109,Cedral,Nordeste,-1.9987805,-44.534509
+21,Maranhão,MA,2103125,Central do Maranhão,Nordeste,-2.196725,-44.829076
+21,Maranhão,MA,2103158,Centro do Guilherme,Nordeste,-2.451175,-46.039127
+21,Maranhão,MA,2103174,Centro Novo do Maranhão,Nordeste,-2.136103,-46.124853
+21,Maranhão,MA,2103208,Chapadinha,Nordeste,-3.74168,-43.354801
+21,Maranhão,MA,2103257,Cidelândia,Nordeste,-5.174655,-47.783353
+21,Maranhão,MA,2103307,Codó,Nordeste,-4.455623,-43.892354
+21,Maranhão,MA,2103406,Coelho Neto,Nordeste,-4.253515,-43.014932
+21,Maranhão,MA,2103505,Colinas,Nordeste,-6.033263,-44.252854
+21,Maranhão,MA,2103554,Conceição do Lago-Açu,Nordeste,-3.841006,-44.893057
+21,Maranhão,MA,2103604,Coroatá,Nordeste,-4.128228,-44.136027
+21,Maranhão,MA,2103703,Cururupu,Nordeste,-1.824255,-44.872996
+21,Maranhão,MA,2103752,Davinópolis,Nordeste,-5.526577,-47.394222
+21,Maranhão,MA,2103802,Dom Pedro,Nordeste,-5.039828,-44.438572
+21,Maranhão,MA,2103901,Duque Bacelar,Nordeste,-4.1546705,-42.94484
+21,Maranhão,MA,2104008,Esperantinópolis,Nordeste,-4.875187,-44.880103
+21,Maranhão,MA,2104057,Estreito,Nordeste,-6.558302,-47.443221
+21,Maranhão,MA,2104073,Feira Nova do Maranhão,Nordeste,-6.965082,-46.678577
+21,Maranhão,MA,2104081,Fernando Falcão,Nordeste,-6.151246,-44.902244
+21,Maranhão,MA,2104099,Formosa da Serra Negra,Nordeste,-6.44376,-46.190579
+21,Maranhão,MA,2104107,Fortaleza dos Nogueiras,Nordeste,-6.964378,-46.170393
+21,Maranhão,MA,2104206,Fortuna,Nordeste,-5.733147,-44.154276
+21,Maranhão,MA,2104305,Godofredo Viana,Nordeste,-1.415729,-45.773016
+21,Maranhão,MA,2104404,Gonçalves Dias,Nordeste,-5.153287,-44.299707
+21,Maranhão,MA,2104503,Governador Archer,Nordeste,-5.023562,-44.270992
+21,Maranhão,MA,2104552,Governador Edison Lobão,Nordeste,-5.74567,-47.363091
+21,Maranhão,MA,2104602,Governador Eugênio Barros,Nordeste,-5.320026,-44.244058
+21,Maranhão,MA,2104628,Governador Luiz Rocha,Nordeste,-5.470776,-44.072057
+21,Maranhão,MA,2104651,Governador Newton Bello,Nordeste,-3.428591,-45.67143
+21,Maranhão,MA,2104677,Governador Nunes Freire,Nordeste,-2.130396,-45.89005
+21,Maranhão,MA,2104701,Graça Aranha,Nordeste,-5.406352,-44.33271
+21,Maranhão,MA,2104800,Grajaú,Nordeste,-5.804018,-46.118345
+21,Maranhão,MA,2104909,Guimarães,Nordeste,-2.127551,-44.60199
+21,Maranhão,MA,2105005,Humberto de Campos,Nordeste,-2.598282,-43.464877
+21,Maranhão,MA,2105104,Icatu,Nordeste,-2.772065,-44.050061
+21,Maranhão,MA,2105153,Igarapé do Meio,Nordeste,-3.639781,-45.187284
+21,Maranhão,MA,2105203,Igarapé Grande,Nordeste,-4.662808,-44.855901
+21,Maranhão,MA,2105302,Imperatriz,Nordeste,-5.526928,-47.478115
+21,Maranhão,MA,2105351,Itaipava do Grajaú,Nordeste,-5.142147,-45.787857
+21,Maranhão,MA,2105401,Itapecuru Mirim,Nordeste,-3.397357,-44.356072
+21,Maranhão,MA,2105427,Itinga do Maranhão,Nordeste,-4.452925,-47.525373
+21,Maranhão,MA,2105450,Jatobá,Nordeste,-5.819539,-44.223188
+21,Maranhão,MA,2105476,Jenipapo dos Vieiras,Nordeste,-5.367981,-45.634827
+21,Maranhão,MA,2105500,João Lisboa,Nordeste,-5.44363,-47.406388
+21,Maranhão,MA,2105609,Joselândia,Nordeste,-4.986005,-44.696953
+21,Maranhão,MA,2105658,Junco do Maranhão,Nordeste,-1.879913,-46.072669
+21,Maranhão,MA,2105708,Lago da Pedra,Nordeste,-4.562727,-45.129863
+21,Maranhão,MA,2105807,Lago do Junco,Nordeste,-4.607172,-45.052949
+21,Maranhão,MA,2105906,Lago Verde,Nordeste,-4.042525,-44.936478
+21,Maranhão,MA,2105922,Lagoa do Mato,Nordeste,-6.04865,-43.527391
+21,Maranhão,MA,2105948,Lago dos Rodrigues,Nordeste,-4.611917,-44.980042
+21,Maranhão,MA,2105963,Lagoa Grande do Maranhão,Nordeste,-4.989425,-45.381508
+21,Maranhão,MA,2105989,Lajeado Novo,Nordeste,-6.189878,-47.032597
+21,Maranhão,MA,2106003,Lima Campos,Nordeste,-4.5203095,-44.4664565
+21,Maranhão,MA,2106102,Loreto,Nordeste,-7.0854045,-45.1404245
+21,Maranhão,MA,2106201,Luís Domingues,Nordeste,-1.326626,-45.897621
+21,Maranhão,MA,2106300,Magalhães de Almeida,Nordeste,-3.392319,-42.211743
+21,Maranhão,MA,2106326,Maracaçumé,Nordeste,-2.048756,-45.961446
+21,Maranhão,MA,2106359,Marajá do Sena,Nordeste,-4.6214,-45.453957
+21,Maranhão,MA,2106375,Maranhãozinho,Nordeste,-2.242932,-45.858898
+21,Maranhão,MA,2106409,Mata Roma,Nordeste,-3.6245605000000003,-43.1119705
+21,Maranhão,MA,2106508,Matinha,Nordeste,-3.102212,-45.032208
+21,Maranhão,MA,2106607,Matões,Nordeste,-5.519467499999999,-43.2001615
+21,Maranhão,MA,2106631,Matões do Norte,Nordeste,-3.626888,-44.554754
+21,Maranhão,MA,2106672,Milagres do Maranhão,Nordeste,-3.58156,-42.608036
+21,Maranhão,MA,2106706,Mirador,Nordeste,-6.370399,-44.362106
+21,Maranhão,MA,2106755,Miranda do Norte,Nordeste,-3.565346,-44.580913
+21,Maranhão,MA,2106805,Mirinzal,Nordeste,-2.066454,-44.783735
+21,Maranhão,MA,2106904,Monção,Nordeste,-3.484204,-45.251547
+21,Maranhão,MA,2107001,Montes Altos,Nordeste,-5.831673,-47.0658
+21,Maranhão,MA,2107100,Morros,Nordeste,-2.86522,-44.039048
+21,Maranhão,MA,2107209,Nina Rodrigues,Nordeste,-3.467884,-43.91342
+21,Maranhão,MA,2107258,Nova Colinas,Nordeste,-7.11969,-46.261097
+21,Maranhão,MA,2107308,Nova Iorque,Nordeste,-6.735707,-44.046151
+21,Maranhão,MA,2107357,Nova Olinda do Maranhão,Nordeste,-2.811096,-45.703058
+21,Maranhão,MA,2107407,Olho d'Água das Cunhãs,Nordeste,-4.140311,-45.118469
+21,Maranhão,MA,2107456,Olinda Nova do Maranhão,Nordeste,-2.996026,-44.994682
+21,Maranhão,MA,2107506,Paço do Lumiar,Nordeste,-2.53259,-44.15911
+21,Maranhão,MA,2107605,Palmeirândia,Nordeste,-2.647417,-44.898378
+21,Maranhão,MA,2107704,Paraibano,Nordeste,-6.431693,-43.987704
+21,Maranhão,MA,2107803,Parnarama,Nordeste,-5.682368,-43.089535
+21,Maranhão,MA,2107902,Passagem Franca,Nordeste,-6.177451,-43.775511
+21,Maranhão,MA,2108009,Pastos Bons,Nordeste,-6.6014,-44.087812
+21,Maranhão,MA,2108058,Paulino Neves,Nordeste,-2.722736,-42.539765
+21,Maranhão,MA,2108108,Paulo Ramos,Nordeste,-4.449109,-45.242035
+21,Maranhão,MA,2108207,Pedreiras,Nordeste,-4.568799,-44.600303
+21,Maranhão,MA,2108256,Pedro do Rosário,Nordeste,-2.972719,-45.349316
+21,Maranhão,MA,2108306,Penalva,Nordeste,-3.288121,-45.174209
+21,Maranhão,MA,2108405,Peri Mirim,Nordeste,-2.576848,-44.855621
+21,Maranhão,MA,2108454,Peritoró,Nordeste,-4.372364,-44.331746
+21,Maranhão,MA,2108504,Pindaré-Mirim,Nordeste,-3.612787,-45.338745
+21,Maranhão,MA,2108603,Pinheiro,Nordeste,-2.527046,-45.086646
+21,Maranhão,MA,2108702,Pio XII,Nordeste,-3.891122,-45.171028
+21,Maranhão,MA,2108801,Pirapemas,Nordeste,-3.727056,-44.226743
+21,Maranhão,MA,2108900,Poção de Pedras,Nordeste,-4.751125,-44.943051
+21,Maranhão,MA,2109007,Porto Franco,Nordeste,-6.34149,-47.396188
+21,Maranhão,MA,2109056,Porto Rico do Maranhão,Nordeste,-1.861934,-44.592527
+21,Maranhão,MA,2109106,Presidente Dutra,Nordeste,-5.289801,-44.49498
+21,Maranhão,MA,2109205,Presidente Juscelino,Nordeste,-2.926274,-44.065378
+21,Maranhão,MA,2109239,Presidente Médici,Nordeste,-2.376461,-45.820731
+21,Maranhão,MA,2109270,Presidente Sarney,Nordeste,-2.590756,-45.362365
+21,Maranhão,MA,2109304,Presidente Vargas,Nordeste,-3.406517,-44.027051
+21,Maranhão,MA,2109403,Primeira Cruz,Nordeste,-2.507672,-43.438592
+21,Maranhão,MA,2109452,Raposa,Nordeste,-2.444764,-44.109431
+21,Maranhão,MA,2109502,Riachão,Nordeste,-7.364256,-46.62261
+21,Maranhão,MA,2109551,Ribamar Fiquene,Nordeste,-5.930666,-47.388777
+21,Maranhão,MA,2109601,Rosário,Nordeste,-2.94059,-44.249109
+21,Maranhão,MA,2109700,Sambaíba,Nordeste,-7.134473,-45.351506
+21,Maranhão,MA,2109759,Santa Filomena do Maranhão,Nordeste,-5.498196,-44.558146
+21,Maranhão,MA,2109809,Santa Helena,Nordeste,-2.23121875,-45.30042225
+21,Maranhão,MA,2109908,Santa Inês,Nordeste,-3.664782,-45.382687
+21,Maranhão,MA,2110005,Santa Luzia,Nordeste,-3.963367,-45.663796
+21,Maranhão,MA,2110039,Santa Luzia do Paruá,Nordeste,-2.546859,-45.775303
+21,Maranhão,MA,2110104,Santa Quitéria do Maranhão,Nordeste,-3.496756,-42.563878
+21,Maranhão,MA,2110203,Santa Rita,Nordeste,-3.141115,-44.327029
+21,Maranhão,MA,2110237,Santana do Maranhão,Nordeste,-3.115658,-42.412354
+21,Maranhão,MA,2110278,Santo Amaro do Maranhão,Nordeste,-2.504092,-43.254455
+21,Maranhão,MA,2110302,Santo Antônio dos Lopes,Nordeste,-4.866134,-44.365278
+21,Maranhão,MA,2110401,São Benedito do Rio Preto,Nordeste,-3.330667,-43.526407
+21,Maranhão,MA,2110500,São Bento,Nordeste,-2.699909,-44.833125
+21,Maranhão,MA,2110609,São Bernardo,Nordeste,-3.365027,-42.422481
+21,Maranhão,MA,2110658,São Domingos do Azeitão,Nordeste,-6.810868,-44.644571
+21,Maranhão,MA,2110708,São Domingos do Maranhão,Nordeste,-5.579974,-44.384162
+21,Maranhão,MA,2110807,São Félix de Balsas,Nordeste,-7.083459,-44.813933
+21,Maranhão,MA,2110856,São Francisco do Brejão,Nordeste,-5.124869,-47.387187
+21,Maranhão,MA,2110906,São Francisco do Maranhão,Nordeste,-6.249397,-42.858119
+21,Maranhão,MA,2111003,São João Batista,Nordeste,-2.958206,-44.798482
+21,Maranhão,MA,2111029,São João do Carú,Nordeste,-3.555676,-46.25698
+21,Maranhão,MA,2111052,São João do Paraíso,Nordeste,-6.463794,-47.056794
+21,Maranhão,MA,2111078,São João do Soter,Nordeste,-5.112232,-43.810927
+21,Maranhão,MA,2111102,São João dos Patos,Nordeste,-6.4934,-43.703623
+21,Maranhão,MA,2111201,São José de Ribamar,Nordeste,-2.560911,-44.055951
+21,Maranhão,MA,2111250,São José dos Basílios,Nordeste,-5.053069,-44.584321
+21,Maranhão,MA,2111300,São Luís,Nordeste,-2.56346,-44.244872
+21,Maranhão,MA,2111409,São Luís Gonzaga do Maranhão,Nordeste,-4.372746,-44.669037
+21,Maranhão,MA,2111508,São Mateus do Maranhão,Nordeste,-4.028917,-44.466734
+21,Maranhão,MA,2111532,São Pedro da Água Branca,Nordeste,-5.083403,-48.429918
+21,Maranhão,MA,2111573,São Pedro dos Crentes,Nordeste,-6.823889,-46.531864
+21,Maranhão,MA,2111607,São Raimundo das Mangabeiras,Nordeste,-7.023608,-45.476944
+21,Maranhão,MA,2111631,São Raimundo do Doca Bezerra,Nordeste,-5.104278,-45.084712
+21,Maranhão,MA,2111672,São Roberto,Nordeste,-5.018848,-44.992506
+21,Maranhão,MA,2111706,São Vicente Ferrer,Nordeste,-2.892745,-44.880363
+21,Maranhão,MA,2111722,Satubinha,Nordeste,-3.847807,-45.256371
+21,Maranhão,MA,2111748,Senador Alexandre Costa,Nordeste,-5.259744,-44.05424
+21,Maranhão,MA,2111763,Senador La Rocque,Nordeste,-5.444432,-47.2921
+21,Maranhão,MA,2111789,Serrano do Maranhão,Nordeste,-1.853572,-45.115886
+21,Maranhão,MA,2111805,Sítio Novo,Nordeste,-5.881254,-46.701718
+21,Maranhão,MA,2111904,Sucupira do Norte,Nordeste,-6.478392,-44.191889
+21,Maranhão,MA,2111953,Sucupira do Riachão,Nordeste,-6.413616,-43.545343
+21,Maranhão,MA,2112001,Tasso Fragoso,Nordeste,-8.472935,-45.74618
+21,Maranhão,MA,2112100,Timbiras,Nordeste,-4.255106,-43.938621
+21,Maranhão,MA,2112209,Timon,Nordeste,-5.102332,-42.844952
+21,Maranhão,MA,2112233,Trizidela do Vale,Nordeste,-4.569482,-44.614421
+21,Maranhão,MA,2112274,Tufilândia,Nordeste,-3.673413,-45.635701
+21,Maranhão,MA,2112308,Tuntum,Nordeste,-5.263088,-44.64485
+21,Maranhão,MA,2112407,Turiaçu,Nordeste,-1.671065,-45.36841
+21,Maranhão,MA,2112456,Turilândia,Nordeste,-2.222692,-45.306131
+21,Maranhão,MA,2112506,Tutóia,Nordeste,-2.761413,-42.275531
+21,Maranhão,MA,2112605,Urbano Santos,Nordeste,-3.203623,-43.392911
+21,Maranhão,MA,2112704,Vargem Grande,Nordeste,-3.544361,-43.914913
+21,Maranhão,MA,2112803,Viana,Nordeste,-3.209934,-45.000246
+21,Maranhão,MA,2112852,Vila Nova dos Martírios,Nordeste,-5.187941,-48.137791
+21,Maranhão,MA,2112902,Vitória do Mearim,Nordeste,-3.462288,-44.869715
+21,Maranhão,MA,2113009,Vitorino Freire,Nordeste,-4.28853,-45.241758
+21,Maranhão,MA,2114007,Zé Doca,Nordeste,-3.270145,-45.655344
+22,Piauí,PI,2200053,Acauã,Nordeste,-8.219542,-41.083059
+22,Piauí,PI,2200103,Agricolândia,Nordeste,-5.798424,-42.66183
+22,Piauí,PI,2200202,Água Branca,Nordeste,-5.891392,-42.636115
+22,Piauí,PI,2200251,Alagoinha do Piauí,Nordeste,-7.009095,-40.939675
+22,Piauí,PI,2200277,Alegrete do Piauí,Nordeste,-7.244014,-40.86023
+22,Piauí,PI,2200301,Alto Longá,Nordeste,-2.9147926,-41.782372
+22,Piauí,PI,2200400,Altos,Nordeste,-5.039391,-42.461169
+22,Piauí,PI,2200459,Alvorada do Gurguéia,Nordeste,-8.446529,-43.865592
+22,Piauí,PI,2200509,Amarante,Nordeste,-6.24679,-42.854452
+22,Piauí,PI,2200608,Angical do Piauí,Nordeste,-6.087267,-42.736614
+22,Piauí,PI,2200707,Anísio de Abreu,Nordeste,-2.9101542,-41.78143
+22,Piauí,PI,2200806,Antônio Almeida,Nordeste,-7.218602,-44.195025
+22,Piauí,PI,2200905,Aroazes,Nordeste,-6.110911,-41.788179
+22,Piauí,PI,2200954,Aroeiras do Itaim,Nordeste,-7.279703,-41.562968
+22,Piauí,PI,2201002,Arraial,Nordeste,-6.654163,-42.533533
+22,Piauí,PI,2201051,Assunção do Piauí,Nordeste,-5.861021,-41.048509
+22,Piauí,PI,2201101,Avelino Lopes,Nordeste,-10.134685,-43.948953
+22,Piauí,PI,2201150,Baixa Grande do Ribeiro,Nordeste,-7.862861,-45.211329
+22,Piauí,PI,2201176,Barra D'Alcântara,Nordeste,-6.520926,-42.107109
+22,Piauí,PI,2201200,Barras,Nordeste,-4.24639975,-42.2947195
+22,Piauí,PI,2201309,Barreiras do Piauí,Nordeste,-9.922452,-45.476378
+22,Piauí,PI,2201408,Barro Duro,Nordeste,-5.818014,-42.510659
+22,Piauí,PI,2201507,Batalha,Nordeste,-4.022391,-42.078093
+22,Piauí,PI,2201556,Bela Vista do Piauí,Nordeste,-7.971635,-41.871506
+22,Piauí,PI,2201572,Belém do Piauí,Nordeste,-7.37673,-40.971216
+22,Piauí,PI,2201606,Beneditinos,Nordeste,-5.456567,-42.360506
+22,Piauí,PI,2201705,Bertolínia,Nordeste,-7.637216,-43.954061
+22,Piauí,PI,2201739,Betânia do Piauí,Nordeste,-8.146063,-40.796139
+22,Piauí,PI,2201770,Boa Hora,Nordeste,-4.409733,-42.125365
+22,Piauí,PI,2201804,Bocaina,Nordeste,-6.944594,-41.32246
+22,Piauí,PI,2201903,Bom Jesus,Nordeste,-9.071164,-44.358393
+22,Piauí,PI,2201919,Bom Princípio do Piauí,Nordeste,-3.191278,-41.643019
+22,Piauí,PI,2201929,Bonfim do Piauí,Nordeste,-9.164868,-42.873442
+22,Piauí,PI,2201945,Boqueirão do Piauí,Nordeste,-4.485015,-42.109516
+22,Piauí,PI,2201960,Brasileira,Nordeste,-4.131182,-41.782497
+22,Piauí,PI,2201988,Brejo do Piauí,Nordeste,-8.207583,-42.835985
+22,Piauí,PI,2202000,Buriti dos Lopes,Nordeste,-3.1751657499999997,-41.86739875
+22,Piauí,PI,2202026,Buriti dos Montes,Nordeste,-5.313617,-41.097126
+22,Piauí,PI,2202059,Cabeceiras do Piauí,Nordeste,-4.473366,-42.309872
+22,Piauí,PI,2202075,Cajazeiras do Piauí,Nordeste,-6.794271,-42.393502
+22,Piauí,PI,2202083,Cajueiro da Praia,Nordeste,-2.92896,-41.338162
+22,Piauí,PI,2202091,Caldeirão Grande do Piauí,Nordeste,-7.331039,-40.637443
+22,Piauí,PI,2202109,Campinas do Piauí,Nordeste,-7.659369,-41.881488
+22,Piauí,PI,2202117,Campo Alegre do Fidalgo,Nordeste,-8.375385,-41.836419
+22,Piauí,PI,2202133,Campo Grande do Piauí,Nordeste,-7.132756,-41.038116
+22,Piauí,PI,2202174,Campo Largo do Piauí,Nordeste,-3.810473,-42.628833
+22,Piauí,PI,2202208,Campo Maior,Nordeste,-2.9203282,-41.7681261
+22,Piauí,PI,2202251,Canavieira,Nordeste,-7.692404,-43.719006
+22,Piauí,PI,2202307,Canto do Buriti,Nordeste,-8.111247,-42.944844
+22,Piauí,PI,2202406,Capitão de Campos,Nordeste,-4.45842,-41.94153
+22,Piauí,PI,2202455,Capitão Gervásio Oliveira,Nordeste,-8.495466,-41.816934
+22,Piauí,PI,2202505,Caracol,Nordeste,-9.28049,-43.328492
+22,Piauí,PI,2202539,Caraúbas do Piauí,Nordeste,-3.476009,-41.841219
+22,Piauí,PI,2202554,Caridade do Piauí,Nordeste,-7.733106,-40.988367
+22,Piauí,PI,2202604,Castelo do Piauí,Nordeste,-5.323043,-41.554619
+22,Piauí,PI,2202653,Caxingó,Nordeste,-3.42084,-41.892564
+22,Piauí,PI,2202703,Cocal,Nordeste,-3.469188,-41.555851
+22,Piauí,PI,2202711,Cocal de Telha,Nordeste,-4.555365,-41.972243
+22,Piauí,PI,2202729,Cocal dos Alves,Nordeste,-3.59964,-41.444741
+22,Piauí,PI,2202737,Coivaras,Nordeste,-5.0927,-42.205249
+22,Piauí,PI,2202752,Colônia do Gurguéia,Nordeste,-8.183697,-43.793999
+22,Piauí,PI,2202778,Colônia do Piauí,Nordeste,-7.232027,-42.177712
+22,Piauí,PI,2202802,Conceição do Canindé,Nordeste,-7.877402,-41.596142
+22,Piauí,PI,2202851,Coronel José Dias,Nordeste,-8.825232,-42.478295
+22,Piauí,PI,2202901,Corrente,Nordeste,-10.440136,-45.162747
+22,Piauí,PI,2203008,Cristalândia do Piauí,Nordeste,-10.652589,-45.184741
+22,Piauí,PI,2203107,Cristino Castro,Nordeste,-8.816393,-44.221106
+22,Piauí,PI,2203206,Curimatá,Nordeste,-10.0349,-44.303311
+22,Piauí,PI,2203230,Currais,Nordeste,-9.01468,-44.399928
+22,Piauí,PI,2203255,Curralinhos,Nordeste,-5.61904,-42.828002
+22,Piauí,PI,2203271,Curral Novo do Piauí,Nordeste,-7.83165,-40.90069
+22,Piauí,PI,2203305,Demerval Lobão,Nordeste,-5.364064,-42.673993
+22,Piauí,PI,2203354,Dirceu Arcoverde,Nordeste,-2.93,-41.75
+22,Piauí,PI,2203404,Dom Expedito Lopes,Nordeste,-6.964493,-41.648155
+22,Piauí,PI,2203420,Domingos Mourão,Nordeste,-4.254473,-41.27229
+22,Piauí,PI,2203453,Dom Inocêncio,Nordeste,-9.000917,-41.974038
+22,Piauí,PI,2203503,Elesbão Veloso,Nordeste,-6.203265,-42.137694
+22,Piauí,PI,2203602,Eliseu Martins,Nordeste,-8.098414,-43.663707
+22,Piauí,PI,2203701,Esperantina,Nordeste,-3.895096,-42.23706
+22,Piauí,PI,2203750,Fartura do Piauí,Nordeste,-9.483917,-42.790689
+22,Piauí,PI,2203800,Flores do Piauí,Nordeste,-7.791715,-42.923616
+22,Piauí,PI,2203859,Floresta do Piauí,Nordeste,-7.467947,-41.800522
+22,Piauí,PI,2203909,Floriano,Nordeste,-6.772653,-43.007062
+22,Piauí,PI,2204006,Francinópolis,Nordeste,-6.396277,-42.263565
+22,Piauí,PI,2204105,Francisco Ayres,Nordeste,-2.9068016,-41.7729346
+22,Piauí,PI,2204154,Francisco Macedo,Nordeste,-7.32768,-40.791433
+22,Piauí,PI,2204204,Francisco Santos,Nordeste,-6.994475,-41.134555
+22,Piauí,PI,2204303,Fronteiras,Nordeste,-7.088607,-40.614725
+22,Piauí,PI,2204352,Geminiano,Nordeste,-7.158096,-41.362594
+22,Piauí,PI,2204402,Gilbués,Nordeste,-9.829549,-45.338993
+22,Piauí,PI,2204501,Guadalupe,Nordeste,-6.787977,-43.570816
+22,Piauí,PI,2204550,Guaribas,Nordeste,-9.395737,-43.687797
+22,Piauí,PI,2204600,Hugo Napoleão,Nordeste,-5.989919,-42.559322
+22,Piauí,PI,2204659,Ilha Grande,Nordeste,-2.852008,-41.81669
+22,Piauí,PI,2204709,Inhuma,Nordeste,-6.66945,-41.709601
+22,Piauí,PI,2204808,Ipiranga do Piauí,Nordeste,-6.824083,-41.737728
+22,Piauí,PI,2204907,Isaías Coelho,Nordeste,-7.73592,-41.676531
+22,Piauí,PI,2205003,Itainópolis,Nordeste,-7.448342,-41.479665
+22,Piauí,PI,2205102,Itaueira,Nordeste,-7.599109,-43.027878
+22,Piauí,PI,2205151,Jacobina do Piauí,Nordeste,-7.935649,-41.210682
+22,Piauí,PI,2205201,Jaicós,Nordeste,-7.358479,-41.144606
+22,Piauí,PI,2205250,Jardim do Mulato,Nordeste,-6.095381,-42.636034
+22,Piauí,PI,2205276,Jatobá do Piauí,Nordeste,-4.77002,-41.818163
+22,Piauí,PI,2205300,Jerumenha,Nordeste,-7.088034,-43.507845
+22,Piauí,PI,2205359,João Costa,Nordeste,-8.488736,-42.41747
+22,Piauí,PI,2205409,Joaquim Pires,Nordeste,-3.508313,-42.192543
+22,Piauí,PI,2205458,Joca Marques,Nordeste,-3.498639,-42.431773
+22,Piauí,PI,2205508,José de Freitas,Nordeste,-4.757836,-42.576378
+22,Piauí,PI,2205516,Juazeiro do Piauí,Nordeste,-5.170958,-41.707015
+22,Piauí,PI,2205524,Júlio Borges,Nordeste,-10.327367,-44.239733
+22,Piauí,PI,2205532,Jurema,Nordeste,-9.222111,-43.129339
+22,Piauí,PI,2205540,Lagoinha do Piauí,Nordeste,-5.832403,-42.623671
+22,Piauí,PI,2205557,Lagoa Alegre,Nordeste,-4.513496,-42.623481
+22,Piauí,PI,2205565,Lagoa do Barro do Piauí,Nordeste,-8.479894,-41.529578
+22,Piauí,PI,2205573,Lagoa de São Francisco,Nordeste,-4.3910975,-41.600986500000005
+22,Piauí,PI,2205581,Lagoa do Piauí,Nordeste,-5.411654,-42.645059
+22,Piauí,PI,2205599,Lagoa do Sítio,Nordeste,-6.516986,-41.572213
+22,Piauí,PI,2205607,Landri Sales,Nordeste,-7.260908,-43.931102
+22,Piauí,PI,2205706,Luís Correia,Nordeste,-2.9054084,-41.7819654
+22,Piauí,PI,2205805,Luzilândia,Nordeste,-3.464889,-42.368953
+22,Piauí,PI,2205854,Madeiro,Nordeste,-3.483404,-42.499463
+22,Piauí,PI,2205904,Manoel Emídio,Nordeste,-8.005402,-43.873032
+22,Piauí,PI,2205953,Marcolândia,Nordeste,-7.440418,-40.665097
+22,Piauí,PI,2206001,Marcos Parente,Nordeste,-7.121643,-43.889225
+22,Piauí,PI,2206050,Massapê do Piauí,Nordeste,-7.462804,-41.126083
+22,Piauí,PI,2206100,Matias Olímpio,Nordeste,-3.715064,-42.554793
+22,Piauí,PI,2206209,Miguel Alves,Nordeste,-4.173038,-42.895568
+22,Piauí,PI,2206308,Miguel Leão,Nordeste,-5.681461,-42.73717
+22,Piauí,PI,2206357,Milton Brandão,Nordeste,-4.702352,-41.447377
+22,Piauí,PI,2206407,Monsenhor Gil,Nordeste,-5.56091,-42.612772
+22,Piauí,PI,2206506,Monsenhor Hipólito,Nordeste,-6.997268,-41.029733
+22,Piauí,PI,2206605,Monte Alegre do Piauí,Nordeste,-9.748337,-45.304812
+22,Piauí,PI,2206654,Morro Cabeça no Tempo,Nordeste,-9.723685,-43.90377
+22,Piauí,PI,2206670,Morro do Chapéu do Piauí,Nordeste,-3.741583,-42.311714
+22,Piauí,PI,2206696,Murici dos Portelas,Nordeste,-3.32228,-42.090434
+22,Piauí,PI,2206704,Nazaré do Piauí,Nordeste,-6.970974,-42.670768
+22,Piauí,PI,2206720,Nazária,Nordeste,-5.351285,-42.815282
+22,Piauí,PI,2206753,Nossa Senhora de Nazaré,Nordeste,-4.633363,-42.171634
+22,Piauí,PI,2206803,Nossa Senhora dos Remédios,Nordeste,-3.979264,-42.621679
+22,Piauí,PI,2206902,Novo Oriente do Piauí,Nordeste,-6.450426,-41.921957
+22,Piauí,PI,2206951,Novo Santo Antônio,Nordeste,-5.287011,-41.935994
+22,Piauí,PI,2207009,Oeiras,Nordeste,-7.017489,-42.131448
+22,Piauí,PI,2207108,Olho D'Água do Piauí,Nordeste,-5.848546,-42.57378
+22,Piauí,PI,2207207,Padre Marcos,Nordeste,-7.353453,-40.906395
+22,Piauí,PI,2207306,Paes Landim,Nordeste,-7.778162,-42.255227
+22,Piauí,PI,2207355,Pajeú do Piauí,Nordeste,-7.855242,-42.822076
+22,Piauí,PI,2207405,Palmeira do Piauí,Nordeste,-8.72521,-44.235523
+22,Piauí,PI,2207504,Palmeirais,Nordeste,-5.976143,-43.063716
+22,Piauí,PI,2207553,Paquetá,Nordeste,-7.104121,-41.703037
+22,Piauí,PI,2207603,Parnaguá,Nordeste,-10.224027,-44.637437
+22,Piauí,PI,2207702,Parnaíba,Nordeste,-2.914751,-41.766195
+22,Piauí,PI,2207751,Passagem Franca do Piauí,Nordeste,-5.857482,-42.440245
+22,Piauí,PI,2207777,Patos do Piauí,Nordeste,-7.679955,-41.245425
+22,Piauí,PI,2207793,Pau D'Arco do Piauí,Nordeste,-5.252226,-42.388402
+22,Piauí,PI,2207801,Paulistana,Nordeste,-8.138917,-41.138053
+22,Piauí,PI,2207850,Pavussu,Nordeste,-7.964611,-43.223203
+22,Piauí,PI,2207900,Pedro II,Nordeste,-4.425267,-41.458407
+22,Piauí,PI,2207934,Pedro Laurentino,Nordeste,-8.066055,-42.287462
+22,Piauí,PI,2207959,Nova Santa Rita,Nordeste,-8.07397,-42.050473
+22,Piauí,PI,2208007,Picos,Nordeste,-7.082354,-41.468505
+22,Piauí,PI,2208106,Pimenteiras,Nordeste,-6.23661,-41.419295
+22,Piauí,PI,2208205,Pio IX,Nordeste,-6.835192,-40.614865
+22,Piauí,PI,2208304,Piracuruca,Nordeste,-3.935808,-41.715404
+22,Piauí,PI,2208403,Piripiri,Nordeste,-4.273234,-41.778517
+22,Piauí,PI,2208502,Porto,Nordeste,-3.892907,-42.707834
+22,Piauí,PI,2208551,Porto Alegre do Piauí,Nordeste,-6.971725,-44.19651
+22,Piauí,PI,2208601,Prata do Piauí,Nordeste,-5.668303,-42.203324
+22,Piauí,PI,2208650,Queimada Nova,Nordeste,-8.580514,-41.417353
+22,Piauí,PI,2208700,Redenção do Gurguéia,Nordeste,-9.4862,-44.584018
+22,Piauí,PI,2208809,Regeneração,Nordeste,-6.231855,-42.68609
+22,Piauí,PI,2208858,Riacho Frio,Nordeste,-10.129828,-44.952708
+22,Piauí,PI,2208874,Ribeira do Piauí,Nordeste,-7.691299,-42.7131
+22,Piauí,PI,2208908,Ribeiro Gonçalves,Nordeste,-7.560313,-45.241715
+22,Piauí,PI,2209005,Rio Grande do Piauí,Nordeste,-7.776759,-43.140007
+22,Piauí,PI,2209104,Santa Cruz do Piauí,Nordeste,-7.182731,-41.765702
+22,Piauí,PI,2209153,Santa Cruz dos Milagres,Nordeste,-5.801965,-41.959055
+22,Piauí,PI,2209203,Santa Filomena,Nordeste,-9.117691,-45.919955
+22,Piauí,PI,2209302,Santa Luz,Nordeste,-8.95052,-44.1313
+22,Piauí,PI,2209351,Santana do Piauí,Nordeste,-6.945808,-41.519028
+22,Piauí,PI,2209377,Santa Rosa do Piauí,Nordeste,-6.79834,-42.279941
+22,Piauí,PI,2209401,Santo Antônio de Lisboa,Nordeste,-6.983143,-41.228388
+22,Piauí,PI,2209450,Santo Antônio dos Milagres,Nordeste,-6.047544,-42.711739
+22,Piauí,PI,2209500,Santo Inácio do Piauí,Nordeste,-7.422472,-41.9146
+22,Piauí,PI,2209559,São Braz do Piauí,Nordeste,-9.065002,-42.99828
+22,Piauí,PI,2209609,São Félix do Piauí,Nordeste,-5.932441,-42.111987
+22,Piauí,PI,2209658,São Francisco de Assis do Piauí,Nordeste,-8.237476,-41.686332
+22,Piauí,PI,2209708,São Francisco do Piauí,Nordeste,-7.246049,-42.541402
+22,Piauí,PI,2209757,São Gonçalo do Gurguéia,Nordeste,-10.030302,-45.303283
+22,Piauí,PI,2209807,São Gonçalo do Piauí,Nordeste,-5.997007,-42.704176
+22,Piauí,PI,2209856,São João da Canabrava,Nordeste,-6.817569,-41.346172
+22,Piauí,PI,2209872,São João da Fronteira,Nordeste,-3.939021,-41.259211
+22,Piauí,PI,2209906,São João da Serra,Nordeste,-5.516379,-41.896708
+22,Piauí,PI,2209955,São João da Varjota,Nordeste,-6.915792,-41.863761
+22,Piauí,PI,2209971,São João do Arraial,Nordeste,-3.812652,-42.450815
+22,Piauí,PI,2210003,São João do Piauí,Nordeste,-8.360143,-42.248764
+22,Piauí,PI,2210052,São José do Divino,Nordeste,-3.810854,-41.829755
+22,Piauí,PI,2210102,São José do Peixe,Nordeste,-7.493817,-42.56613
+22,Piauí,PI,2210201,São José do Piauí,Nordeste,-6.872557,-41.477286
+22,Piauí,PI,2210300,São Julião,Nordeste,-7.083441,-40.836241
+22,Piauí,PI,2210359,São Lourenço do Piauí,Nordeste,-9.168097,-42.545289
+22,Piauí,PI,2210375,São Luis do Piauí,Nordeste,-6.825609,-41.322949
+22,Piauí,PI,2210383,São Miguel da Baixa Grande,Nordeste,-5.864828,-42.186433
+22,Piauí,PI,2210391,São Miguel do Fidalgo,Nordeste,-7.583411,-42.370945
+22,Piauí,PI,2210409,São Miguel do Tapuio,Nordeste,-5.501526,-41.321428
+22,Piauí,PI,2210508,São Pedro do Piauí,Nordeste,-5.923768,-42.719511
+22,Piauí,PI,2210607,São Raimundo Nonato,Nordeste,-9.015052,-42.688691
+22,Piauí,PI,2210623,Sebastião Barros,Nordeste,-10.814912,-44.833074
+22,Piauí,PI,2210631,Sebastião Leal,Nordeste,-7.567951,-44.064836
+22,Piauí,PI,2210656,Sigefredo Pacheco,Nordeste,-4.914878,-41.730415
+22,Piauí,PI,2210706,Simões,Nordeste,-7.597047,-40.8176
+22,Piauí,PI,2210805,Simplício Mendes,Nordeste,-7.860528,-41.908118
+22,Piauí,PI,2210904,Socorro do Piauí,Nordeste,-7.863188,-42.499469
+22,Piauí,PI,2210938,Sussuapara,Nordeste,-7.011026,-41.383004
+22,Piauí,PI,2210953,Tamboril do Piauí,Nordeste,-8.400782,-42.911279
+22,Piauí,PI,2210979,Tanque do Piauí,Nordeste,-6.597168,-42.284032
+22,Piauí,PI,2211001,Teresina,Nordeste,-5.08964,-42.809588
+22,Piauí,PI,2211100,União,Nordeste,-4.589255,-42.859335
+22,Piauí,PI,2211209,Uruçuí,Nordeste,-7.231351,-44.555617
+22,Piauí,PI,2211308,Valença do Piauí,Nordeste,-6.404815,-41.738281
+22,Piauí,PI,2211357,Várzea Branca,Nordeste,-9.237188,-42.964378
+22,Piauí,PI,2211407,Várzea Grande,Nordeste,-6.546083,-42.24804
+22,Piauí,PI,2211506,Vera Mendes,Nordeste,-7.604163,-41.482789
+22,Piauí,PI,2211605,Vila Nova do Piauí,Nordeste,-7.142922,-40.937856
+22,Piauí,PI,2211704,Wall Ferraz,Nordeste,-7.23392,-41.911407
+23,Ceará,CE,2300101,Abaiara,Nordeste,-7.360781,-39.048788
+23,Ceará,CE,2300150,Acarape,Nordeste,-4.223787,-38.707166
+23,Ceará,CE,2300200,Acaraú,Nordeste,-2.886951,-40.119471
+23,Ceará,CE,2300309,Acopiara,Nordeste,-6.093646,-39.45432
+23,Ceará,CE,2300408,Aiuaba,Nordeste,-6.571084,-40.121228
+23,Ceará,CE,2300507,Alcântaras,Nordeste,-3.586247,-40.545764
+23,Ceará,CE,2300606,Altaneira,Nordeste,-6.998093,-39.738574
+23,Ceará,CE,2300705,Alto Santo,Nordeste,-5.519330999999999,-38.272481
+23,Ceará,CE,2300754,Amontada,Nordeste,-3.363459,-39.828479
+23,Ceará,CE,2300804,Antonina do Norte,Nordeste,-6.75326,-39.957962
+23,Ceará,CE,2300903,Apuiarés,Nordeste,-3.94603,-39.43133
+23,Ceará,CE,2301000,Aquiraz,Nordeste,-3.906312,-38.387504
+23,Ceará,CE,2301109,Aracati,Nordeste,-4.558259,-37.767894
+23,Ceará,CE,2301208,Aracoiaba,Nordeste,-4.370258,-38.808431
+23,Ceará,CE,2301257,Ararendá,Nordeste,-4.750439,-40.830361
+23,Ceará,CE,2301307,Araripe,Nordeste,-7.212861,-40.135922
+23,Ceará,CE,2301406,Aratuba,Nordeste,-4.419596,-39.046374
+23,Ceará,CE,2301505,Arneiroz,Nordeste,-6.32351,-40.160386
+23,Ceará,CE,2301604,Assaré,Nordeste,-6.874679,-39.874139
+23,Ceará,CE,2301703,Aurora,Nordeste,-6.942602,-38.969377
+23,Ceará,CE,2301802,Baixio,Nordeste,-6.730354,-38.71701
+23,Ceará,CE,2301851,Banabuiú,Nordeste,-5.30464,-38.919766
+23,Ceará,CE,2301901,Barbalha,Nordeste,-7.312107,-39.303643
+23,Ceará,CE,2301950,Barreira,Nordeste,-4.2871500000000005,-38.640944000000005
+23,Ceará,CE,2302008,Barro,Nordeste,-7.171359,-38.774214
+23,Ceará,CE,2302057,Barroquinha,Nordeste,-3.020037,-41.133923
+23,Ceará,CE,2302107,Baturité,Nordeste,-4.32902,-38.882106
+23,Ceará,CE,2302206,Beberibe,Nordeste,-4.181047,-38.12981
+23,Ceará,CE,2302305,Bela Cruz,Nordeste,-3.052913,-40.167582
+23,Ceará,CE,2302404,Boa Viagem,Nordeste,-5.126188,-39.730006
+23,Ceará,CE,2302503,Brejo Santo,Nordeste,-7.490984,-38.985915
+23,Ceará,CE,2302602,Camocim,Nordeste,-2.900992,-40.842739
+23,Ceará,CE,2302701,Campos Sales,Nordeste,-7.075081,-40.383018
+23,Ceará,CE,2302800,Canindé,Nordeste,-4.354795,-39.310852
+23,Ceará,CE,2302909,Capistrano,Nordeste,-4.464469,-38.895673
+23,Ceará,CE,2303006,Caridade,Nordeste,-4.231649,-39.194652
+23,Ceará,CE,2303105,Cariré,Nordeste,-3.948584,-40.476028
+23,Ceará,CE,2303204,Caririaçu,Nordeste,-7.041705,-39.283553
+23,Ceará,CE,2303303,Cariús,Nordeste,-6.53632525,-39.49688475
+23,Ceará,CE,2303402,Carnaubal,Nordeste,-4.161184,-40.941232
+23,Ceará,CE,2303501,Cascavel,Nordeste,-4.129666,-38.241178
+23,Ceará,CE,2303600,Catarina,Nordeste,-6.134158,-39.879532
+23,Ceará,CE,2303659,Catunda,Nordeste,-4.649422,-40.20026
+23,Ceará,CE,2303709,Caucaia,Nordeste,-3.730056,-38.659308
+23,Ceará,CE,2303808,Cedro,Nordeste,-6.606538,-39.059949
+23,Ceará,CE,2303907,Chaval,Nordeste,-3.040544,-41.241985
+23,Ceará,CE,2303931,Choró,Nordeste,-4.843573,-39.139307
+23,Ceará,CE,2303956,Chorozinho,Nordeste,-4.301089,-38.497692
+23,Ceará,CE,2304004,Coreaú,Nordeste,-3.551979,-40.652841
+23,Ceará,CE,2304103,Crateús,Nordeste,-5.178245,-40.669655
+23,Ceará,CE,2304202,Crato,Nordeste,-7.236911,-39.414924
+23,Ceará,CE,2304236,Croatá,Nordeste,-4.41562,-40.904808
+23,Ceará,CE,2304251,Cruz,Nordeste,-2.918128,-40.175981
+23,Ceará,CE,2304269,Deputado Irapuan Pinheiro,Nordeste,-5.917353,-39.26721
+23,Ceará,CE,2304277,Ereré,Nordeste,-6.031874500000001,-38.347874000000004
+23,Ceará,CE,2304285,Eusébio,Nordeste,-3.888984,-38.454659
+23,Ceará,CE,2304301,Farias Brito,Nordeste,-3.7296,-38.5431
+23,Ceará,CE,2304350,Forquilha,Nordeste,-3.799447,-40.263405
+23,Ceará,CE,2304400,Fortaleza,Nordeste,-3.730451,-38.521799
+23,Ceará,CE,2304459,Fortim,Nordeste,-4.451256,-37.798056
+23,Ceará,CE,2304509,Frecheirinha,Nordeste,-3.755572,-40.818019
+23,Ceará,CE,2304608,General Sampaio,Nordeste,-6.1001496,-39.4551994
+23,Ceará,CE,2304657,Graça,Nordeste,-4.045385,-40.75272
+23,Ceará,CE,2304707,Granja,Nordeste,-3.121206,-40.828412
+23,Ceará,CE,2304806,Granjeiro,Nordeste,-7.270348,-39.442269
+23,Ceará,CE,2304905,Groaíras,Nordeste,-3.9137649999999997,-40.383283500000005
+23,Ceará,CE,2304954,Guaiúba,Nordeste,-4.041266,-38.636908
+23,Ceará,CE,2305001,Guaraciaba do Norte,Nordeste,-4.163292,-40.749599
+23,Ceará,CE,2305100,Guaramiranga,Nordeste,-4.261727,-38.947923
+23,Ceará,CE,2305209,Hidrolândia,Nordeste,-4.408474,-40.406547
+23,Ceará,CE,2305233,Horizonte,Nordeste,-4.096462,-38.496557
+23,Ceará,CE,2305266,Ibaretama,Nordeste,-4.819434,-38.820848
+23,Ceará,CE,2305308,Ibiapina,Nordeste,-3.922879,-40.88903
+23,Ceará,CE,2305332,Ibicuitinga,Nordeste,-4.974955,-38.638707
+23,Ceará,CE,2305357,Icapuí,Nordeste,-4.715847,-37.353537
+23,Ceará,CE,2305407,Icó,Nordeste,-6.400399,-38.857595
+23,Ceará,CE,2305506,Iguatu,Nordeste,-6.361934,-39.297223
+23,Ceará,CE,2305605,Independência,Nordeste,-5.395854,-40.31089
+23,Ceará,CE,2305654,Ipaporanga,Nordeste,-4.903227,-40.760079
+23,Ceará,CE,2305704,Ipaumirim,Nordeste,-6.78832,-38.717203
+23,Ceará,CE,2305803,Ipu,Nordeste,-4.323982,-40.709746
+23,Ceará,CE,2305902,Ipueiras,Nordeste,-4.542714,-40.716846
+23,Ceará,CE,2306009,Iracema,Nordeste,-5.810622,-38.302829
+23,Ceará,CE,2306108,Irauçuba,Nordeste,-3.746683,-39.78409
+23,Ceará,CE,2306207,Itaiçaba,Nordeste,-4.68054,-37.823997
+23,Ceará,CE,2306256,Itaitinga,Nordeste,-3.970037,-38.52767125
+23,Ceará,CE,2306306,Itapajé,Nordeste,-3.684132,-39.585127
+23,Ceará,CE,2306405,Itapipoca,Nordeste,-3.499329,-39.583571
+23,Ceará,CE,2306504,Itapiúna,Nordeste,-4.565419,-38.921154
+23,Ceará,CE,2306553,Itarema,Nordeste,-2.922468,-39.915218
+23,Ceará,CE,2306603,Itatira,Nordeste,-4.530542,-39.621054
+23,Ceará,CE,2306702,Jaguaretama,Nordeste,-5.609242,-38.763008
+23,Ceará,CE,2306801,Jaguaribara,Nordeste,-5.459276,-38.465552
+23,Ceará,CE,2306900,Jaguaribe,Nordeste,-5.885458,-38.621296
+23,Ceará,CE,2307007,Jaguaruana,Nordeste,-4.831508,-37.780997
+23,Ceará,CE,2307106,Jardim,Nordeste,-7.583897,-39.279713
+23,Ceará,CE,2307205,Jati,Nordeste,-7.688842,-39.004944
+23,Ceará,CE,2307254,Jijoca de Jericoacoara,Nordeste,-2.898628,-40.450608
+23,Ceará,CE,2307304,Juazeiro do Norte,Nordeste,-7.215345,-39.315334
+23,Ceará,CE,2307403,Jucás,Nordeste,-6.522493,-39.524718
+23,Ceará,CE,2307502,Lavras da Mangabeira,Nordeste,-6.751955,-38.963402
+23,Ceará,CE,2307601,Limoeiro do Norte,Nordeste,-5.145561,-38.098494
+23,Ceará,CE,2307635,Madalena,Nordeste,-4.854296,-39.576644
+23,Ceará,CE,2307650,Maracanaú,Nordeste,-3.877944,-38.62477
+23,Ceará,CE,2307700,Maranguape,Nordeste,-3.892297,-38.683543
+23,Ceará,CE,2307809,Marco,Nordeste,-3.122194,-40.151459
+23,Ceará,CE,2307908,Martinópole,Nordeste,-3.223511,-40.695883
+23,Ceará,CE,2308005,Massapê,Nordeste,-3.523906,-40.342311
+23,Ceará,CE,2308104,Mauriti,Nordeste,-7.387009,-38.773775
+23,Ceará,CE,2308203,Meruoca,Nordeste,-3.539021,-40.454611
+23,Ceará,CE,2308302,Milagres,Nordeste,-7.310685,-38.944715
+23,Ceará,CE,2308351,Milhã,Nordeste,-5.678868,-39.194924
+23,Ceará,CE,2308377,Miraíma,Nordeste,-3.568674,-39.966267
+23,Ceará,CE,2308401,Missão Velha,Nordeste,-7.248491,-39.143484
+23,Ceará,CE,2308500,Mombaça,Nordeste,-5.74509,-39.629352
+23,Ceará,CE,2308609,Monsenhor Tabosa,Nordeste,-4.787951,-40.063949
+23,Ceará,CE,2308708,Morada Nova,Nordeste,-5.10767,-38.372785
+23,Ceará,CE,2308807,Moraújo,Nordeste,-3.465765,-40.679146
+23,Ceará,CE,2308906,Morrinhos,Nordeste,-3.227575,-40.128078
+23,Ceará,CE,2309003,Mucambo,Nordeste,-3.904328,-40.745443
+23,Ceará,CE,2309102,Mulungu,Nordeste,-4.305233,-38.995779
+23,Ceará,CE,2309201,Nova Olinda,Nordeste,-7.093417,-39.678982
+23,Ceará,CE,2309300,Nova Russas,Nordeste,-4.705168,-40.565519
+23,Ceará,CE,2309409,Novo Oriente,Nordeste,-5.535034,-40.77489
+23,Ceará,CE,2309458,Ocara,Nordeste,-4.52086,-38.612971
+23,Ceará,CE,2309508,Orós,Nordeste,-6.242754,-38.914115
+23,Ceará,CE,2309607,Pacajus,Nordeste,-4.171073,-38.464988
+23,Ceará,CE,2309706,Pacatuba,Nordeste,-3.9841,-38.618038
+23,Ceará,CE,2309805,Pacoti,Nordeste,-4.2251895,-38.922037
+23,Ceará,CE,2309904,Pacujá,Nordeste,-3.980207,-40.698625
+23,Ceará,CE,2310001,Palhano,Nordeste,-4.744941,-37.96084
+23,Ceará,CE,2310100,Palmácia,Nordeste,-4.1495429999999995,-38.845521500000004
+23,Ceará,CE,2310209,Paracuru,Nordeste,-3.41436,-39.030028
+23,Ceará,CE,2310258,Paraipaba,Nordeste,-3.437987,-39.147868
+23,Ceará,CE,2310308,Parambu,Nordeste,-6.212386,-40.695498
+23,Ceará,CE,2310407,Paramoti,Nordeste,-4.096446,-39.239041
+23,Ceará,CE,2310506,Pedra Branca,Nordeste,-5.455674,-39.716629
+23,Ceará,CE,2310605,Penaforte,Nordeste,-7.828837,-39.075191
+23,Ceará,CE,2310704,Pentecoste,Nordeste,-3.795228,-39.271322
+23,Ceará,CE,2310803,Pereiro,Nordeste,-6.046269,-38.460419
+23,Ceará,CE,2310852,Pindoretama,Nordeste,-4.026518,-38.306683
+23,Ceará,CE,2310902,Piquet Carneiro,Nordeste,-5.800251,-39.417017
+23,Ceará,CE,2310951,Pires Ferreira,Nordeste,-4.245318,-40.64375
+23,Ceará,CE,2311009,Poranga,Nordeste,-4.744673,-40.924917
+23,Ceará,CE,2311108,Porteiras,Nordeste,-7.534157,-39.115315
+23,Ceará,CE,2311207,Potengi,Nordeste,-7.0909975,-40.026595
+23,Ceará,CE,2311231,Potiretama,Nordeste,-5.722692,-38.154107
+23,Ceará,CE,2311264,Quiterianópolis,Nordeste,-5.845812,-40.702181
+23,Ceará,CE,2311306,Quixadá,Nordeste,-4.970602,-39.01584
+23,Ceará,CE,2311355,Quixelô,Nordeste,-6.251124,-39.199546
+23,Ceará,CE,2311405,Quixeramobim,Nordeste,-5.198355,-39.295557
+23,Ceará,CE,2311504,Quixeré,Nordeste,-5.074284,-37.989283
+23,Ceará,CE,2311603,Redenção,Nordeste,-4.224398,-38.727846
+23,Ceará,CE,2311702,Reriutaba,Nordeste,-4.141835,-40.582436
+23,Ceará,CE,2311801,Russas,Nordeste,-4.935428,-37.978384
+23,Ceará,CE,2311900,Saboeiro,Nordeste,-6.539564,-39.90478
+23,Ceará,CE,2311959,Salitre,Nordeste,-7.285445,-40.457306
+23,Ceará,CE,2312007,Santana do Acaraú,Nordeste,-3.45974425,-40.2110435
+23,Ceará,CE,2312106,Santana do Cariri,Nordeste,-7.186169,-39.737426
+23,Ceará,CE,2312205,Santa Quitéria,Nordeste,-4.333655,-40.154491
+23,Ceará,CE,2312304,São Benedito,Nordeste,-4.047995,-40.864349
+23,Ceará,CE,2312403,São Gonçalo do Amarante,Nordeste,-3.609975,-38.968718
+23,Ceará,CE,2312502,São João do Jaguaribe,Nordeste,-5.271944,-38.271993
+23,Ceará,CE,2312601,São Luís do Curu,Nordeste,-3.672399,-39.236488
+23,Ceará,CE,2312700,Senador Pompeu,Nordeste,-5.587439,-39.37309
+23,Ceará,CE,2312809,Senador Sá,Nordeste,-3.35161,-40.463982
+23,Ceará,CE,2312908,Sobral,Nordeste,-3.687913,-40.345637
+23,Ceará,CE,2313005,Solonópole,Nordeste,-5.7320065,-39.007898
+23,Ceará,CE,2313104,Tabuleiro do Norte,Nordeste,-5.244086,-38.128461
+23,Ceará,CE,2313203,Tamboril,Nordeste,-4.833007,-40.321032
+23,Ceará,CE,2313252,Tarrafas,Nordeste,-6.68199,-39.757571
+23,Ceará,CE,2313302,Tauá,Nordeste,-6.003137,-40.294727
+23,Ceará,CE,2313351,Tejuçuoca,Nordeste,-3.988427,-39.57974
+23,Ceará,CE,2313401,Tianguá,Nordeste,-3.730733,-41.000402
+23,Ceará,CE,2313500,Trairi,Nordeste,-3.27415,-39.264919
+23,Ceará,CE,2313559,Tururu,Nordeste,-3.598549,-39.43581
+23,Ceará,CE,2313609,Ubajara,Nordeste,-3.853447,-40.918564
+23,Ceará,CE,2313708,Umari,Nordeste,-7.231451,-39.419948
+23,Ceará,CE,2313757,Umirim,Nordeste,-3.677774,-39.348725
+23,Ceará,CE,2313807,Uruburetama,Nordeste,-3.62353,-39.50507
+23,Ceará,CE,2313906,Uruoca,Nordeste,-3.314759,-40.558957
+23,Ceará,CE,2313955,Varjota,Nordeste,-3.7343,-38.4861
+23,Ceará,CE,2314003,Várzea Alegre,Nordeste,-6.793609,-39.298933
+23,Ceará,CE,2314102,Viçosa do Ceará,Nordeste,-3.566768,-41.091504
+24,Rio Grande do Norte,RN,2400109,Acari,Nordeste,-6.436469,-36.639478
+24,Rio Grande do Norte,RN,2400208,Açu,Nordeste,-5.583616,-36.913954
+24,Rio Grande do Norte,RN,2400307,Afonso Bezerra,Nordeste,-5.5002,-36.506272
+24,Rio Grande do Norte,RN,2400406,Água Nova,Nordeste,-6.206322,-38.291268
+24,Rio Grande do Norte,RN,2400505,Alexandria,Nordeste,-6.414779,-38.013552
+24,Rio Grande do Norte,RN,2400604,Almino Afonso,Nordeste,-6.154421,-37.764902
+24,Rio Grande do Norte,RN,2400703,Alto do Rodrigues,Nordeste,-5.290868,-36.761673
+24,Rio Grande do Norte,RN,2400802,Angicos,Nordeste,-5.666634,-36.600906
+24,Rio Grande do Norte,RN,2400901,Antônio Martins,Nordeste,-6.215581,-37.889013
+24,Rio Grande do Norte,RN,2401008,Apodi,Nordeste,-5.663111,-37.796927
+24,Rio Grande do Norte,RN,2401107,Areia Branca,Nordeste,-4.950665,-37.126331
+24,Rio Grande do Norte,RN,2401206,Arês,Nordeste,-6.196922,-35.164297
+24,Rio Grande do Norte,RN,2401305,Campo Grande,Nordeste,-5.862063,-37.313491
+24,Rio Grande do Norte,RN,2401404,Baía Formosa,Nordeste,-6.369188,-35.006374
+24,Rio Grande do Norte,RN,2401453,Baraúna,Nordeste,-5.0775,-37.61752
+24,Rio Grande do Norte,RN,2401503,Barcelona,Nordeste,-5.951492,-35.926028
+24,Rio Grande do Norte,RN,2401602,Bento Fernandes,Nordeste,-5.692685,-35.820742
+24,Rio Grande do Norte,RN,2401651,Bodó,Nordeste,-5.98661,-36.413482
+24,Rio Grande do Norte,RN,2401701,Bom Jesus,Nordeste,-5.988754,-35.582115
+24,Rio Grande do Norte,RN,2401800,Brejinho,Nordeste,-6.195791,-35.358302
+24,Rio Grande do Norte,RN,2401859,Caiçara do Norte,Nordeste,-5.064502,-36.056123
+24,Rio Grande do Norte,RN,2401909,Caiçara do Rio do Vento,Nordeste,-5.757968,-36.00089
+24,Rio Grande do Norte,RN,2402006,Caicó,Nordeste,-6.459454,-37.097191
+24,Rio Grande do Norte,RN,2402105,Campo Redondo,Nordeste,-6.242037,-36.183061
+24,Rio Grande do Norte,RN,2402204,Canguaretama,Nordeste,-6.375194,-35.137463
+24,Rio Grande do Norte,RN,2402303,Caraúbas,Nordeste,-5.788932,-37.554875
+24,Rio Grande do Norte,RN,2402402,Carnaúba dos Dantas,Nordeste,-6.556059,-36.593081
+24,Rio Grande do Norte,RN,2402501,Carnaubais,Nordeste,-5.338368,-36.833557
+24,Rio Grande do Norte,RN,2402600,Ceará-Mirim,Nordeste,-5.633588,-35.424841
+24,Rio Grande do Norte,RN,2402709,Cerro Corá,Nordeste,-6.041268,-36.346469
+24,Rio Grande do Norte,RN,2402808,Coronel Ezequiel,Nordeste,-6.385315,-36.215162
+24,Rio Grande do Norte,RN,2402907,Coronel João Pessoa,Nordeste,-6.260726,-38.442569
+24,Rio Grande do Norte,RN,2403004,Cruzeta,Nordeste,-6.411334,-36.787296
+24,Rio Grande do Norte,RN,2403103,Currais Novos,Nordeste,-6.262668,-36.517304
+24,Rio Grande do Norte,RN,2403202,Doutor Severiano,Nordeste,-6.094834,-38.3748
+24,Rio Grande do Norte,RN,2403251,Parnamirim,Nordeste,-5.915333,-35.267991
+24,Rio Grande do Norte,RN,2403301,Encanto,Nordeste,-6.110748,-38.305095
+24,Rio Grande do Norte,RN,2403400,Equador,Nordeste,-6.944482,-36.717757
+24,Rio Grande do Norte,RN,2403509,Espírito Santo,Nordeste,-6.331792,-35.309651
+24,Rio Grande do Norte,RN,2403608,Extremoz,Nordeste,-5.705763,-35.303477
+24,Rio Grande do Norte,RN,2403707,Felipe Guerra,Nordeste,-5.598139,-37.696276
+24,Rio Grande do Norte,RN,2403756,Fernando Pedroza,Nordeste,-5.697256,-36.531686
+24,Rio Grande do Norte,RN,2403806,Florânia,Nordeste,-6.126868,-36.818324
+24,Rio Grande do Norte,RN,2403905,Francisco Dantas,Nordeste,-6.08736,-38.122926
+24,Rio Grande do Norte,RN,2404002,Frutuoso Gomes,Nordeste,-6.158511,-37.840861
+24,Rio Grande do Norte,RN,2404101,Galinhos,Nordeste,-5.092393,-36.274483
+24,Rio Grande do Norte,RN,2404200,Goianinha,Nordeste,-6.266354,-35.209245
+24,Rio Grande do Norte,RN,2404309,Governador Dix-Sept Rosado,Nordeste,-5.457772,-37.520749
+24,Rio Grande do Norte,RN,2404408,Grossos,Nordeste,-4.984345,-37.151125
+24,Rio Grande do Norte,RN,2404507,Guamaré,Nordeste,-5.107561,-36.319536
+24,Rio Grande do Norte,RN,2404606,Ielmo Marinho,Nordeste,-5.822816,-35.552749
+24,Rio Grande do Norte,RN,2404705,Ipanguaçu,Nordeste,-5.509071,-36.859442
+24,Rio Grande do Norte,RN,2404804,Ipueira,Nordeste,-6.81528,-37.198464
+24,Rio Grande do Norte,RN,2404853,Itajá,Nordeste,-5.637467,-36.871327
+24,Rio Grande do Norte,RN,2404903,Itaú,Nordeste,-5.852373,-35.203564
+24,Rio Grande do Norte,RN,2405009,Jaçanã,Nordeste,-6.429048,-36.203554
+24,Rio Grande do Norte,RN,2405108,Jandaíra,Nordeste,-5.355627,-36.127946
+24,Rio Grande do Norte,RN,2405207,Janduís,Nordeste,-6.017014,-37.406913
+24,Rio Grande do Norte,RN,2405306,Januário Cicco,Nordeste,-6.158053,-35.602085
+24,Rio Grande do Norte,RN,2405405,Japi,Nordeste,-6.463435,-35.945688
+24,Rio Grande do Norte,RN,2405504,Jardim de Angicos,Nordeste,-5.652066,-35.969931
+24,Rio Grande do Norte,RN,2405603,Jardim de Piranhas,Nordeste,-6.379635,-37.349557
+24,Rio Grande do Norte,RN,2405702,Jardim do Seridó,Nordeste,-6.59043,-36.773604
+24,Rio Grande do Norte,RN,2405801,João Câmara,Nordeste,-5.534964,-35.815081
+24,Rio Grande do Norte,RN,2405900,João Dias,Nordeste,-6.275437,-37.795181
+24,Rio Grande do Norte,RN,2406007,José da Penha,Nordeste,-6.3188,-38.285357
+24,Rio Grande do Norte,RN,2406106,Jucurutu,Nordeste,-6.034352,-37.018625
+24,Rio Grande do Norte,RN,2406155,Jundiá,Nordeste,-6.270712,-35.327951
+24,Rio Grande do Norte,RN,2406205,Lagoa d'Anta,Nordeste,-6.394926,-35.594904
+24,Rio Grande do Norte,RN,2406304,Lagoa de Pedras,Nordeste,-6.152768,-35.436852
+24,Rio Grande do Norte,RN,2406403,Lagoa de Velhos,Nordeste,-6.003043,-35.871088
+24,Rio Grande do Norte,RN,2406502,Lagoa Nova,Nordeste,-5.8227,-35.2126
+24,Rio Grande do Norte,RN,2406601,Lagoa Salgada,Nordeste,-6.122954,-35.472394
+24,Rio Grande do Norte,RN,2406700,Lajes,Nordeste,-5.701408,-36.246219
+24,Rio Grande do Norte,RN,2406809,Lajes Pintadas,Nordeste,-6.149614,-36.1166055
+24,Rio Grande do Norte,RN,2406908,Lucrécia,Nordeste,-6.117252,-37.813457
+24,Rio Grande do Norte,RN,2407005,Luís Gomes,Nordeste,-6.414179,-38.387294
+24,Rio Grande do Norte,RN,2407104,Macaíba,Nordeste,-5.856137,-35.352377
+24,Rio Grande do Norte,RN,2407203,Macau,Nordeste,-5.113366,-36.634996
+24,Rio Grande do Norte,RN,2407252,Major Sales,Nordeste,-6.406338,-38.322661
+24,Rio Grande do Norte,RN,2407302,Marcelino Vieira,Nordeste,-6.29386,-38.162223
+24,Rio Grande do Norte,RN,2407401,Martins,Nordeste,-6.089284,-37.911468
+24,Rio Grande do Norte,RN,2407500,Maxaranguape,Nordeste,-5.517599,-35.25854
+24,Rio Grande do Norte,RN,2407609,Messias Targino,Nordeste,-6.077295,-37.511712
+24,Rio Grande do Norte,RN,2407708,Montanhas,Nordeste,-6.486654,-35.285358
+24,Rio Grande do Norte,RN,2407807,Monte Alegre,Nordeste,-6.069901,-35.333635
+24,Rio Grande do Norte,RN,2407906,Monte das Gameleiras,Nordeste,-6.43975,-35.785163
+24,Rio Grande do Norte,RN,2408003,Mossoró,Nordeste,-5.190433,-37.344387
+24,Rio Grande do Norte,RN,2408102,Natal,Nordeste,-5.805398,-35.208091
+24,Rio Grande do Norte,RN,2408201,Nísia Floresta,Nordeste,-6.090267,-35.208503
+24,Rio Grande do Norte,RN,2408300,Nova Cruz,Nordeste,-6.482111,-35.433233
+24,Rio Grande do Norte,RN,2408409,Olho d'Água do Borges,Nordeste,-5.956552,-37.705615
+24,Rio Grande do Norte,RN,2408508,Ouro Branco,Nordeste,-6.703294,-36.94296
+24,Rio Grande do Norte,RN,2408607,Paraná,Nordeste,-6.483679,-38.311794
+24,Rio Grande do Norte,RN,2408706,Paraú,Nordeste,-5.776044,-37.101264
+24,Rio Grande do Norte,RN,2408805,Parazinho,Nordeste,-5.22597,-35.840387
+24,Rio Grande do Norte,RN,2408904,Parelhas,Nordeste,-6.691369,-36.658448
+24,Rio Grande do Norte,RN,2408953,Rio do Fogo,Nordeste,-5.272615,-35.382714500000006
+24,Rio Grande do Norte,RN,2409100,Passa e Fica,Nordeste,-6.43567,-35.643446
+24,Rio Grande do Norte,RN,2409209,Passagem,Nordeste,-6.278016,-35.376881
+24,Rio Grande do Norte,RN,2409308,Patu,Nordeste,-6.100621,-37.638515
+24,Rio Grande do Norte,RN,2409332,Santa Maria,Nordeste,-5.838022,-35.691409
+24,Rio Grande do Norte,RN,2409407,Pau dos Ferros,Nordeste,-6.112496,-38.206263
+24,Rio Grande do Norte,RN,2409506,Pedra Grande,Nordeste,-5.150813,-35.878413
+24,Rio Grande do Norte,RN,2409605,Pedra Preta,Nordeste,-5.843303,-35.219315
+24,Rio Grande do Norte,RN,2409704,Pedro Avelino,Nordeste,-5.521865,-36.385017
+24,Rio Grande do Norte,RN,2409803,Pedro Velho,Nordeste,-6.4356,-35.219539
+24,Rio Grande do Norte,RN,2409902,Pendências,Nordeste,-5.257209,-36.718249
+24,Rio Grande do Norte,RN,2410009,Pilões,Nordeste,-6.268562,-38.044012
+24,Rio Grande do Norte,RN,2410108,Poço Branco,Nordeste,-5.622438,-35.661577
+24,Rio Grande do Norte,RN,2410207,Portalegre,Nordeste,-6.026573,-37.987248
+24,Rio Grande do Norte,RN,2410256,Porto do Mangue,Nordeste,-5.067572,-36.7807545
+24,Rio Grande do Norte,RN,2410306,Serra Caiada,Nordeste,-6.10702,-35.708669
+24,Rio Grande do Norte,RN,2410405,Pureza,Nordeste,-5.467279,-35.555912
+24,Rio Grande do Norte,RN,2410504,Rafael Fernandes,Nordeste,-6.189248,-38.223865
+24,Rio Grande do Norte,RN,2410603,Rafael Godeiro,Nordeste,-6.07677,-37.7168375
+24,Rio Grande do Norte,RN,2410702,Riacho da Cruz,Nordeste,-5.937346,-37.948802
+24,Rio Grande do Norte,RN,2410801,Riacho de Santana,Nordeste,-6.263395,-38.314342
+24,Rio Grande do Norte,RN,2410900,Riachuelo,Nordeste,-5.811488,-35.206052
+24,Rio Grande do Norte,RN,2411007,Rodolfo Fernandes,Nordeste,-5.78975,-38.060746
+24,Rio Grande do Norte,RN,2411056,Tibau,Nordeste,-4.834964,-37.254265
+24,Rio Grande do Norte,RN,2411106,Ruy Barbosa,Nordeste,-5.88128,-35.934666
+24,Rio Grande do Norte,RN,2411205,Santa Cruz,Nordeste,-6.224752,-36.019297
+24,Rio Grande do Norte,RN,2411403,Santana do Matos,Nordeste,-5.946897,-36.650254
+24,Rio Grande do Norte,RN,2411429,Santana do Seridó,Nordeste,-6.770899,-36.734038
+24,Rio Grande do Norte,RN,2411502,Santo Antônio,Nordeste,-5.1815,-37.3433
+24,Rio Grande do Norte,RN,2411601,São Bento do Norte,Nordeste,-5.064343,-36.041433
+24,Rio Grande do Norte,RN,2411700,São Bento do Trairí,Nordeste,-6.342672,-36.085111
+24,Rio Grande do Norte,RN,2411809,São Fernando,Nordeste,-6.379745,-37.186362
+24,Rio Grande do Norte,RN,2411908,São Francisco do Oeste,Nordeste,-5.99958,-38.167996
+24,Rio Grande do Norte,RN,2412005,São Gonçalo do Amarante,Nordeste,-5.793233,-35.328631
+24,Rio Grande do Norte,RN,2412104,São João do Sabugi,Nordeste,-6.718821,-37.199795
+24,Rio Grande do Norte,RN,2412203,São José de Mipibu,Nordeste,-6.074687,-35.237018
+24,Rio Grande do Norte,RN,2412302,São José do Campestre,Nordeste,-6.314853,-35.712819
+24,Rio Grande do Norte,RN,2412401,São José do Seridó,Nordeste,-6.448814,-36.878528
+24,Rio Grande do Norte,RN,2412500,São Miguel,Nordeste,-6.212176,-38.497738
+24,Rio Grande do Norte,RN,2412559,São Miguel do Gostoso,Nordeste,-5.123021,-35.635388
+24,Rio Grande do Norte,RN,2412609,São Paulo do Potengi,Nordeste,-5.894168,-35.764831
+24,Rio Grande do Norte,RN,2412708,São Pedro,Nordeste,-5.896557,-35.634056
+24,Rio Grande do Norte,RN,2412807,São Rafael,Nordeste,-5.802203,-36.883595
+24,Rio Grande do Norte,RN,2412906,São Tomé,Nordeste,-5.972644,-36.07368
+24,Rio Grande do Norte,RN,2413003,São Vicente,Nordeste,-6.216691,-36.682309
+24,Rio Grande do Norte,RN,2413102,Senador Elói de Souza,Nordeste,-6.035705,-35.692315
+24,Rio Grande do Norte,RN,2413201,Senador Georgino Avelino,Nordeste,-6.163243,-35.123333
+24,Rio Grande do Norte,RN,2413300,Serra de São Bento,Nordeste,-6.416927,-35.70478
+24,Rio Grande do Norte,RN,2413359,Serra do Mel,Nordeste,-5.168123,-37.041369
+24,Rio Grande do Norte,RN,2413409,Serra Negra do Norte,Nordeste,-6.662757,-37.401058
+24,Rio Grande do Norte,RN,2413508,Serrinha,Nordeste,-6.278315,-35.495829
+24,Rio Grande do Norte,RN,2413557,Serrinha dos Pintos,Nordeste,-6.112315,-37.956619
+24,Rio Grande do Norte,RN,2413607,Severiano Melo,Nordeste,-5.781136,-37.957677
+24,Rio Grande do Norte,RN,2413706,Sítio Novo,Nordeste,-6.106223,-35.909382
+24,Rio Grande do Norte,RN,2413805,Taboleiro Grande,Nordeste,-5.928921,-38.044508
+24,Rio Grande do Norte,RN,2413904,Taipu,Nordeste,-5.622859,-35.599176
+24,Rio Grande do Norte,RN,2414001,Tangará,Nordeste,-6.19649,-35.798888
+24,Rio Grande do Norte,RN,2414100,Tenente Ananias,Nordeste,-6.462719,-38.180335
+24,Rio Grande do Norte,RN,2414159,Tenente Laurentino Cruz,Nordeste,-5.77902402048642,-36.7688439631366
+24,Rio Grande do Norte,RN,2414209,Tibau do Sul,Nordeste,-6.187296,-35.090525
+24,Rio Grande do Norte,RN,2414308,Timbaúba dos Batistas,Nordeste,-6.463403,-37.269637
+24,Rio Grande do Norte,RN,2414407,Touros,Nordeste,-5.199862,-35.459505
+24,Rio Grande do Norte,RN,2414456,Triunfo Potiguar,Nordeste,-5.866913,-37.185738
+24,Rio Grande do Norte,RN,2414506,Umarizal,Nordeste,-5.985516,-37.818589
+24,Rio Grande do Norte,RN,2414605,Upanema,Nordeste,-5.64317,-37.262534
+24,Rio Grande do Norte,RN,2414704,Várzea,Nordeste,-6.346412,-35.373182
+24,Rio Grande do Norte,RN,2414753,Venha-Ver,Nordeste,-6.320533,-38.489897
+24,Rio Grande do Norte,RN,2414803,Vera Cruz,Nordeste,-6.049335,-35.431115
+24,Rio Grande do Norte,RN,2414902,Viçosa,Nordeste,-5.991951,-37.945439
+24,Rio Grande do Norte,RN,2415008,Vila Flor,Nordeste,-6.315623,-35.07577
+25,Paraíba,PB,2500106,Água Branca,Nordeste,-7.515105,-37.639403
+25,Paraíba,PB,2500205,Aguiar,Nordeste,-7.09284,-38.172722
+25,Paraíba,PB,2500304,Alagoa Grande,Nordeste,-7.041521,-35.628532
+25,Paraíba,PB,2500403,Alagoa Nova,Nordeste,-7.060114,-35.761457
+25,Paraíba,PB,2500502,Alagoinha,Nordeste,-6.948031,-35.545793
+25,Paraíba,PB,2500536,Alcantil,Nordeste,-7.743416,-36.05601
+25,Paraíba,PB,2500577,Algodão de Jandaíra,Nordeste,-6.904017,-36.008988
+25,Paraíba,PB,2500601,Alhandra,Nordeste,-7.430425,-34.91061
+25,Paraíba,PB,2500700,São João do Rio do Peixe,Nordeste,-6.729105,-38.447875
+25,Paraíba,PB,2500734,Amparo,Nordeste,-7.569128,-37.06414
+25,Paraíba,PB,2500775,Aparecida,Nordeste,-6.78596,-38.083135
+25,Paraíba,PB,2500809,Araçagi,Nordeste,-6.851997,-35.38356
+25,Paraíba,PB,2500908,Arara,Nordeste,-6.827189,-35.76057
+25,Paraíba,PB,2501005,Araruna,Nordeste,-6.532115,-35.73976
+25,Paraíba,PB,2501104,Areia,Nordeste,-6.968024,-35.699478
+25,Paraíba,PB,2501153,Areia de Baraúnas,Nordeste,-7.123395,-36.944622
+25,Paraíba,PB,2501203,Areial,Nordeste,-7.050131,-35.924524
+25,Paraíba,PB,2501302,Aroeiras,Nordeste,-7.54629,-35.708
+25,Paraíba,PB,2501351,Assunção,Nordeste,-7.073796625,-36.729407875
+25,Paraíba,PB,2501401,Baía da Traição,Nordeste,-6.691258,-34.937124
+25,Paraíba,PB,2501500,Bananeiras,Nordeste,-6.753768,-35.633834
+25,Paraíba,PB,2501534,Baraúna,Nordeste,-6.643394,-36.253193
+25,Paraíba,PB,2501575,Barra de Santana,Nordeste,-7.523086,-35.998852
+25,Paraíba,PB,2501609,Barra de Santa Rosa,Nordeste,-6.721801,-36.056464
+25,Paraíba,PB,2501708,Barra de São Miguel,Nordeste,-7.7514195,-36.317548
+25,Paraíba,PB,2501807,Bayeux,Nordeste,-7.130163,-34.936532
+25,Paraíba,PB,2501906,Belém,Nordeste,-6.696759,-35.536963
+25,Paraíba,PB,2502003,Belém do Brejo do Cruz,Nordeste,-6.18869925,-37.5350865
+25,Paraíba,PB,2502052,Bernardino Batista,Nordeste,-6.453217,-38.549542
+25,Paraíba,PB,2502102,Boa Ventura,Nordeste,-7.420246,-38.215678
+25,Paraíba,PB,2502151,Boa Vista,Nordeste,-7.262071,-36.241516
+25,Paraíba,PB,2502201,Bom Jesus,Nordeste,-6.815672,-38.655184
+25,Paraíba,PB,2502300,Bom Sucesso,Nordeste,-6.445895,-37.929766
+25,Paraíba,PB,2502409,Bonito de Santa Fé,Nordeste,-7.314333,-38.514668
+25,Paraíba,PB,2502508,Boqueirão,Nordeste,-7.487004,-36.130887
+25,Paraíba,PB,2502607,Igaracy,Nordeste,-7.18198,-38.14874
+25,Paraíba,PB,2502706,Borborema,Nordeste,-6.806672,-35.599019
+25,Paraíba,PB,2502805,Brejo do Cruz,Nordeste,-6.350564,-37.494376
+25,Paraíba,PB,2502904,Brejo dos Santos,Nordeste,-6.376937,-37.824313
+25,Paraíba,PB,2503001,Caaporã,Nordeste,-7.510234,-34.915411
+25,Paraíba,PB,2503100,Cabaceiras,Nordeste,-7.4899545,-36.287004499999995
+25,Paraíba,PB,2503209,Cabedelo,Nordeste,-6.97324,-34.835161
+25,Paraíba,PB,2503308,Cachoeira dos Índios,Nordeste,-6.925919,-38.674216
+25,Paraíba,PB,2503407,Cacimba de Areia,Nordeste,-7.128851,-37.157519
+25,Paraíba,PB,2503506,Cacimba de Dentro,Nordeste,-6.64251,-35.79293
+25,Paraíba,PB,2503555,Cacimbas,Nordeste,-7.212545,-37.05934
+25,Paraíba,PB,2503605,Caiçara,Nordeste,-6.614687,-35.468143
+25,Paraíba,PB,2503704,Cajazeiras,Nordeste,-6.889785,-38.557039
+25,Paraíba,PB,2503753,Cajazeirinhas,Nordeste,-6.961442,-37.799373
+25,Paraíba,PB,2503803,Caldas Brandão,Nordeste,-7.102796,-35.325468
+25,Paraíba,PB,2503902,Camalaú,Nordeste,-7.885031,-36.824191
+25,Paraíba,PB,2504009,Campina Grande,Nordeste,-7.224674,-35.877129
+25,Paraíba,PB,2504033,Capim,Nordeste,-6.917409,-35.172033
+25,Paraíba,PB,2504074,Caraúbas,Nordeste,-7.727323,-36.492336
+25,Paraíba,PB,2504108,Carrapateira,Nordeste,-7.039522,-38.343228
+25,Paraíba,PB,2504157,Casserengue,Nordeste,-6.782602000000001,-35.818882
+25,Paraíba,PB,2504207,Catingueira,Nordeste,-7.120081,-37.60638
+25,Paraíba,PB,2504306,Catolé do Rocha,Nordeste,-6.340625,-37.746967
+25,Paraíba,PB,2504355,Caturité,Nordeste,-7.419965,-36.020713
+25,Paraíba,PB,2504405,Conceição,Nordeste,-7.2112,-35.8868
+25,Paraíba,PB,2504504,Condado,Nordeste,-6.90921,-37.596638
+25,Paraíba,PB,2504603,Conde,Nordeste,-7.260036,-34.905352
+25,Paraíba,PB,2504702,Congo,Nordeste,-7.79576,-36.660213
+25,Paraíba,PB,2504801,Coremas,Nordeste,-7.01759,-37.946506
+25,Paraíba,PB,2504850,Coxixola,Nordeste,-7.627291,-36.606013
+25,Paraíba,PB,2504900,Cruz do Espírito Santo,Nordeste,-7.139022,-35.085721
+25,Paraíba,PB,2505006,Cubati,Nordeste,-6.864797,-36.352599
+25,Paraíba,PB,2505105,Cuité,Nordeste,-6.485507,-36.147861
+25,Paraíba,PB,2505204,Cuitegi,Nordeste,-6.896278,-35.522885
+25,Paraíba,PB,2505238,Cuité de Mamanguape,Nordeste,-6.912922,-35.250219
+25,Paraíba,PB,2505279,Curral de Cima,Nordeste,-6.717416,-35.266704
+25,Paraíba,PB,2505303,Curral Velho,Nordeste,-7.537647,-38.197913
+25,Paraíba,PB,2505352,Damião,Nordeste,-6.632163,-35.904926
+25,Paraíba,PB,2505402,Desterro,Nordeste,-7.288969,-37.088076
+25,Paraíba,PB,2505501,Vista Serrana,Nordeste,-6.739166,-37.568576
+25,Paraíba,PB,2505600,Diamante,Nordeste,-7.426183,-38.264688
+25,Paraíba,PB,2505709,Dona Inês,Nordeste,-6.603224,-35.627146
+25,Paraíba,PB,2505808,Duas Estradas,Nordeste,-6.688338,-35.417526
+25,Paraíba,PB,2505907,Emas,Nordeste,-7.107145,-37.715558
+25,Paraíba,PB,2506004,Esperança,Nordeste,-7.018517,-35.852193
+25,Paraíba,PB,2506103,Fagundes,Nordeste,-7.357747,-35.783974
+25,Paraíba,PB,2506202,Frei Martinho,Nordeste,-6.403364,-36.453514
+25,Paraíba,PB,2506251,Gado Bravo,Nordeste,-7.583052,-35.791437
+25,Paraíba,PB,2506301,Guarabira,Nordeste,-6.851398,-35.491558
+25,Paraíba,PB,2506400,Gurinhém,Nordeste,-7.124476,-35.424854
+25,Paraíba,PB,2506509,Gurjão,Nordeste,-7.247056,-36.486271
+25,Paraíba,PB,2506608,Ibiara,Nordeste,-7.499786,-38.403499
+25,Paraíba,PB,2506707,Imaculada,Nordeste,-7.1347,-34.9231
+25,Paraíba,PB,2506806,Ingá,Nordeste,-7.290451,-35.610995
+25,Paraíba,PB,2506905,Itabaiana,Nordeste,-7.331674,-35.331723
+25,Paraíba,PB,2507002,Itaporanga,Nordeste,-7.304075,-38.150578
+25,Paraíba,PB,2507101,Itapororoca,Nordeste,-6.828301,-35.244782
+25,Paraíba,PB,2507200,Itatuba,Nordeste,-7.375851,-35.626495
+25,Paraíba,PB,2507309,Jacaraú,Nordeste,-6.612305,-35.291902
+25,Paraíba,PB,2507408,Jericó,Nordeste,-6.553182,-37.807819
+25,Paraíba,PB,2507507,João Pessoa,Nordeste,-7.121598,-34.882028
+25,Paraíba,PB,2507606,Juarez Távora,Nordeste,-7.172693,-35.590804
+25,Paraíba,PB,2507705,Juazeirinho,Nordeste,-7.068828,-36.580306
+25,Paraíba,PB,2507804,Junco do Seridó,Nordeste,-6.991929,-36.713766
+25,Paraíba,PB,2507903,Juripiranga,Nordeste,-7.374331,-35.2396
+25,Paraíba,PB,2508000,Juru,Nordeste,-7.537509,-37.819228
+25,Paraíba,PB,2508109,Lagoa,Nordeste,-6.589985,-37.914901
+25,Paraíba,PB,2508208,Lagoa de Dentro,Nordeste,-6.672881,-35.378228
+25,Paraíba,PB,2508307,Lagoa Seca,Nordeste,-7.157099,-35.854202
+25,Paraíba,PB,2508406,Lastro,Nordeste,-6.517513,-38.178764
+25,Paraíba,PB,2508505,Livramento,Nordeste,-7.375744,-36.944944
+25,Paraíba,PB,2508554,Logradouro,Nordeste,-6.614788,-35.443169
+25,Paraíba,PB,2508604,Lucena,Nordeste,-6.898402,-34.871192
+25,Paraíba,PB,2508703,Mãe d'Água,Nordeste,-7.258294,-37.426977
+25,Paraíba,PB,2508802,Malta,Nordeste,-6.906816,-37.52171
+25,Paraíba,PB,2508901,Mamanguape,Nordeste,-6.833698,-35.121316
+25,Paraíba,PB,2509008,Manaíra,Nordeste,-7.105,-34.8345
+25,Paraíba,PB,2509057,Marcação,Nordeste,-6.770411,-35.012148
+25,Paraíba,PB,2509107,Mari,Nordeste,-7.058061,-35.318416
+25,Paraíba,PB,2509156,Marizópolis,Nordeste,-6.84407,-38.347309
+25,Paraíba,PB,2509206,Massaranduba,Nordeste,-7.180478,-35.735242
+25,Paraíba,PB,2509305,Mataraca,Nordeste,-6.59673,-35.05308
+25,Paraíba,PB,2509339,Matinhas,Nordeste,-7.121955,-35.771343
+25,Paraíba,PB,2509370,Mato Grosso,Nordeste,-6.543386,-37.714652
+25,Paraíba,PB,2509396,Maturéia,Nordeste,-7.264629,-37.338336
+25,Paraíba,PB,2509404,Mogeiro,Nordeste,-7.3019,-35.478275
+25,Paraíba,PB,2509503,Montadas,Nordeste,-7.088656,-35.957737
+25,Paraíba,PB,2509602,Monte Horebe,Nordeste,-7.214284,-38.585758
+25,Paraíba,PB,2509701,Monteiro,Nordeste,-7.892018,-37.123205
+25,Paraíba,PB,2509800,Mulungu,Nordeste,-7.030733,-35.464709
+25,Paraíba,PB,2509909,Natuba,Nordeste,-7.6410785,-35.5507075
+25,Paraíba,PB,2510006,Nazarezinho,Nordeste,-6.915675,-38.325108
+25,Paraíba,PB,2510105,Nova Floresta,Nordeste,-6.455431,-36.204001
+25,Paraíba,PB,2510204,Nova Olinda,Nordeste,-7.478242,-38.040438
+25,Paraíba,PB,2510303,Nova Palmeira,Nordeste,-6.679504,-36.418728
+25,Paraíba,PB,2510402,Olho d'Água,Nordeste,-7.228986,-37.749007
+25,Paraíba,PB,2510501,Olivedos,Nordeste,-6.991036,-36.243729
+25,Paraíba,PB,2510600,Ouro Velho,Nordeste,-7.620909,-37.151018
+25,Paraíba,PB,2510659,Parari,Nordeste,-7.318264,-36.655621
+25,Paraíba,PB,2510709,Passagem,Nordeste,-7.136448,-37.047429
+25,Paraíba,PB,2510808,Patos,Nordeste,-7.025828,-37.276682
+25,Paraíba,PB,2510907,Paulista,Nordeste,-6.598036,-37.621577
+25,Paraíba,PB,2511004,Pedra Branca,Nordeste,-7.427755,-38.069709
+25,Paraíba,PB,2511103,Pedra Lavrada,Nordeste,-6.756274,-36.467318
+25,Paraíba,PB,2511202,Pedras de Fogo,Nordeste,-7.398898,-35.112176
+25,Paraíba,PB,2511301,Piancó,Nordeste,-7.198741,-37.925576
+25,Paraíba,PB,2511400,Picuí,Nordeste,-6.510672,-36.349274
+25,Paraíba,PB,2511509,Pilar,Nordeste,-7.264034,-35.252326
+25,Paraíba,PB,2511608,Pilões,Nordeste,-6.868269,-35.612974
+25,Paraíba,PB,2511707,Pilõezinhos,Nordeste,-6.842744,-35.530835
+25,Paraíba,PB,2511806,Pirpirituba,Nordeste,-6.780936,-35.496714
+25,Paraíba,PB,2511905,Pitimbu,Nordeste,-7.472806,-34.811233
+25,Paraíba,PB,2512002,Pocinhos,Nordeste,-7.076073,-36.060447
+25,Paraíba,PB,2512036,Poço Dantas,Nordeste,-6.405016,-38.496479
+25,Paraíba,PB,2512077,Poço de José de Moura,Nordeste,-6.57441,-38.511457
+25,Paraíba,PB,2512101,Pombal,Nordeste,-6.771131,-37.798865

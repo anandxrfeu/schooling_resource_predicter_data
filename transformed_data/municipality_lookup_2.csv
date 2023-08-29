@@ -1,0 +1,1394 @@
+Código_UF,Estado,UF,Código_IBGE,Município,Região,Latitude,Longitude
+25,Paraíba,PB,2512200,Prata,Nordeste,-7.2199,-35.8945
+25,Paraíba,PB,2512309,Princesa Isabel,Nordeste,-7.736898,-37.992134
+25,Paraíba,PB,2512408,Puxinanã,Nordeste,-7.147522,-35.961336
+25,Paraíba,PB,2512507,Queimadas,Nordeste,-7.36404,-35.901664
+25,Paraíba,PB,2512606,Quixaba,Nordeste,-7.031688,-37.147792
+25,Paraíba,PB,2512705,Remígio,Nordeste,-6.968674,-35.793213
+25,Paraíba,PB,2512721,Pedro Régis,Nordeste,-6.639906,-35.28652
+25,Paraíba,PB,2512747,Riachão,Nordeste,-6.540839,-35.660895
+25,Paraíba,PB,2512754,Riachão do Bacamarte,Nordeste,-7.253472,-35.669257
+25,Paraíba,PB,2512762,Riachão do Poço,Nordeste,-7.147482,-35.264755
+25,Paraíba,PB,2512788,Riacho de Santo Antônio,Nordeste,-7.691407,-36.156314
+25,Paraíba,PB,2512804,Riacho dos Cavalos,Nordeste,-6.435588,-37.656011
+25,Paraíba,PB,2512903,Rio Tinto,Nordeste,-6.803828,-35.077569
+25,Paraíba,PB,2513000,Salgadinho,Nordeste,-7.0231,-37.2648
+25,Paraíba,PB,2513109,Salgado de São Félix,Nordeste,-7.356071,-35.436151
+25,Paraíba,PB,2513158,Santa Cecília,Nordeste,-7.0565,-37.2759
+25,Paraíba,PB,2513208,Santa Cruz,Nordeste,-7.2447,-35.91
+25,Paraíba,PB,2513307,Santa Helena,Nordeste,-6.719891,-38.639921
+25,Paraíba,PB,2513356,Santa Inês,Nordeste,-7.626975,-38.559242
+25,Paraíba,PB,2513406,Santa Luzia,Nordeste,-6.867785,-36.918276
+25,Paraíba,PB,2513505,Santana de Mangueira,Nordeste,-7.551652,-38.336746
+25,Paraíba,PB,2513604,Santana dos Garrotes,Nordeste,-7.385686,-37.987565
+25,Paraíba,PB,2513653,Joca Claudino,Nordeste,-6.483215,-38.478874
+25,Paraíba,PB,2513703,Santa Rita,Nordeste,-7.128465,-34.984619
+25,Paraíba,PB,2513802,Santa Teresinha,Nordeste,-7.084907,-37.443367
+25,Paraíba,PB,2513851,Santo André,Nordeste,-7.219859,-36.631977
+25,Paraíba,PB,2513901,São Bento,Nordeste,-6.485919,-37.446933
+25,Paraíba,PB,2513927,São Bentinho,Nordeste,-6.890094,-37.72597
+25,Paraíba,PB,2513943,São Domingos do Cariri,Nordeste,-7.635023,-36.431743
+25,Paraíba,PB,2513968,São Domingos,Nordeste,-6.817432,-37.942643
+25,Paraíba,PB,2513984,São Francisco,Nordeste,-6.619307,-38.095798
+25,Paraíba,PB,2514008,São João do Cariri,Nordeste,-7.386747,-36.528896
+25,Paraíba,PB,2514107,São João do Tigre,Nordeste,-8.078237,-36.849141
+25,Paraíba,PB,2514206,São José da Lagoa Tapada,Nordeste,-6.942686,-38.163999
+25,Paraíba,PB,2514305,São José de Caiana,Nordeste,-7.249591,-38.299942
+25,Paraíba,PB,2514404,São José de Espinharas,Nordeste,-6.84652,-37.325023
+25,Paraíba,PB,2514453,São José dos Ramos,Nordeste,-7.245887,-35.373119
+25,Paraíba,PB,2514503,São José de Piranhas,Nordeste,-7.119851,-38.499135
+25,Paraíba,PB,2514552,São José de Princesa,Nordeste,-7.741214,-38.098945
+25,Paraíba,PB,2514602,São José do Bonfim,Nordeste,-7.161611,-37.30812
+25,Paraíba,PB,2514651,São José do Brejo do Cruz,Nordeste,-6.212327,-37.354454
+25,Paraíba,PB,2514701,São José do Sabugi,Nordeste,-6.775826,-36.797916
+25,Paraíba,PB,2514800,São José dos Cordeiros,Nordeste,-7.391768,-36.80795
+25,Paraíba,PB,2514909,São Mamede,Nordeste,-6.923862,-37.095436
+25,Paraíba,PB,2515005,São Miguel de Taipu,Nordeste,-7.250409,-35.209411
+25,Paraíba,PB,2515104,São Sebastião de Lagoa de Roça,Nordeste,-7.105167,-35.867966
+25,Paraíba,PB,2515203,São Sebastião do Umbuzeiro,Nordeste,-8.152287,-37.009072
+25,Paraíba,PB,2515302,Sapé,Nordeste,-7.093591,-35.227975
+25,Paraíba,PB,2515401,São Vicente do Seridó,Nordeste,-6.933337,-36.400864
+25,Paraíba,PB,2515500,Serra Branca,Nordeste,-7.481527,-36.663458
+25,Paraíba,PB,2515609,Serra da Raiz,Nordeste,-6.687433,-35.442067
+25,Paraíba,PB,2515708,Serra Grande,Nordeste,-7.21466,-38.371968
+25,Paraíba,PB,2515807,Serra Redonda,Nordeste,-7.186711,-35.679795
+25,Paraíba,PB,2515906,Serraria,Nordeste,-6.819313,-35.638747
+25,Paraíba,PB,2515930,Sertãozinho,Nordeste,-6.752366,-35.440732
+25,Paraíba,PB,2515971,Sobrado,Nordeste,-7.144288,-35.23574
+25,Paraíba,PB,2516003,Solânea,Nordeste,-6.754035,-35.662194
+25,Paraíba,PB,2516102,Soledade,Nordeste,-7.058292,-36.366791
+25,Paraíba,PB,2516151,Sossêgo,Nordeste,-6.767694,-36.245508
+25,Paraíba,PB,2516201,Sousa,Nordeste,-6.766203,-38.231961
+25,Paraíba,PB,2516300,Sumé,Nordeste,-7.671521,-36.878876
+25,Paraíba,PB,2516409,Tacima,Nordeste,-6.489538,-35.636485
+25,Paraíba,PB,2516508,Taperoá,Nordeste,-7.206294,-36.824499
+25,Paraíba,PB,2516607,Tavares,Nordeste,-7.63632,-37.878709
+25,Paraíba,PB,2516706,Teixeira,Nordeste,-7.221036,-37.252477
+25,Paraíba,PB,2516755,Tenório,Nordeste,-6.940837,-36.627796
+25,Paraíba,PB,2516805,Triunfo,Nordeste,-6.579042,-38.596987
+25,Paraíba,PB,2516904,Uiraúna,Nordeste,-6.521424,-38.412065
+25,Paraíba,PB,2517001,Umbuzeiro,Nordeste,-7.696494,-35.666623
+25,Paraíba,PB,2517100,Várzea,Nordeste,-6.771058,-36.99121
+25,Paraíba,PB,2517209,Vieirópolis,Nordeste,-6.543364,-38.277819
+25,Paraíba,PB,2517407,Zabelê,Nordeste,-8.075514,-37.098513
+26,Pernambuco,PE,2600054,Abreu e Lima,Nordeste,-7.900719,-34.898389
+26,Pernambuco,PE,2600104,Afogados da Ingazeira,Nordeste,-7.748128,-37.634661
+26,Pernambuco,PE,2600203,Afrânio,Nordeste,-8.519892,-41.00702
+26,Pernambuco,PE,2600302,Agrestina,Nordeste,-8.455802,-35.944266
+26,Pernambuco,PE,2600401,Água Preta,Nordeste,-8.707911,-35.519859
+26,Pernambuco,PE,2600500,Águas Belas,Nordeste,-9.111316,-37.122522
+26,Pernambuco,PE,2600609,Alagoinha,Nordeste,-8.465355500000001,-36.7753635
+26,Pernambuco,PE,2600708,Aliança,Nordeste,-7.602642,-35.226351
+26,Pernambuco,PE,2600807,Altinho,Nordeste,-8.490847,-36.062766
+26,Pernambuco,PE,2600906,Amaraji,Nordeste,-8.373925,-35.453653
+26,Pernambuco,PE,2601003,Angelim,Nordeste,-8.890204,-36.287299
+26,Pernambuco,PE,2601052,Araçoiaba,Nordeste,-7.78569,-35.089888
+26,Pernambuco,PE,2601102,Araripina,Nordeste,-7.576858,-40.503851
+26,Pernambuco,PE,2601201,Arcoverde,Nordeste,-8.415192,-37.057748
+26,Pernambuco,PE,2601300,Barra de Guabiraba,Nordeste,-8.418291,-35.663177
+26,Pernambuco,PE,2601409,Barreiros,Nordeste,-8.815964,-35.183191
+26,Pernambuco,PE,2601508,Belém de Maria,Nordeste,-8.62425,-35.838893
+26,Pernambuco,PE,2601607,Belém do São Francisco,Nordeste,-8.751771,-38.962572
+26,Pernambuco,PE,2601706,Belo Jardim,Nordeste,-8.333829,-36.417642
+26,Pernambuco,PE,2601805,Betânia,Nordeste,-8.274278,-38.035177
+26,Pernambuco,PE,2601904,Bezerros,Nordeste,-8.237213,-35.755826
+26,Pernambuco,PE,2602001,Bodocó,Nordeste,-7.777592,-39.933797
+26,Pernambuco,PE,2602100,Bom Conselho,Nordeste,-8.24,-34.98
+26,Pernambuco,PE,2602209,Bom Jardim,Nordeste,-7.79616,-35.587103
+26,Pernambuco,PE,2602308,Bonito,Nordeste,-8.472116,-35.731459
+26,Pernambuco,PE,2602407,Brejão,Nordeste,-9.029052,-36.567723
+26,Pernambuco,PE,2602506,Brejinho,Nordeste,-7.348215,-37.28538
+26,Pernambuco,PE,2602605,Brejo da Madre de Deus,Nordeste,-8.140972,-36.371253
+26,Pernambuco,PE,2602704,Buenos Aires,Nordeste,-7.721893,-35.326587
+26,Pernambuco,PE,2602803,Buíque,Nordeste,-8.623973,-37.157296
+26,Pernambuco,PE,2602902,Cabo de Santo Agostinho,Nordeste,-8.283894,-35.032098
+26,Pernambuco,PE,2603009,Cabrobó,Nordeste,-8.50837,-39.310696
+26,Pernambuco,PE,2603108,Cachoeirinha,Nordeste,-8.490636,-36.233896
+26,Pernambuco,PE,2603207,Caetés,Nordeste,-8.772879,-36.625584
+26,Pernambuco,PE,2603306,Calçado,Nordeste,-8.741345,-36.335179
+26,Pernambuco,PE,2603405,Calumbi,Nordeste,-7.939671,-38.152519
+26,Pernambuco,PE,2603454,Camaragibe,Nordeste,-8.021383,-34.981077
+26,Pernambuco,PE,2603504,Camocim de São Félix,Nordeste,-8.361676,-35.76389
+26,Pernambuco,PE,2603603,Camutanga,Nordeste,-7.409296,-35.273817
+26,Pernambuco,PE,2603702,Canhotinho,Nordeste,-8.876519,-36.197935
+26,Pernambuco,PE,2603801,Capoeiras,Nordeste,-8.738679,-36.626811
+26,Pernambuco,PE,2603900,Carnaíba,Nordeste,-7.805964,-37.794731
+26,Pernambuco,PE,2603926,Carnaubeira da Penha,Nordeste,-8.319281,-38.743589
+26,Pernambuco,PE,2604007,Carpina,Nordeste,-7.845915,-35.253886
+26,Pernambuco,PE,2604106,Caruaru,Nordeste,-8.28297,-35.972285
+26,Pernambuco,PE,2604155,Casinhas,Nordeste,-7.744698,-35.725092
+26,Pernambuco,PE,2604205,Catende,Nordeste,-8.669528,-35.725142
+26,Pernambuco,PE,2604304,Cedro,Nordeste,-8.280802,-35.945704
+26,Pernambuco,PE,2604403,Chã de Alegria,Nordeste,-7.995941,-35.213464
+26,Pernambuco,PE,2604502,Chã Grande,Nordeste,-8.238271,-35.457148
+26,Pernambuco,PE,2604601,Condado,Nordeste,-7.587868,-35.09994
+26,Pernambuco,PE,2604700,Correntes,Nordeste,-9.129558,-36.328744
+26,Pernambuco,PE,2604809,Cortês,Nordeste,-8.472492,-35.54312
+26,Pernambuco,PE,2604908,Cumaru,Nordeste,-8.006528,-35.699165
+26,Pernambuco,PE,2605004,Cupira,Nordeste,-8.605315,-35.953037
+26,Pernambuco,PE,2605103,Custódia,Nordeste,-8.08603,-37.640108
+26,Pernambuco,PE,2605152,Dormentes,Nordeste,-8.441163,-40.766168
+26,Pernambuco,PE,2605202,Escada,Nordeste,-8.362385,-35.236623
+26,Pernambuco,PE,2605301,Exu,Nordeste,-7.515434,-39.722015
+26,Pernambuco,PE,2605400,Feira Nova,Nordeste,-7.948147,-35.387168
+26,Pernambuco,PE,2605459,Fernando de Noronha,Nordeste,-3.853277,-32.423559
+26,Pernambuco,PE,2605509,Ferreiros,Nordeste,-7.449667,-35.2426
+26,Pernambuco,PE,2605608,Flores,Nordeste,-7.862025,-37.974281
+26,Pernambuco,PE,2605707,Floresta,Nordeste,-8.59698,-38.574288
+26,Pernambuco,PE,2605806,Frei Miguelinho,Nordeste,-7.943302,-35.920939
+26,Pernambuco,PE,2605905,Gameleira,Nordeste,-8.579803,-35.384573
+26,Pernambuco,PE,2606002,Garanhuns,Nordeste,-8.890589,-36.49309
+26,Pernambuco,PE,2606101,Glória do Goitá,Nordeste,-7.999959,-35.286612
+26,Pernambuco,PE,2606200,Goiana,Nordeste,-7.560603,-34.99591
+26,Pernambuco,PE,2606309,Granito,Nordeste,-7.716652,-39.616187
+26,Pernambuco,PE,2606408,Gravatá,Nordeste,-8.199305,-35.563114
+26,Pernambuco,PE,2606507,Iati,Nordeste,-9.042667,-36.84668
+26,Pernambuco,PE,2606606,Ibimirim,Nordeste,-8.537926,-37.694138
+26,Pernambuco,PE,2606705,Ibirajuba,Nordeste,-8.579552,-36.178045
+26,Pernambuco,PE,2606804,Igarassu,Nordeste,-7.835442,-34.906113
+26,Pernambuco,PE,2606903,Iguaracy,Nordeste,-7.836341,-37.514041
+26,Pernambuco,PE,2607000,Inajá,Nordeste,-8.901121,-37.824419
+26,Pernambuco,PE,2607109,Ingazeira,Nordeste,-7.677311,-37.45989
+26,Pernambuco,PE,2607208,Ipojuca,Nordeste,-8.398077,-35.061107
+26,Pernambuco,PE,2607307,Ipubi,Nordeste,-7.653533,-40.149408
+26,Pernambuco,PE,2607406,Itacuruba,Nordeste,-8.726788,-38.686884
+26,Pernambuco,PE,2607505,Itaíba,Nordeste,-8.945612,-37.420432
+26,Pernambuco,PE,2607604,Ilha de Itamaracá,Nordeste,-7.747664,-34.830319
+26,Pernambuco,PE,2607653,Itambé,Nordeste,-7.410851,-35.10967
+26,Pernambuco,PE,2607703,Itapetim,Nordeste,-7.377426,-37.188803
+26,Pernambuco,PE,2607752,Itapissuma,Nordeste,-7.767983,-34.897136
+26,Pernambuco,PE,2607802,Itaquitinga,Nordeste,-7.664257,-35.102362
+26,Pernambuco,PE,2607901,Jaboatão dos Guararapes,Nordeste,-8.175248,-34.946872
+26,Pernambuco,PE,2607950,Jaqueira,Nordeste,-8.036,-34.9026
+26,Pernambuco,PE,2608008,Jataúba,Nordeste,-7.986054,-36.498012
+26,Pernambuco,PE,2608057,Jatobá,Nordeste,-9.183235,-38.267205
+26,Pernambuco,PE,2608107,João Alfredo,Nordeste,-7.860875,-35.591575
+26,Pernambuco,PE,2608206,Joaquim Nabuco,Nordeste,-8.623319,-35.526411
+26,Pernambuco,PE,2608255,Jucati,Nordeste,-8.706583,-36.48705
+26,Pernambuco,PE,2608305,Jupi,Nordeste,-8.711468,-36.417448
+26,Pernambuco,PE,2608404,Jurema,Nordeste,-8.71891,-36.137365
+26,Pernambuco,PE,2608453,Lagoa do Carro,Nordeste,-7.843834,-35.310783
+26,Pernambuco,PE,2608503,Lagoa de Itaenga,Nordeste,-7.93356,-35.291979
+26,Pernambuco,PE,2608602,Lagoa do Ouro,Nordeste,-9.124776,-36.459257
+26,Pernambuco,PE,2608701,Lagoa dos Gatos,Nordeste,-8.653761,-35.904512
+26,Pernambuco,PE,2608750,Lagoa Grande,Nordeste,-8.993065,-40.271645
+26,Pernambuco,PE,2608800,Lajedo,Nordeste,-8.657914,-36.329336
+26,Pernambuco,PE,2608909,Limoeiro,Nordeste,-7.872599,-35.440154
+26,Pernambuco,PE,2609006,Macaparana,Nordeste,-7.555638,-35.44246
+26,Pernambuco,PE,2609105,Machados,Nordeste,-7.6877,-35.512664
+26,Pernambuco,PE,2609154,Manari,Nordeste,-8.961617,-37.624648
+26,Pernambuco,PE,2609204,Maraial,Nordeste,-8.782379,-35.811315
+26,Pernambuco,PE,2609303,Mirandiba,Nordeste,-8.12021,-38.728459
+26,Pernambuco,PE,2609402,Moreno,Nordeste,-8.108706,-35.08354
+26,Pernambuco,PE,2609501,Nazaré da Mata,Nordeste,-7.745269,-35.22864
+26,Pernambuco,PE,2609600,Olinda,Nordeste,-7.99864,-34.845955
+26,Pernambuco,PE,2609709,Orobó,Nordeste,-7.746458375,-35.60282775
+26,Pernambuco,PE,2609808,Orocó,Nordeste,-8.614729,-39.603668
+26,Pernambuco,PE,2609907,Ouricuri,Nordeste,-7.884432,-40.083322
+26,Pernambuco,PE,2610004,Palmares,Nordeste,-8.684226,-35.589032
+26,Pernambuco,PE,2610103,Palmeirina,Nordeste,-9.003097,-36.325404
+26,Pernambuco,PE,2610202,Panelas,Nordeste,-8.661211,-36.012539
+26,Pernambuco,PE,2610301,Paranatama,Nordeste,-8.91981,-36.657351
+26,Pernambuco,PE,2610400,Parnamirim,Nordeste,-8.0339,-34.9104
+26,Pernambuco,PE,2610509,Passira,Nordeste,-7.976781,-35.580252
+26,Pernambuco,PE,2610608,Paudalho,Nordeste,-7.90287,-35.171639
+26,Pernambuco,PE,2610707,Paulista,Nordeste,-7.934007,-34.868407
+26,Pernambuco,PE,2610806,Pedra,Nordeste,-8.499559,-36.944377
+26,Pernambuco,PE,2610905,Pesqueira,Nordeste,-8.357447,-36.696824
+26,Pernambuco,PE,2611002,Petrolândia,Nordeste,-8.970186,-38.221366
+26,Pernambuco,PE,2611101,Petrolina,Nordeste,-9.381733,-40.496888
+26,Pernambuco,PE,2611200,Poção,Nordeste,-8.186709,-36.70239
+26,Pernambuco,PE,2611309,Pombos,Nordeste,-8.139858,-35.396437
+26,Pernambuco,PE,2611408,Primavera,Nordeste,-8.330845,-35.352303
+26,Pernambuco,PE,2611507,Quipapá,Nordeste,-8.826943,-36.011622
+26,Pernambuco,PE,2611533,Quixaba,Nordeste,-7.718527,-37.84844
+26,Pernambuco,PE,2611606,Recife,Nordeste,-8.058493,-34.884819
+26,Pernambuco,PE,2611705,Riacho das Almas,Nordeste,-8.135633,-35.856642
+26,Pernambuco,PE,2611804,Ribeirão,Nordeste,-8.506676,-35.374734
+26,Pernambuco,PE,2611903,Rio Formoso,Nordeste,-8.660629,-35.155074
+26,Pernambuco,PE,2612000,Sairé,Nordeste,-8.327781,-35.709461
+26,Pernambuco,PE,2612109,Salgadinho,Nordeste,-8.03,-34.87
+26,Pernambuco,PE,2612208,Salgueiro,Nordeste,-8.073734,-39.12469
+26,Pernambuco,PE,2612307,Saloá,Nordeste,-8.974964,-36.68923
+26,Pernambuco,PE,2612406,Sanharó,Nordeste,-8.362878,-36.557319
+26,Pernambuco,PE,2612455,Santa Cruz,Nordeste,-8.239255,-40.331661
+26,Pernambuco,PE,2612471,Santa Cruz da Baixa Verde,Nordeste,-7.818545,-38.152351
+26,Pernambuco,PE,2612505,Santa Cruz do Capibaribe,Nordeste,-7.948019,-36.206092
+26,Pernambuco,PE,2612554,Santa Filomena,Nordeste,-8.1615595,-40.61425
+26,Pernambuco,PE,2612604,Santa Maria da Boa Vista,Nordeste,-8.800161,-39.82711
+26,Pernambuco,PE,2612703,Santa Maria do Cambucá,Nordeste,-7.832815,-35.882795
+26,Pernambuco,PE,2612802,Santa Terezinha,Nordeste,-8.022446,-35.008397
+26,Pernambuco,PE,2612901,São Benedito do Sul,Nordeste,-8.810729,-35.933404
+26,Pernambuco,PE,2613008,São Bento do Una,Nordeste,-8.520709,-36.444555
+26,Pernambuco,PE,2613107,São Caitano,Nordeste,-8.330449,-36.135359
+26,Pernambuco,PE,2613206,São João,Nordeste,-8.875762,-36.36532
+26,Pernambuco,PE,2613305,São Joaquim do Monte,Nordeste,-8.432365,-35.807618
+26,Pernambuco,PE,2613404,São José da Coroa Grande,Nordeste,-8.889375,-35.151461
+26,Pernambuco,PE,2613503,São José do Belmonte,Nordeste,-7.864126,-38.759955
+26,Pernambuco,PE,2613602,São José do Egito,Nordeste,-7.469447,-37.273974
+26,Pernambuco,PE,2613701,São Lourenço da Mata,Nordeste,-7.995961,-35.039335
+26,Pernambuco,PE,2613800,São Vicente Férrer,Nordeste,-7.589691,-35.480844
+26,Pernambuco,PE,2613909,Serra Talhada,Nordeste,-7.98678,-38.292029
+26,Pernambuco,PE,2614006,Serrita,Nordeste,-7.947695,-39.295738
+26,Pernambuco,PE,2614105,Sertânia,Nordeste,-8.068467,-37.268393
+26,Pernambuco,PE,2614204,Sirinhaém,Nordeste,-8.591935,-35.115516
+26,Pernambuco,PE,2614303,Moreilândia,Nordeste,-7.629863,-39.553552
+26,Pernambuco,PE,2614402,Solidão,Nordeste,-7.60087,-37.65144
+26,Pernambuco,PE,2614501,Surubim,Nordeste,-7.842435,-35.753972
+26,Pernambuco,PE,2614600,Tabira,Nordeste,-7.583661,-37.537735
+26,Pernambuco,PE,2614709,Tacaimbó,Nordeste,-8.3176565,-36.2920895
+26,Pernambuco,PE,2614808,Tacaratu,Nordeste,-9.105176,-38.149913
+26,Pernambuco,PE,2614857,Tamandaré,Nordeste,-8.750001,-35.104579
+26,Pernambuco,PE,2615003,Taquaritinga do Norte,Nordeste,-7.902777,-36.044223
+26,Pernambuco,PE,2615102,Terezinha,Nordeste,-9.056037,-36.623375
+26,Pernambuco,PE,2615201,Terra Nova,Nordeste,-8.224952,-39.384464
+26,Pernambuco,PE,2615300,Timbaúba,Nordeste,-7.511882,-35.316076
+26,Pernambuco,PE,2615409,Toritama,Nordeste,-8.008374,-36.058776
+26,Pernambuco,PE,2615508,Tracunhaém,Nordeste,-7.802725,-35.238498
+26,Pernambuco,PE,2615607,Trindade,Nordeste,-7.759,-40.26472
+26,Pernambuco,PE,2615706,Triunfo,Nordeste,-7.836296,-38.104262
+26,Pernambuco,PE,2615805,Tupanatinga,Nordeste,-8.754238,-37.339873
+26,Pernambuco,PE,2615904,Tuparetama,Nordeste,-7.601012,-37.311442
+26,Pernambuco,PE,2616001,Venturosa,Nordeste,-8.576261,-36.878899
+26,Pernambuco,PE,2616100,Verdejante,Nordeste,-7.928567,-38.968547
+26,Pernambuco,PE,2616183,Vertente do Lério,Nordeste,-7.773336,-35.849848
+26,Pernambuco,PE,2616209,Vertentes,Nordeste,-7.906103,-35.989498
+26,Pernambuco,PE,2616308,Vicência,Nordeste,-7.657442,-35.321846
+26,Pernambuco,PE,2616407,Vitória de Santo Antão,Nordeste,-8.120902,-35.294486
+26,Pernambuco,PE,2616506,Xexéu,Nordeste,-8.803776500000001,-35.6271165
+27,Alagoas,AL,2700102,Água Branca,Nordeste,-9.261361,-37.936105
+27,Alagoas,AL,2700201,Anadia,Nordeste,-9.683021,-36.30527
+27,Alagoas,AL,2700300,Arapiraca,Nordeste,-9.754866,-36.661471
+27,Alagoas,AL,2700409,Atalaia,Nordeste,-9.502959,-36.021932
+27,Alagoas,AL,2700508,Barra de Santo Antônio,Nordeste,-9.40381,-35.511769
+27,Alagoas,AL,2700607,Barra de São Miguel,Nordeste,-9.826136,-35.883778
+27,Alagoas,AL,2700706,Batalha,Nordeste,-9.673381,-37.126548
+27,Alagoas,AL,2700805,Belém,Nordeste,-9.571535,-36.492841
+27,Alagoas,AL,2700904,Belo Monte,Nordeste,-9.826994,-37.278717
+27,Alagoas,AL,2701001,Boca da Mata,Nordeste,-9.645205,-36.211666
+27,Alagoas,AL,2701100,Branquinha,Nordeste,-9.247806,-36.015201
+27,Alagoas,AL,2701209,Cacimbinhas,Nordeste,-9.40047,-36.990432999999996
+27,Alagoas,AL,2701308,Cajueiro,Nordeste,-9.399589,-36.152431
+27,Alagoas,AL,2701357,Campestre,Nordeste,-8.848163,-35.566003
+27,Alagoas,AL,2701407,Campo Alegre,Nordeste,-9.779861,-36.357579
+27,Alagoas,AL,2701506,Campo Grande,Nordeste,-9.955423,-36.792608
+27,Alagoas,AL,2701605,Canapi,Nordeste,-9.117357,-37.60117
+27,Alagoas,AL,2701704,Capela,Nordeste,-9.415041,-36.082583
+27,Alagoas,AL,2701803,Carneiros,Nordeste,-9.483295,-37.375712
+27,Alagoas,AL,2701902,Chã Preta,Nordeste,-9.255605,-36.298334
+27,Alagoas,AL,2702009,Coité do Nóia,Nordeste,-9.633484,-36.584493
+27,Alagoas,AL,2702108,Colônia Leopoldina,Nordeste,-8.914465,-35.722026
+27,Alagoas,AL,2702207,Coqueiro Seco,Nordeste,-9.637147,-35.799377
+27,Alagoas,AL,2702306,Coruripe,Nordeste,-10.124996,-36.176062
+27,Alagoas,AL,2702355,Craíbas,Nordeste,-9.616804,-36.768467
+27,Alagoas,AL,2702405,Delmiro Gouveia,Nordeste,-9.384116,-37.997756
+27,Alagoas,AL,2702504,Dois Riachos,Nordeste,-9.384645,-37.096502
+27,Alagoas,AL,2702553,Estrela de Alagoas,Nordeste,-9.388897,-36.761683
+27,Alagoas,AL,2702603,Feira Grande,Nordeste,-9.894424,-36.679326
+27,Alagoas,AL,2702702,Feliz Deserto,Nordeste,-10.292494,-36.302858
+27,Alagoas,AL,2702801,Flexeiras,Nordeste,-9.278868,-35.723525
+27,Alagoas,AL,2702900,Girau do Ponciano,Nordeste,-9.884041,-36.831592
+27,Alagoas,AL,2703007,Ibateguara,Nordeste,-8.97372,-35.927996
+27,Alagoas,AL,2703106,Igaci,Nordeste,-9.537678,-36.637191
+27,Alagoas,AL,2703205,Igreja Nova,Nordeste,-10.126724,-36.658151
+27,Alagoas,AL,2703304,Inhapi,Nordeste,-9.222095,-37.748065
+27,Alagoas,AL,2703403,Jacaré dos Homens,Nordeste,-9.634872,-37.205575
+27,Alagoas,AL,2703502,Jacuípe,Nordeste,-8.83951,-35.459074
+27,Alagoas,AL,2703601,Japaratinga,Nordeste,-9.087464,-35.263403
+27,Alagoas,AL,2703700,Jaramataia,Nordeste,-9.659731,-37.001548
+27,Alagoas,AL,2703759,Jequiá da Praia,Nordeste,-10.009259,-36.023279
+27,Alagoas,AL,2703809,Joaquim Gomes,Nordeste,-9.137289,-35.751886
+27,Alagoas,AL,2703908,Jundiá,Nordeste,-8.944022,-35.554683
+27,Alagoas,AL,2704005,Junqueiro,Nordeste,-9.920155,-36.474737
+27,Alagoas,AL,2704104,Lagoa da Canoa,Nordeste,-9.829401,-36.739562
+27,Alagoas,AL,2704203,Limoeiro de Anadia,Nordeste,-9.738967,-36.501585
+27,Alagoas,AL,2704302,Maceió,Nordeste,-9.647684,-35.733926
+27,Alagoas,AL,2704401,Major Isidoro,Nordeste,-9.532656,-36.986204
+27,Alagoas,AL,2704500,Maragogi,Nordeste,-9.011828,-35.222512
+27,Alagoas,AL,2704609,Maravilha,Nordeste,-9.230449,-37.352419
+27,Alagoas,AL,2704708,Marechal Deodoro,Nordeste,-9.709715,-35.896731
+27,Alagoas,AL,2704807,Maribondo,Nordeste,-9.580865,-36.304057
+27,Alagoas,AL,2704906,Mar Vermelho,Nordeste,-9.447393,-36.388076
+27,Alagoas,AL,2705002,Mata Grande,Nordeste,-9.118243,-37.732298
+27,Alagoas,AL,2705101,Matriz de Camaragibe,Nordeste,-9.154373,-35.524302
+27,Alagoas,AL,2705200,Messias,Nordeste,-9.393843,-35.839182
+27,Alagoas,AL,2705309,Minador do Negrão,Nordeste,-9.312358,-36.869553
+27,Alagoas,AL,2705408,Monteirópolis,Nordeste,-9.602565,-37.246172
+27,Alagoas,AL,2705507,Murici,Nordeste,-9.306823,-35.942798
+27,Alagoas,AL,2705606,Novo Lino,Nordeste,-8.941905,-35.664001
+27,Alagoas,AL,2705705,Olho d'Água das Flores,Nordeste,-9.531837,-37.293905
+27,Alagoas,AL,2705804,Olho d'Água do Casado,Nordeste,-9.502078,-37.832454
+27,Alagoas,AL,2705903,Olho d'Água Grande,Nordeste,-10.056075,-36.813525
+27,Alagoas,AL,2706000,Olivença,Nordeste,-9.519055,-37.189332
+27,Alagoas,AL,2706109,Ouro Branco,Nordeste,-9.16227,-37.358289
+27,Alagoas,AL,2706208,Palestina,Nordeste,-9.672794,-37.328509
+27,Alagoas,AL,2706307,Palmeira dos Índios,Nordeste,-9.407625,-36.632362
+27,Alagoas,AL,2706406,Pão de Açúcar,Nordeste,-9.749655,-37.432989
+27,Alagoas,AL,2706422,Pariconha,Nordeste,-9.254015,-38.003924
+27,Alagoas,AL,2706448,Paripueira,Nordeste,-9.463133,-35.551977
+27,Alagoas,AL,2706505,Passo de Camaragibe,Nordeste,-9.236783,-35.490102
+27,Alagoas,AL,2706604,Paulo Jacinto,Nordeste,-9.367918,-36.367241
+27,Alagoas,AL,2706703,Penedo,Nordeste,-10.287234,-36.581926
+27,Alagoas,AL,2706802,Piaçabuçu,Nordeste,-10.40669,-36.433654
+27,Alagoas,AL,2706901,Pilar,Nordeste,-9.601671,-35.951128
+27,Alagoas,AL,2707008,Pindoba,Nordeste,-9.473822,-36.291829
+27,Alagoas,AL,2707107,Piranhas,Nordeste,-9.611558,-37.761637
+27,Alagoas,AL,2707206,Poço das Trincheiras,Nordeste,-9.306321,-37.285519
+27,Alagoas,AL,2707305,Porto Calvo,Nordeste,-9.051948,-35.398653
+27,Alagoas,AL,2707404,Porto de Pedras,Nordeste,-9.637056,-35.711318
+27,Alagoas,AL,2707503,Porto Real do Colégio,Nordeste,-10.186833,-36.835706
+27,Alagoas,AL,2707602,Quebrangulo,Nordeste,-9.321761,-36.473584
+27,Alagoas,AL,2707701,Rio Largo,Nordeste,-9.477829,-35.839435
+27,Alagoas,AL,2707800,Roteiro,Nordeste,-9.833493,-35.977713
+27,Alagoas,AL,2707909,Santa Luzia do Norte,Nordeste,-9.6037,-35.823196
+27,Alagoas,AL,2708006,Santana do Ipanema,Nordeste,-9.369989,-37.248018
+27,Alagoas,AL,2708105,Santana do Mundaú,Nordeste,-9.171413,-36.217608
+27,Alagoas,AL,2708204,São Brás,Nordeste,-10.125883,-36.898249
+27,Alagoas,AL,2708303,São José da Laje,Nordeste,-9.009304,-36.056732
+27,Alagoas,AL,2708402,São José da Tapera,Nordeste,-9.558429,-37.381889
+27,Alagoas,AL,2708501,São Luís do Quitunde,Nordeste,-9.318175,-35.56051
+27,Alagoas,AL,2708600,São Miguel dos Campos,Nordeste,-9.783111,-36.09678
+27,Alagoas,AL,2708709,São Miguel dos Milagres,Nordeste,-9.267217,-35.376312
+27,Alagoas,AL,2708808,São Sebastião,Nordeste,-9.931506,-36.543925
+27,Alagoas,AL,2708907,Satuba,Nordeste,-9.569113,-35.822697
+27,Alagoas,AL,2708956,Senador Rui Palmeira,Nordeste,-9.469865,-37.457606
+27,Alagoas,AL,2709004,Tanque d'Arca,Nordeste,-9.534817,-36.431458
+27,Alagoas,AL,2709103,Taquarana,Nordeste,-9.64529,-36.492844
+27,Alagoas,AL,2709152,Teotônio Vilela,Nordeste,-9.906274,-36.357134
+27,Alagoas,AL,2709202,Traipu,Nordeste,-9.97022075,-37.0028735
+27,Alagoas,AL,2709301,União dos Palmares,Nordeste,-9.157681,-36.034225
+27,Alagoas,AL,2709400,Viçosa,Nordeste,-9.372803,-36.243264
+28,Sergipe,SE,2800100,Amparo do São Francisco,Nordeste,-10.129975,-36.92691
+28,Sergipe,SE,2800209,Aquidabã,Nordeste,-10.283758,-37.018869
+28,Sergipe,SE,2800308,Aracaju,Nordeste,-10.916206,-37.077466
+28,Sergipe,SE,2800407,Arauá,Nordeste,-11.262839,-37.619978
+28,Sergipe,SE,2800506,Areia Branca,Nordeste,-10.759145,-37.314807
+28,Sergipe,SE,2800605,Barra dos Coqueiros,Nordeste,-10.907569,-37.038625
+28,Sergipe,SE,2800670,Boquim,Nordeste,-11.145017,-37.620423
+28,Sergipe,SE,2800704,Brejo Grande,Nordeste,-10.428736,-36.466792
+28,Sergipe,SE,2801009,Campo do Brito,Nordeste,-10.749625,-37.494228
+28,Sergipe,SE,2801108,Canhoba,Nordeste,-10.137368,-36.97108
+28,Sergipe,SE,2801207,Canindé de São Francisco,Nordeste,-9.659747,-37.790446
+28,Sergipe,SE,2801306,Capela,Nordeste,-10.50494,-37.055257
+28,Sergipe,SE,2801405,Carira,Nordeste,-10.358303,-37.701473
+28,Sergipe,SE,2801504,Carmópolis,Nordeste,-10.64835,-36.98493
+28,Sergipe,SE,2801603,Cedro de São João,Nordeste,-10.250678,-36.881607
+28,Sergipe,SE,2801702,Cristinápolis,Nordeste,-11.475702,-37.755521
+28,Sergipe,SE,2801900,Cumbe,Nordeste,-10.355246,-37.182879
+28,Sergipe,SE,2802007,Divina Pastora,Nordeste,-10.678323,-37.148273
+28,Sergipe,SE,2802106,Estância,Nordeste,-11.268225,-37.437834
+28,Sergipe,SE,2802205,Feira Nova,Nordeste,-10.262988,-37.313127
+28,Sergipe,SE,2802304,Frei Paulo,Nordeste,-10.549956,-37.535607
+28,Sergipe,SE,2802403,Gararu,Nordeste,-9.9689,-37.082796
+28,Sergipe,SE,2802502,General Maynard,Nordeste,-10.68209,-36.98420335
+28,Sergipe,SE,2802601,Gracho Cardoso,Nordeste,-10.228301,-37.197148
+28,Sergipe,SE,2802700,Ilha das Flores,Nordeste,-10.436595,-36.537001
+28,Sergipe,SE,2802809,Indiaroba,Nordeste,-11.525097,-37.507526
+28,Sergipe,SE,2802908,Itabaiana,Nordeste,-10.68562,-37.427052
+28,Sergipe,SE,2803005,Itabaianinha,Nordeste,-11.276014,-37.78666
+28,Sergipe,SE,2803104,Itabi,Nordeste,-10.126341,-37.101757
+28,Sergipe,SE,2803203,Itaporanga d'Ajuda,Nordeste,-10.996167,-37.304584
+28,Sergipe,SE,2803302,Japaratuba,Nordeste,-10.593489,-36.941514
+28,Sergipe,SE,2803401,Japoatã,Nordeste,-10.346786,-36.799878
+28,Sergipe,SE,2803500,Lagarto,Nordeste,-10.914179,-37.671531
+28,Sergipe,SE,2803609,Laranjeiras,Nordeste,-10.804023,-37.165834
+28,Sergipe,SE,2803708,Macambira,Nordeste,-10.665796,-37.539649
+28,Sergipe,SE,2803807,Malhada dos Bois,Nordeste,-10.345078,-36.920666
+28,Sergipe,SE,2803906,Malhador,Nordeste,-10.658862,-37.308556
+28,Sergipe,SE,2804003,Maruim,Nordeste,-10.73726,-37.081747
+28,Sergipe,SE,2804102,Moita Bonita,Nordeste,-10.579324,-37.342388
+28,Sergipe,SE,2804201,Monte Alegre de Sergipe,Nordeste,-10.028113,-37.562272
+28,Sergipe,SE,2804300,Muribeca,Nordeste,-10.422708,-36.95673
+28,Sergipe,SE,2804409,Neópolis,Nordeste,-10.316989,-36.57689
+28,Sergipe,SE,2804458,Nossa Senhora Aparecida,Nordeste,-10.396895,-37.45397
+28,Sergipe,SE,2804508,Nossa Senhora da Glória,Nordeste,-10.218881,-37.419976
+28,Sergipe,SE,2804607,Nossa Senhora das Dores,Nordeste,-10.49275,-37.193168
+28,Sergipe,SE,2804706,Nossa Senhora de Lourdes,Nordeste,-10.078675,-37.057218
+28,Sergipe,SE,2804805,Nossa Senhora do Socorro,Nordeste,-10.855311,-37.126486
+28,Sergipe,SE,2804904,Pacatuba,Nordeste,-10.450659,-36.647321
+28,Sergipe,SE,2805000,Pedra Mole,Nordeste,-10.618105,-37.68651
+28,Sergipe,SE,2805109,Pedrinhas,Nordeste,-11.192952,-37.675781
+28,Sergipe,SE,2805208,Pinhão,Nordeste,-10.568299,-37.723641
+28,Sergipe,SE,2805307,Pirambu,Nordeste,-10.740856,-36.859125
+28,Sergipe,SE,2805406,Poço Redondo,Nordeste,-9.808332,-37.682795
+28,Sergipe,SE,2805505,Poço Verde,Nordeste,-10.719283,-38.172177
+28,Sergipe,SE,2805604,Porto da Folha,Nordeste,-9.915276,-37.279137
+28,Sergipe,SE,2805703,Propriá,Nordeste,-10.212427,-36.837225
+28,Sergipe,SE,2805802,Riachão do Dantas,Nordeste,-11.070444,-37.726446
+28,Sergipe,SE,2805901,Riachuelo,Nordeste,-10.943157,-37.058553
+28,Sergipe,SE,2806008,Ribeirópolis,Nordeste,-10.540558,-37.436878
+28,Sergipe,SE,2806107,Rosário do Catete,Nordeste,-10.69681,-37.031918
+28,Sergipe,SE,2806206,Salgado,Nordeste,-11.028244,-37.47828
+28,Sergipe,SE,2806305,Santa Luzia do Itanhy,Nordeste,-11.352017,-37.448576
+28,Sergipe,SE,2806404,Santana do São Francisco,Nordeste,-10.292661,-36.607467
+28,Sergipe,SE,2806503,Santa Rosa de Lima,Nordeste,-10.647494,-37.192637
+28,Sergipe,SE,2806602,Santo Amaro das Brotas,Nordeste,-10.7867,-37.054711
+28,Sergipe,SE,2806701,São Cristóvão,Nordeste,-11.013646,-37.207113
+28,Sergipe,SE,2806800,São Domingos,Nordeste,-10.790375,-37.566759
+28,Sergipe,SE,2806909,São Francisco,Nordeste,-10.349658,-36.885124
+28,Sergipe,SE,2807006,São Miguel do Aleixo,Nordeste,-10.389216,-37.382616
+28,Sergipe,SE,2807105,Simão Dias,Nordeste,-10.73883,-37.809016
+28,Sergipe,SE,2807204,Siriri,Nordeste,-10.604584,-37.11433
+28,Sergipe,SE,2807303,Telha,Nordeste,-10.208982,-36.884113
+28,Sergipe,SE,2807402,Tobias Barreto,Nordeste,-11.187872,-38.00304
+28,Sergipe,SE,2807501,Tomar do Geru,Nordeste,-11.375247,-37.84134
+28,Sergipe,SE,2807600,Umbaúba,Nordeste,-11.382679,-37.656556
+29,Bahia,BA,2900108,Abaíra,Nordeste,-13.25033,-41.664034
+29,Bahia,BA,2900207,Abaré,Nordeste,-8.723991,-39.113969
+29,Bahia,BA,2900306,Acajutiba,Nordeste,-11.662544749999999,-38.017315249999996
+29,Bahia,BA,2900355,Adustina,Nordeste,-10.535887,-38.114479
+29,Bahia,BA,2900405,Água Fria,Nordeste,-11.878469,-38.766371
+29,Bahia,BA,2900504,Érico Cardoso,Nordeste,-13.419162,-42.138149
+29,Bahia,BA,2900603,Aiquara,Nordeste,-14.126918,-39.888757
+29,Bahia,BA,2900702,Alagoinhas,Nordeste,-12.133526,-38.420772
+29,Bahia,BA,2900801,Alcobaça,Nordeste,-17.521587,-39.196547
+29,Bahia,BA,2900900,Almadina,Nordeste,-14.702581,-39.638332
+29,Bahia,BA,2901007,Amargosa,Nordeste,-13.030219,-39.604069
+29,Bahia,BA,2901106,Amélia Rodrigues,Nordeste,-12.401539,-38.751697
+29,Bahia,BA,2901155,América Dourada,Nordeste,-11.451526,-41.435752
+29,Bahia,BA,2901205,Anagé,Nordeste,-14.613467,-41.137631
+29,Bahia,BA,2901304,Andaraí,Nordeste,-12.805967,-41.332292
+29,Bahia,BA,2901353,Andorinha,Nordeste,-10.344571,-39.833441
+29,Bahia,BA,2901403,Angical,Nordeste,-12.005623,-44.700024
+29,Bahia,BA,2901502,Anguera,Nordeste,-12.150942,-39.245247
+29,Bahia,BA,2901601,Antas,Nordeste,-10.411465,-38.330882
+29,Bahia,BA,2901700,Antônio Cardoso,Nordeste,-12.436312,-39.120031
+29,Bahia,BA,2901809,Antônio Gonçalves,Nordeste,-10.571541,-40.274882
+29,Bahia,BA,2901908,Aporá,Nordeste,-11.659975,-38.079476
+29,Bahia,BA,2901957,Apuarema,Nordeste,-13.85179,-39.745713
+29,Bahia,BA,2902005,Aracatu,Nordeste,-14.427424,-41.460411
+29,Bahia,BA,2902054,Araçás,Nordeste,-12.213918,-38.202616
+29,Bahia,BA,2902104,Araci,Nordeste,-11.335606,-38.957326
+29,Bahia,BA,2902203,Aramari,Nordeste,-12.09079,-38.498507
+29,Bahia,BA,2902252,Arataca,Nordeste,-15.261742,-39.412294
+29,Bahia,BA,2902302,Aratuípe,Nordeste,-13.077137,-39.001079
+29,Bahia,BA,2902401,Aurelino Leal,Nordeste,-14.316714,-39.325611
+29,Bahia,BA,2902500,Baianópolis,Nordeste,-12.306756,-44.538359
+29,Bahia,BA,2902609,Baixa Grande,Nordeste,-11.963094,-40.165754
+29,Bahia,BA,2902658,Banzaê,Nordeste,-10.582762,-38.612231
+29,Bahia,BA,2902708,Barra,Nordeste,-11.08927,-43.142045
+29,Bahia,BA,2902807,Barra da Estiva,Nordeste,-13.62615775,-41.32706175
+29,Bahia,BA,2902906,Barra do Choça,Nordeste,-14.865057,-40.576662
+29,Bahia,BA,2903003,Barra do Mendes,Nordeste,-11.809447,-42.0593675
+29,Bahia,BA,2903102,Barra do Rocha,Nordeste,-14.209097,-39.60044
+29,Bahia,BA,2903201,Barreiras,Nordeste,-12.144003,-44.996741
+29,Bahia,BA,2903235,Barro Alto,Nordeste,-11.761802,-41.90949
+29,Bahia,BA,2903276,Barrocas,Nordeste,-11.533866,-39.080211
+29,Bahia,BA,2903300,Barro Preto,Nordeste,-14.806829,-39.472759
+29,Bahia,BA,2903409,Belmonte,Nordeste,-15.862702500000001,-38.88208
+29,Bahia,BA,2903508,Belo Campo,Nordeste,-15.033829,-41.258511
+29,Bahia,BA,2903607,Biritinga,Nordeste,-11.622791,-38.806674
+29,Bahia,BA,2903706,Boa Nova,Nordeste,-14.365907,-40.206306
+29,Bahia,BA,2903805,Boa Vista do Tupim,Nordeste,-12.659992,-40.60288
+29,Bahia,BA,2903904,Bom Jesus da Lapa,Nordeste,-13.250571,-43.410754
+29,Bahia,BA,2903953,Bom Jesus da Serra,Nordeste,-14.37483,-40.505769
+29,Bahia,BA,2904001,Boninal,Nordeste,-12.709518,-41.829998
+29,Bahia,BA,2904050,Bonito,Nordeste,-11.966547,-41.26499
+29,Bahia,BA,2904100,Boquira,Nordeste,-12.818486,-42.727088
+29,Bahia,BA,2904209,Botuporã,Nordeste,-13.374475,-42.519847
+29,Bahia,BA,2904308,Brejões,Nordeste,-13.103375,-39.790984
+29,Bahia,BA,2904407,Brejolândia,Nordeste,-12.484384,-43.961186
+29,Bahia,BA,2904506,Brotas de Macaúbas,Nordeste,-12.002662,-42.627451
+29,Bahia,BA,2904605,Brumado,Nordeste,-14.20251,-41.670131
+29,Bahia,BA,2904704,Buerarema,Nordeste,-14.957118,-39.300804
+29,Bahia,BA,2904753,Buritirama,Nordeste,-10.714842,-43.636233
+29,Bahia,BA,2904803,Caatiba,Nordeste,-14.978276,-40.409233
+29,Bahia,BA,2904852,Cabaceiras do Paraguaçu,Nordeste,-12.537787,-39.190134
+29,Bahia,BA,2904902,Cachoeira,Nordeste,-12.599826,-38.966592
+29,Bahia,BA,2905008,Caculé,Nordeste,-14.499073,-42.223301
+29,Bahia,BA,2905107,Caém,Nordeste,-11.090966,-40.432219
+29,Bahia,BA,2905156,Caetanos,Nordeste,-17.901067,-39.372046
+29,Bahia,BA,2905206,Caetité,Nordeste,-14.069178,-42.485243
+29,Bahia,BA,2905305,Cafarnaum,Nordeste,-11.691399,-41.468823
+29,Bahia,BA,2905404,Cairu,Nordeste,-13.48605,-39.045574
+29,Bahia,BA,2905503,Caldeirão Grande,Nordeste,-11.020848,-40.304139
+29,Bahia,BA,2905602,Camacan,Nordeste,-15.416663,-39.493009
+29,Bahia,BA,2905701,Camaçari,Nordeste,-12.699819,-38.326076
+29,Bahia,BA,2905800,Camamu,Nordeste,-13.943814,-39.106092
+29,Bahia,BA,2905909,Campo Alegre de Lourdes,Nordeste,-9.516033,-43.010134
+29,Bahia,BA,2906006,Campo Formoso,Nordeste,-10.51055,-40.320031
+29,Bahia,BA,2906105,Canápolis,Nordeste,-13.072454,-44.200949
+29,Bahia,BA,2906204,Canarana,Nordeste,-11.687015,-41.768368
+29,Bahia,BA,2906303,Canavieiras,Nordeste,-15.679013,-38.944962
+29,Bahia,BA,2906402,Candeal,Nordeste,-11.805344,-39.120652
+29,Bahia,BA,2906501,Candeias,Nordeste,-14.8685,-40.8137
+29,Bahia,BA,2906600,Candiba,Nordeste,-14.412503,-42.87141
+29,Bahia,BA,2906709,Cândido Sales,Nordeste,-15.503765,-41.239114
+29,Bahia,BA,2906808,Cansanção,Nordeste,-10.667145,-39.498199
+29,Bahia,BA,2906824,Canudos,Nordeste,-9.894869,-39.026624
+29,Bahia,BA,2906857,Capela do Alto Alegre,Nordeste,-11.670394,-39.836275
+29,Bahia,BA,2906873,Capim Grosso,Nordeste,-11.379323,-40.01121
+29,Bahia,BA,2906899,Caraíbas,Nordeste,-14.72496,-41.256616
+29,Bahia,BA,2906907,Caravelas,Nordeste,-17.729651,-39.266008
+29,Bahia,BA,2907004,Cardeal da Silva,Nordeste,-11.942815,-37.949446
+29,Bahia,BA,2907103,Carinhanha,Nordeste,-14.298524,-43.772349
+29,Bahia,BA,2907202,Casa Nova,Nordeste,-9.173677,-40.973448
+29,Bahia,BA,2907301,Castro Alves,Nordeste,-12.761587,-39.433737
+29,Bahia,BA,2907400,Catolândia,Nordeste,-12.315088,-44.861643
+29,Bahia,BA,2907509,Catu,Nordeste,-12.351274,-38.379108
+29,Bahia,BA,2907558,Caturama,Nordeste,-13.33093,-42.292762
+29,Bahia,BA,2907608,Central,Nordeste,-11.133874,-42.109582
+29,Bahia,BA,2907707,Chorrochó,Nordeste,-8.977406,-39.099313
+29,Bahia,BA,2907806,Cícero Dantas,Nordeste,-10.593226,-38.383441
+29,Bahia,BA,2907905,Cipó,Nordeste,-11.099053,-38.515301
+29,Bahia,BA,2908002,Coaraci,Nordeste,-14.640115,-39.551019749999995
+29,Bahia,BA,2908101,Cocos,Nordeste,-14.181122,-44.538212
+29,Bahia,BA,2908200,Conceição da Feira,Nordeste,-12.5013,-39.000217
+29,Bahia,BA,2908309,Conceição do Almeida,Nordeste,-12.777276,-39.169221
+29,Bahia,BA,2908408,Conceição do Coité,Nordeste,-11.562938,-39.283954
+29,Bahia,BA,2908507,Conceição do Jacuípe,Nordeste,-12.332556,-38.768538
+29,Bahia,BA,2908606,Conde,Nordeste,-11.812976,-37.613871
+29,Bahia,BA,2908705,Condeúba,Nordeste,-14.895726,-41.968576
+29,Bahia,BA,2908804,Contendas do Sincorá,Nordeste,-13.762827000000001,-41.042229
+29,Bahia,BA,2908903,Coração de Maria,Nordeste,-12.248434,-38.749927
+29,Bahia,BA,2909000,Cordeiros,Nordeste,-15.039722,-41.931423
+29,Bahia,BA,2909109,Coribe,Nordeste,-13.828471,-44.45727
+29,Bahia,BA,2909208,Coronel João Sá,Nordeste,-10.285639,-37.925944
+29,Bahia,BA,2909307,Correntina,Nordeste,-13.344157,-44.634507
+29,Bahia,BA,2909406,Cotegipe,Nordeste,-12.031539,-44.260401
+29,Bahia,BA,2909505,Cravolândia,Nordeste,-13.357625,-39.815395
+29,Bahia,BA,2909604,Crisópolis,Nordeste,-11.504747,-38.156035
+29,Bahia,BA,2909703,Cristópolis,Nordeste,-12.23493,-44.416081
+29,Bahia,BA,2909802,Cruz das Almas,Nordeste,-12.672265,-39.105367
+29,Bahia,BA,2909901,Curaçá,Nordeste,-8.992565,-39.905317
+29,Bahia,BA,2910008,Dário Meira,Nordeste,-14.433218,-39.902871
+29,Bahia,BA,2910057,Dias d'Ávila,Nordeste,-12.610723,-38.302852
+29,Bahia,BA,2910107,Dom Basílio,Nordeste,-13.758982,-41.771568
+29,Bahia,BA,2910206,Dom Macedo Costa,Nordeste,-12.907806,-39.190588
+29,Bahia,BA,2910305,Elísio Medrado,Nordeste,-12.946982,-39.520431
+29,Bahia,BA,2910404,Encruzilhada,Nordeste,-15.532211,-40.907249
+29,Bahia,BA,2910503,Entre Rios,Nordeste,-11.942374,-38.083699
+29,Bahia,BA,2910602,Esplanada,Nordeste,-11.800614,-37.9453
+29,Bahia,BA,2910701,Euclides da Cunha,Nordeste,-10.506083,-39.012988
+29,Bahia,BA,2910727,Eunápolis,Nordeste,-16.372241,-39.575704
+29,Bahia,BA,2910750,Fátima,Nordeste,-10.59441,-38.211841
+29,Bahia,BA,2910776,Feira da Mata,Nordeste,-14.211702,-44.282231
+29,Bahia,BA,2910800,Feira de Santana,Nordeste,-12.257893,-38.959805
+29,Bahia,BA,2910859,Filadélfia,Nordeste,-10.741888,-40.130418
+29,Bahia,BA,2910909,Firmino Alves,Nordeste,-14.987102,-39.924216
+29,Bahia,BA,2911006,Floresta Azul,Nordeste,-14.860224,-39.656138
+29,Bahia,BA,2911105,Formosa do Rio Preto,Nordeste,-11.041454,-45.190398
+29,Bahia,BA,2911204,Gandu,Nordeste,-13.744814,-39.484473
+29,Bahia,BA,2911253,Gavião,Nordeste,-11.47143,-39.782632
+29,Bahia,BA,2911303,Gentio do Ouro,Nordeste,-11.430214,-42.506319
+29,Bahia,BA,2911402,Glória,Nordeste,-9.342906,-38.255255
+29,Bahia,BA,2911501,Gongogi,Nordeste,-14.324025,-39.466511
+29,Bahia,BA,2911600,Governador Mangabeira,Nordeste,-12.603865,-39.037215
+29,Bahia,BA,2911659,Guajeru,Nordeste,-14.546408,-41.937905
+29,Bahia,BA,2911709,Guanambi,Nordeste,-14.223066,-42.779943
+29,Bahia,BA,2911808,Guaratinga,Nordeste,-16.58025,-39.780809
+29,Bahia,BA,2911857,Heliópolis,Nordeste,-10.675342,-38.281531
+29,Bahia,BA,2911907,Iaçu,Nordeste,-12.767207,-40.210643
+29,Bahia,BA,2912004,Ibiassucê,Nordeste,-14.271381,-42.257611
+29,Bahia,BA,2912103,Ibicaraí,Nordeste,-14.862531,-39.589087
+29,Bahia,BA,2912202,Ibicoara,Nordeste,-13.414119,-41.283679
+29,Bahia,BA,2912301,Ibicuí,Nordeste,-14.84496,-39.987915
+29,Bahia,BA,2912400,Ibipeba,Nordeste,-11.642533,-42.008307
+29,Bahia,BA,2912509,Ibipitanga,Nordeste,-12.881158500000002,-42.4867075
+29,Bahia,BA,2912608,Ibiquera,Nordeste,-12.648916,-40.9323
+29,Bahia,BA,2912707,Ibirapitanga,Nordeste,-14.161569,-39.369522
+29,Bahia,BA,2912806,Ibirapuã,Nordeste,-17.687349,-40.109661
+29,Bahia,BA,2912905,Ibirataia,Nordeste,-14.0667135,-39.64092675
+29,Bahia,BA,2913002,Ibitiara,Nordeste,-12.649377,-42.217248
+29,Bahia,BA,2913101,Ibititá,Nordeste,-11.546103,-41.978184
+29,Bahia,BA,2913200,Ibotirama,Nordeste,-12.182952,-43.218114
+29,Bahia,BA,2913309,Ichu,Nordeste,-11.749556,-39.190528
+29,Bahia,BA,2913408,Igaporã,Nordeste,-13.770995,-42.715225000000004
+29,Bahia,BA,2913457,Igrapiúna,Nordeste,-13.822711,-39.141986
+29,Bahia,BA,2913507,Iguaí,Nordeste,-14.752754,-40.089417
+29,Bahia,BA,2913606,Ilhéus,Nordeste,-14.792599,-39.045384
+29,Bahia,BA,2913705,Inhambupe,Nordeste,-11.792172,-38.359696
+29,Bahia,BA,2913804,Ipecaetá,Nordeste,-12.315826,-39.306421
+29,Bahia,BA,2913903,Ipiaú,Nordeste,-14.131821,-39.737318
+29,Bahia,BA,2914000,Ipirá,Nordeste,-12.157834,-39.741661
+29,Bahia,BA,2914109,Ipupiara,Nordeste,-11.82207,-42.611139
+29,Bahia,BA,2914208,Irajuba,Nordeste,-13.252531,-40.084204
+29,Bahia,BA,2914307,Iramaia,Nordeste,-13.293745,-40.957604
+29,Bahia,BA,2914406,Iraquara,Nordeste,-12.243907,-41.616918
+29,Bahia,BA,2914505,Irará,Nordeste,-12.042027,-38.763564
+29,Bahia,BA,2914604,Irecê,Nordeste,-11.303496,-41.855793
+29,Bahia,BA,2914653,Itabela,Nordeste,-16.574339,-39.561961
+29,Bahia,BA,2914703,Itaberaba,Nordeste,-12.524182,-40.305897
+29,Bahia,BA,2914802,Itabuna,Nordeste,-14.793518,-39.274318
+29,Bahia,BA,2914901,Itacaré,Nordeste,-14.27813,-38.995142
+29,Bahia,BA,2915007,Itaeté,Nordeste,-12.979473,-40.966169
+29,Bahia,BA,2915106,Itagi,Nordeste,-14.16279,-40.006937
+29,Bahia,BA,2915205,Itagibá,Nordeste,-14.289152,-39.845259
+29,Bahia,BA,2915304,Itagimirim,Nordeste,-16.0870065,-39.615216000000004
+29,Bahia,BA,2915353,Itaguaçu da Bahia,Nordeste,-11.011654,-42.398403
+29,Bahia,BA,2915403,Itaju do Colônia,Nordeste,-15.141509,-39.723005
+29,Bahia,BA,2915502,Itajuípe,Nordeste,-14.674438,-39.375943
+29,Bahia,BA,2915601,Itamaraju,Nordeste,-17.03631,-39.527994
+29,Bahia,BA,2915700,Itamari,Nordeste,-13.778192,-39.682959
+29,Bahia,BA,2915809,Itambé,Nordeste,-15.243524,-40.626951
+29,Bahia,BA,2915908,Itanagra,Nordeste,-12.258972,-38.038863
+29,Bahia,BA,2916005,Itanhém,Nordeste,-17.166581,-40.329103
+29,Bahia,BA,2916104,Itaparica,Nordeste,-12.904766,-38.663497
+29,Bahia,BA,2916203,Itapé,Nordeste,-14.897086,-39.424664
+29,Bahia,BA,2916302,Itapebi,Nordeste,-15.969189,-39.532054
+29,Bahia,BA,2916401,Itapetinga,Nordeste,-15.245448,-40.246005
+29,Bahia,BA,2916500,Itapicuru,Nordeste,-11.309447,-38.218439
+29,Bahia,BA,2916609,Itapitanga,Nordeste,-14.421386,-39.566466
+29,Bahia,BA,2916708,Itaquara,Nordeste,-13.446433,-39.938489
+29,Bahia,BA,2916807,Itarantim,Nordeste,-15.652092,-40.059907
+29,Bahia,BA,2916856,Itatim,Nordeste,-12.707317,-39.697448
+29,Bahia,BA,2916906,Itiruçu,Nordeste,-13.533839,-40.150244
+29,Bahia,BA,2917003,Itiúba,Nordeste,-10.6913945,-39.852824
+29,Bahia,BA,2917102,Itororó,Nordeste,-15.117976,-40.068074
+29,Bahia,BA,2917201,Ituaçu,Nordeste,-13.815529,-41.298172
+29,Bahia,BA,2917300,Ituberá,Nordeste,-13.736076,-39.148106
+29,Bahia,BA,2917334,Iuiu,Nordeste,-14.411301,-43.550864
+29,Bahia,BA,2917359,Jaborandi,Nordeste,-13.620392,-44.469339
+29,Bahia,BA,2917409,Jacaraci,Nordeste,-14.845753,-42.432896
+29,Bahia,BA,2917508,Jacobina,Nordeste,-11.185156,-40.511243
+29,Bahia,BA,2917607,Jaguaquara,Nordeste,-13.529497,-39.969308
+29,Bahia,BA,2917706,Jaguarari,Nordeste,-10.257587,-40.194436
+29,Bahia,BA,2917805,Jaguaripe,Nordeste,-13.114756,-38.894498
+29,Bahia,BA,2917904,Jandaíra,Nordeste,-11.562801,-37.782026
+29,Bahia,BA,2918001,Jequié,Nordeste,-13.860403,-40.071963
+29,Bahia,BA,2918100,Jeremoabo,Nordeste,-10.075492,-38.347633
+29,Bahia,BA,2918209,Jiquiriçá,Nordeste,-13.255353,-39.569304
+29,Bahia,BA,2918308,Jitaúna,Nordeste,-14.017019,-39.888998
+29,Bahia,BA,2918357,João Dourado,Nordeste,-11.348364,-41.662651
+29,Bahia,BA,2918407,Juazeiro,Nordeste,-9.433696,-40.50682
+29,Bahia,BA,2918456,Jucuruçu,Nordeste,-16.843428,-40.159693
+29,Bahia,BA,2918506,Jussara,Nordeste,-11.047392,-41.97167
+29,Bahia,BA,2918555,Jussari,Nordeste,-15.188245,-39.493597
+29,Bahia,BA,2918605,Jussiape,Nordeste,-13.517671,-41.591885
+29,Bahia,BA,2918704,Lafaiete Coutinho,Nordeste,-13.655767,-40.212119
+29,Bahia,BA,2918753,Lagoa Real,Nordeste,-14.03463,-42.142193
+29,Bahia,BA,2918803,Laje,Nordeste,-13.180996,-39.422297
+29,Bahia,BA,2918902,Lajedão,Nordeste,-17.61255,-40.345027
+29,Bahia,BA,2919009,Lajedinho,Nordeste,-12.355539,-40.903304
+29,Bahia,BA,2919058,Lajedo do Tabocal,Nordeste,-13.474065,-40.219532
+29,Bahia,BA,2919108,Lamarão,Nordeste,-11.7954,-38.88523
+29,Bahia,BA,2919157,Lapão,Nordeste,-11.382715,-41.833808
+29,Bahia,BA,2919207,Lauro de Freitas,Nordeste,-12.89242,-38.312769
+29,Bahia,BA,2919306,Lençóis,Nordeste,-12.563429,-41.390172
+29,Bahia,BA,2919405,Licínio de Almeida,Nordeste,-14.684215,-42.509527
+29,Bahia,BA,2919504,Livramento de Nossa Senhora,Nordeste,-13.650547,-41.84121
+29,Bahia,BA,2919553,Luís Eduardo Magalhães,Nordeste,-12.086912,-45.783416
+29,Bahia,BA,2919603,Macajuba,Nordeste,-12.137641,-40.359006
+29,Bahia,BA,2919702,Macarani,Nordeste,-15.561086,-40.422608
+29,Bahia,BA,2919801,Macaúbas,Nordeste,-13.017485,-42.688222
+29,Bahia,BA,2919900,Macururé,Nordeste,-9.171709,-39.05749
+29,Bahia,BA,2919926,Madre de Deus,Nordeste,-12.739555,-38.617595
+29,Bahia,BA,2919959,Maetinga,Nordeste,-14.662781,-41.491442
+29,Bahia,BA,2920007,Maiquinique,Nordeste,-15.621518,-40.265054
+29,Bahia,BA,2920106,Mairi,Nordeste,-11.707749,-40.148488
+29,Bahia,BA,2920205,Malhada,Nordeste,-14.337919,-43.771665
+29,Bahia,BA,2920304,Malhada de Pedras,Nordeste,-14.386628,-41.879185
+29,Bahia,BA,2920403,Manoel Vitorino,Nordeste,-14.144839,-40.24397
+29,Bahia,BA,2920452,Mansidão,Nordeste,-10.719654,-44.035602
+29,Bahia,BA,2920502,Maracás,Nordeste,-13.44089,-40.433052
+29,Bahia,BA,2920601,Maragogipe,Nordeste,-12.776621,-38.917473
+29,Bahia,BA,2920700,Maraú,Nordeste,-14.103022,-39.014432
+29,Bahia,BA,2920809,Marcionílio Souza,Nordeste,-13.002433,-40.531748
+29,Bahia,BA,2920908,Mascote,Nordeste,-15.564547,-39.302666
+29,Bahia,BA,2921005,Mata de São João,Nordeste,-12.530685,-38.300898
+29,Bahia,BA,2921054,Matina,Nordeste,-13.909862,-42.846154
+29,Bahia,BA,2921104,Medeiros Neto,Nordeste,-17.371458,-40.222474
+29,Bahia,BA,2921203,Miguel Calmon,Nordeste,-11.430944,-40.59765
+29,Bahia,BA,2921302,Milagres,Nordeste,-12.864635,-39.861092
+29,Bahia,BA,2921401,Mirangaba,Nordeste,-10.954028,-40.576415
+29,Bahia,BA,2921450,Mirante,Nordeste,-12.506696,-37.989051
+29,Bahia,BA,2921500,Monte Santo,Nordeste,-10.43829,-39.330407
+29,Bahia,BA,2921609,Morpará,Nordeste,-11.562834,-43.276841
+29,Bahia,BA,2921708,Morro do Chapéu,Nordeste,-11.550029,-41.157025
+29,Bahia,BA,2921807,Mortugaba,Nordeste,-15.023283,-42.369542
+29,Bahia,BA,2921906,Mucugê,Nordeste,-13.0053,-41.370271
+29,Bahia,BA,2922003,Mucuri,Nordeste,-18.078749,-39.547058
+29,Bahia,BA,2922052,Mulungu do Morro,Nordeste,-11.967156,-41.6380555
+29,Bahia,BA,2922102,Mundo Novo,Nordeste,-11.857386,-40.473166
+29,Bahia,BA,2922201,Muniz Ferreira,Nordeste,-13.001255,-39.110213
+29,Bahia,BA,2922250,Muquém do São Francisco,Nordeste,-12.065016,-43.549719
+29,Bahia,BA,2922300,Muritiba,Nordeste,-12.624266,-38.988584
+29,Bahia,BA,2922409,Mutuípe,Nordeste,-13.22823,-39.506015
+29,Bahia,BA,2922508,Nazaré,Nordeste,-13.034559,-39.006252
+29,Bahia,BA,2922607,Nilo Peçanha,Nordeste,-13.601567,-39.104336
+29,Bahia,BA,2922656,Nordestina,Nordeste,-10.825818,-39.429766
+29,Bahia,BA,2922706,Nova Canaã,Nordeste,-14.792519,-40.143545
+29,Bahia,BA,2922730,Nova Fátima,Nordeste,-11.60461,-39.631054
+29,Bahia,BA,2922755,Nova Ibiá,Nordeste,-13.810257,-39.624783
+29,Bahia,BA,2922805,Nova Itarana,Nordeste,-13.028076,-40.067885
+29,Bahia,BA,2922854,Nova Redenção,Nordeste,-12.817268,-41.07093
+29,Bahia,BA,2922904,Nova Soure,Nordeste,-11.240933,-38.477412
+29,Bahia,BA,2923001,Nova Viçosa,Nordeste,-17.890771,-39.372547
+29,Bahia,BA,2923035,Novo Horizonte,Nordeste,-12.1837,-38.9719
+29,Bahia,BA,2923050,Novo Triunfo,Nordeste,-10.331749,-38.41913
+29,Bahia,BA,2923100,Olindina,Nordeste,-11.360131,-38.326957
+29,Bahia,BA,2923209,Oliveira dos Brejinhos,Nordeste,-12.319331,-42.891427
+29,Bahia,BA,2923308,Ouriçangas,Nordeste,-12.010529,-38.625911
+29,Bahia,BA,2923357,Ourolândia,Nordeste,-10.968691,-41.080867
+29,Bahia,BA,2923407,Palmas de Monte Alto,Nordeste,-14.263609,-43.164998
+29,Bahia,BA,2923506,Palmeiras,Nordeste,-12.515123,-41.574605
+29,Bahia,BA,2923605,Paramirim,Nordeste,-13.443722,-42.241977
+29,Bahia,BA,2923704,Paratinga,Nordeste,-12.692459,-43.180532
+29,Bahia,BA,2923803,Paripiranga,Nordeste,-10.682892,-37.862152
+29,Bahia,BA,2923902,Pau Brasil,Nordeste,-15.46458,-39.651841
+29,Bahia,BA,2924009,Paulo Afonso,Nordeste,-9.399101,-38.226711
+29,Bahia,BA,2924058,Pé de Serra,Nordeste,-11.834627,-39.610868
+29,Bahia,BA,2924108,Pedrão,Nordeste,-12.14513,-38.64662
+29,Bahia,BA,2924207,Pedro Alexandre,Nordeste,-10.011869,-37.894739
+29,Bahia,BA,2924306,Piatã,Nordeste,-13.153564,-41.774376
+29,Bahia,BA,2924405,Pilão Arcado,Nordeste,-10.000433,-42.479319
+29,Bahia,BA,2924504,Pindaí,Nordeste,-14.49119,-42.686469
+29,Bahia,BA,2924603,Pindobaçu,Nordeste,-10.743912,-40.361946
+29,Bahia,BA,2924652,Pintadas,Nordeste,-11.812604,-39.905219
+29,Bahia,BA,2924678,Piraí do Norte,Nordeste,-13.761451000000001,-39.378358500000004
+29,Bahia,BA,2924702,Piripá,Nordeste,-14.941986,-41.714982
+29,Bahia,BA,2924801,Piritiba,Nordeste,-11.732031,-40.556154
+29,Bahia,BA,2924900,Planaltino,Nordeste,-13.260079,-40.369212
+29,Bahia,BA,2925006,Planalto,Nordeste,-14.668921,-40.481006
+29,Bahia,BA,2925105,Poções,Nordeste,-14.527488,-40.366533
+29,Bahia,BA,2925204,Pojuca,Nordeste,-12.426027,-38.326657
+29,Bahia,BA,2925253,Ponto Novo,Nordeste,-10.8630555,-40.1337695
+29,Bahia,BA,2925303,Porto Seguro,Nordeste,-16.443473,-39.064251
+29,Bahia,BA,2925402,Potiraguá,Nordeste,-15.593515,-39.871412
+29,Bahia,BA,2925501,Prado,Nordeste,-17.336357,-39.222721
+29,Bahia,BA,2925600,Presidente Dutra,Nordeste,-11.295918,-41.987157
+29,Bahia,BA,2925709,Presidente Jânio Quadros,Nordeste,-14.685696,-41.67701
+29,Bahia,BA,2925758,Presidente Tancredo Neves,Nordeste,-13.455656,-39.42122
+29,Bahia,BA,2925808,Queimadas,Nordeste,-10.980708,-39.624959
+29,Bahia,BA,2925907,Quijingue,Nordeste,-10.751373,-39.207523
+29,Bahia,BA,2925931,Quixabeira,Nordeste,-11.412329,-40.126472
+29,Bahia,BA,2925956,Rafael Jambeiro,Nordeste,-12.398814,-39.502029
+29,Bahia,BA,2926004,Remanso,Nordeste,-9.617942,-42.083056
+29,Bahia,BA,2926103,Retirolândia,Nordeste,-11.494588499999999,-39.425832
+29,Bahia,BA,2926202,Riachão das Neves,Nordeste,-11.748105,-44.910985
+29,Bahia,BA,2926301,Riachão do Jacuípe,Nordeste,-11.807108,-39.381684
+29,Bahia,BA,2926400,Riacho de Santana,Nordeste,-13.610098,-42.935525
+29,Bahia,BA,2926509,Ribeira do Amparo,Nordeste,-11.041253,-38.429946
+29,Bahia,BA,2926608,Ribeira do Pombal,Nordeste,-10.837299,-38.538152
+29,Bahia,BA,2926657,Ribeirão do Largo,Nordeste,-15.458848,-40.741158
+29,Bahia,BA,2926707,Rio de Contas,Nordeste,-14.278526,-39.007896
+29,Bahia,BA,2926806,Rio do Antônio,Nordeste,-14.407269,-42.076672
+29,Bahia,BA,2926905,Rio do Pires,Nordeste,-13.12526,-42.290195
+29,Bahia,BA,2927002,Rio Real,Nordeste,-11.486979,-37.931749
+29,Bahia,BA,2927101,Rodelas,Nordeste,-8.848559,-38.766394
+29,Bahia,BA,2927200,Ruy Barbosa,Nordeste,-12.285667,-40.495836
+29,Bahia,BA,2927309,Salinas da Margarida,Nordeste,-12.894723,-38.763551
+29,Bahia,BA,2927408,Salvador,Nordeste,-12.98225,-38.481277
+29,Bahia,BA,2927507,Santa Bárbara,Nordeste,-11.954376,-38.973639
+29,Bahia,BA,2927606,Santa Brígida,Nordeste,-9.734377,-38.125926
+29,Bahia,BA,2927705,Santa Cruz Cabrália,Nordeste,-16.281556,-39.02392
+29,Bahia,BA,2927804,Santa Cruz da Vitória,Nordeste,-14.962935,-39.810537
+29,Bahia,BA,2927903,Santa Inês,Nordeste,-13.296375,-39.821302
+29,Bahia,BA,2928000,Santaluz,Nordeste,-11.250531,-39.374662
+29,Bahia,BA,2928059,Santa Luzia,Nordeste,-13.382822,-38.909424
+29,Bahia,BA,2928109,Santa Maria da Vitória,Nordeste,-13.390148,-44.201317
+29,Bahia,BA,2928208,Santana,Nordeste,-12.979217,-44.05064
+29,Bahia,BA,2928307,Santanópolis,Nordeste,-12.024383,-38.865037
+29,Bahia,BA,2928406,Santa Rita de Cássia,Nordeste,-11.001397,-44.520968
+29,Bahia,BA,2928505,Santa Terezinha,Nordeste,-12.6139917,-40.421695
+29,Bahia,BA,2928604,Santo Amaro,Nordeste,-12.551969,-38.706045
+29,Bahia,BA,2928703,Santo Antônio de Jesus,Nordeste,-12.968936,-39.260914
+29,Bahia,BA,2928802,Santo Estêvão,Nordeste,-12.434062,-39.255612
+29,Bahia,BA,2928901,São Desidério,Nordeste,-12.357196,-44.976881
+29,Bahia,BA,2928950,São Domingos,Nordeste,-11.463611,-39.526527
+29,Bahia,BA,2929008,São Félix,Nordeste,-12.606989,-38.969557
+29,Bahia,BA,2929057,São Félix do Coribe,Nordeste,-13.404131,-44.190255
+29,Bahia,BA,2929107,São Felipe,Nordeste,-12.841344,-39.094205
+29,Bahia,BA,2929206,São Francisco do Conde,Nordeste,-12.628108,-38.681133
+29,Bahia,BA,2929255,São Gabriel,Nordeste,-11.228186,-41.876825
+29,Bahia,BA,2929305,São Gonçalo dos Campos,Nordeste,-12.433999,-38.948808
+29,Bahia,BA,2929354,São José da Vitória,Nordeste,-15.079072,-39.336537
+29,Bahia,BA,2929370,São José do Jacuípe,Nordeste,-11.504036,-40.025658
+29,Bahia,BA,2929404,São Miguel das Matas,Nordeste,-13.047749,-39.455461
+29,Bahia,BA,2929503,São Sebastião do Passé,Nordeste,-12.517793,-38.492157
+29,Bahia,BA,2929602,Sapeaçu,Nordeste,-12.729444,-39.186226
+29,Bahia,BA,2929701,Sátiro Dias,Nordeste,-11.59953,-38.587364
+29,Bahia,BA,2929750,Saubara,Nordeste,-12.737293,-38.7663
+29,Bahia,BA,2929800,Saúde,Nordeste,-12.973818,-38.503811
+29,Bahia,BA,2929909,Seabra,Nordeste,-12.417207,-41.772051
+29,Bahia,BA,2930006,Sebastião Laranjeiras,Nordeste,-14.571002,-42.943438
+29,Bahia,BA,2930105,Senhor do Bonfim,Nordeste,-10.460251,-40.189151
+29,Bahia,BA,2930154,Serra do Ramalho,Nordeste,-13.544236,-43.577315
+29,Bahia,BA,2930204,Sento Sé,Nordeste,-9.740644,-41.883006
+29,Bahia,BA,2930303,Serra Dourada,Nordeste,-12.758418,-43.950091
+29,Bahia,BA,2930402,Serra Preta,Nordeste,-12.158961,-39.332093
+29,Bahia,BA,2930501,Serrinha,Nordeste,-11.66199,-39.003402
+29,Bahia,BA,2930600,Serrolândia,Nordeste,-11.420001,-40.297494
+29,Bahia,BA,2930709,Simões Filho,Nordeste,-12.786784,-38.403037
+29,Bahia,BA,2930758,Sítio do Mato,Nordeste,-13.084314,-43.468699
+29,Bahia,BA,2930766,Sítio do Quinto,Nordeste,-10.367598,-38.204166
+29,Bahia,BA,2930774,Sobradinho,Nordeste,-12.240058,-38.973647
+29,Bahia,BA,2930808,Souto Soares,Nordeste,-12.087846,-41.649535
+29,Bahia,BA,2930907,Tabocas do Brejo Velho,Nordeste,-12.702075,-44.009107
+29,Bahia,BA,2931004,Tanhaçu,Nordeste,-14.019662,-41.247271
+29,Bahia,BA,2931053,Tanque Novo,Nordeste,-13.547424,-42.490759
+29,Bahia,BA,2931103,Tanquinho,Nordeste,-11.974706,-39.105764
+29,Bahia,BA,2931202,Taperoá,Nordeste,-13.53807275,-39.0987265
+29,Bahia,BA,2931301,Tapiramutá,Nordeste,-11.84476,-40.797053
+29,Bahia,BA,2931350,Teixeira de Freitas,Nordeste,-17.537664,-39.74581
+29,Bahia,BA,2931400,Teodoro Sampaio,Nordeste,-12.305385,-38.640898
+29,Bahia,BA,2931509,Teofilândia,Nordeste,-11.489166,-38.999741
+29,Bahia,BA,2931608,Teolândia,Nordeste,-13.603575,-39.492714
+29,Bahia,BA,2931707,Terra Nova,Nordeste,-12.406993,-38.61916
+29,Bahia,BA,2931806,Tremedal,Nordeste,-14.977239,-41.411098
+29,Bahia,BA,2931905,Tucano,Nordeste,-10.963517,-38.785957
+29,Bahia,BA,2932002,Uauá,Nordeste,-9.838408,-39.479391
+29,Bahia,BA,2932101,Ubaíra,Nordeste,-13.261668,-39.661287
+29,Bahia,BA,2932200,Ubaitaba,Nordeste,-14.311777,-39.322661
+29,Bahia,BA,2932309,Ubatã,Nordeste,-14.213948,-39.5212645
+29,Bahia,BA,2932408,Uibaí,Nordeste,-11.334907,-42.130525
+29,Bahia,BA,2932457,Umburanas,Nordeste,-10.728752,-41.322045
+29,Bahia,BA,2932507,Una,Nordeste,-15.29217,-39.07446
+29,Bahia,BA,2932606,Urandi,Nordeste,-14.768077,-42.657399
+29,Bahia,BA,2932705,Uruçuca,Nordeste,-14.591309,-39.286209
+29,Bahia,BA,2932804,Utinga,Nordeste,-12.082193,-41.0944455
+29,Bahia,BA,2932903,Valença,Nordeste,-13.372358,-39.069424
+29,Bahia,BA,2933000,Valente,Nordeste,-11.412733,-39.46273
+29,Bahia,BA,2933059,Várzea da Roça,Nordeste,-11.606293,-40.134634
+29,Bahia,BA,2933109,Várzea do Poço,Nordeste,-11.528339,-40.318907
+29,Bahia,BA,2933158,Várzea Nova,Nordeste,-11.252793,-40.945657
+29,Bahia,BA,2933174,Varzedo,Nordeste,-12.975559,-39.39436
+29,Bahia,BA,2933208,Vera Cruz,Nordeste,-12.960815,-38.609922
+29,Bahia,BA,2933257,Vereda,Nordeste,-17.224747,-40.085616
+29,Bahia,BA,2933307,Vitória da Conquista,Nordeste,-14.856749,-40.84148
+29,Bahia,BA,2933406,Wagner,Nordeste,-12.281859,-41.168673
+29,Bahia,BA,2933455,Wanderley,Nordeste,-12.971122,-39.266176
+29,Bahia,BA,2933505,Wenceslau Guimarães,Nordeste,-13.686636,-39.479122
+29,Bahia,BA,2933604,Xique-Xique,Nordeste,-10.825528,-42.727829
+31,Minas Gerais,MG,3100104,Abadia dos Dourados,Sudeste,-18.491119,-47.406359
+31,Minas Gerais,MG,3100203,Abaeté,Sudeste,-19.156683,-45.448121
+31,Minas Gerais,MG,3100302,Abre Campo,Sudeste,-20.29761,-42.476474
+31,Minas Gerais,MG,3100401,Acaiaca,Sudeste,-19.844634,-43.89477
+31,Minas Gerais,MG,3100500,Açucena,Sudeste,-19.073056,-42.546666
+31,Minas Gerais,MG,3100609,Água Boa,Sudeste,-17.996806,-42.390457
+31,Minas Gerais,MG,3100708,Água Comprida,Sudeste,-20.057473,-48.109307
+31,Minas Gerais,MG,3100807,Aguanil,Sudeste,-20.942453,-45.392715
+31,Minas Gerais,MG,3100906,Águas Formosas,Sudeste,-17.083056,-40.935555
+31,Minas Gerais,MG,3101003,Águas Vermelhas,Sudeste,-15.746909,-41.460198
+31,Minas Gerais,MG,3101102,Aimorés,Sudeste,-19.491775,-41.06156
+31,Minas Gerais,MG,3101201,Aiuruoca,Sudeste,-21.975955,-44.603664
+31,Minas Gerais,MG,3101300,Alagoa,Sudeste,-22.16972,-44.640004
+31,Minas Gerais,MG,3101409,Albertina,Sudeste,-22.200556,-46.615556
+31,Minas Gerais,MG,3101508,Além Paraíba,Sudeste,-21.876058,-42.681047
+31,Minas Gerais,MG,3101607,Alfenas,Sudeste,-21.42974,-45.947942
+31,Minas Gerais,MG,3101631,Alfredo Vasconcelos,Sudeste,-21.145833,-43.776389
+31,Minas Gerais,MG,3101706,Almenara,Sudeste,-16.174068,-40.690491
+31,Minas Gerais,MG,3101805,Alpercata,Sudeste,-18.980362,-41.982764
+31,Minas Gerais,MG,3101904,Alpinópolis,Sudeste,-20.863611,-46.387777
+31,Minas Gerais,MG,3102001,Alterosa,Sudeste,-21.249166,-46.143055
+31,Minas Gerais,MG,3102050,Alto Caparaó,Sudeste,-20.440566,-41.86838
+31,Minas Gerais,MG,3102100,Alto Rio Doce,Sudeste,-21.023954,-43.413351
+31,Minas Gerais,MG,3102209,Alvarenga,Sudeste,-19.4175,-41.728334
+31,Minas Gerais,MG,3102308,Alvinópolis,Sudeste,-20.11052,-43.060181
+31,Minas Gerais,MG,3102407,Alvorada de Minas,Sudeste,-18.731859,-43.364148
+31,Minas Gerais,MG,3102506,Amparo do Serra,Sudeste,-20.511042,-42.795026
+31,Minas Gerais,MG,3102605,Andradas,Sudeste,-22.068048,-46.568898
+31,Minas Gerais,MG,3102704,Cachoeira de Pajeú,Sudeste,-15.965833,-41.496666
+31,Minas Gerais,MG,3102803,Andrelândia,Sudeste,-21.739722,-44.308889
+31,Minas Gerais,MG,3102852,Angelândia,Sudeste,-17.7253,-42.2728
+31,Minas Gerais,MG,3102902,Antônio Carlos,Sudeste,-21.318334,-43.746666
+31,Minas Gerais,MG,3103009,Antônio Dias,Sudeste,-19.6525,-42.872778
+31,Minas Gerais,MG,3103108,Antônio Prado de Minas,Sudeste,-21.017199,-42.110111
+31,Minas Gerais,MG,3103207,Araçaí,Sudeste,-16.846269,-42.065857
+31,Minas Gerais,MG,3103306,Aracitaba,Sudeste,-21.3425,-43.378611
+31,Minas Gerais,MG,3103405,Araçuaí,Sudeste,-16.848445,-42.066187
+31,Minas Gerais,MG,3103504,Araguari,Sudeste,-18.651126,-48.193376
+31,Minas Gerais,MG,3103603,Arantina,Sudeste,-21.911667,-44.255833
+31,Minas Gerais,MG,3103702,Araponga,Sudeste,-19.864544,-43.89986
+31,Minas Gerais,MG,3103751,Araporã,Sudeste,-18.431819,-49.188313
+31,Minas Gerais,MG,3103801,Arapuá,Sudeste,-19.034444,-46.155556
+31,Minas Gerais,MG,3103900,Araújos,Sudeste,-19.9474835,-45.1654355
+31,Minas Gerais,MG,3104007,Araxá,Sudeste,-19.592854,-46.940241
+31,Minas Gerais,MG,3104106,Arceburgo,Sudeste,-21.364444,-46.939722
+31,Minas Gerais,MG,3104205,Arcos,Sudeste,-20.282223,-45.539444
+31,Minas Gerais,MG,3104304,Areado,Sudeste,-21.358277,-46.147669
+31,Minas Gerais,MG,3104403,Argirita,Sudeste,-21.614435,-42.837105
+31,Minas Gerais,MG,3104452,Aricanduva,Sudeste,-17.8678,-42.5569
+31,Minas Gerais,MG,3104502,Arinos,Sudeste,-15.917223,-46.106111
+31,Minas Gerais,MG,3104601,Astolfo Dutra,Sudeste,-21.313264,-42.86241
+31,Minas Gerais,MG,3104700,Ataléia,Sudeste,-18.04432,-41.111052
+31,Minas Gerais,MG,3104809,Augusto de Lima,Sudeste,-18.109296,-44.265195
+31,Minas Gerais,MG,3104908,Baependi,Sudeste,-21.959162,-44.889925
+31,Minas Gerais,MG,3105004,Baldim,Sudeste,-19.291357,-43.955826
+31,Minas Gerais,MG,3105103,Bambuí,Sudeste,-20.0132,-45.977703
+31,Minas Gerais,MG,3105202,Bandeira,Sudeste,-15.884444,-40.559167
+31,Minas Gerais,MG,3105301,Bandeira do Sul,Sudeste,-21.728056,-46.385555
+31,Minas Gerais,MG,3105400,Barão de Cocais,Sudeste,-19.945244,-43.48703
+31,Minas Gerais,MG,3105509,Barão de Monte Alto,Sudeste,-21.244722,-42.2375
+31,Minas Gerais,MG,3105608,Barbacena,Sudeste,-21.225452,-43.773509
+31,Minas Gerais,MG,3105707,Barra Longa,Sudeste,-20.283354,-43.042352
+31,Minas Gerais,MG,3105905,Barroso,Sudeste,-21.187222,-43.976111
+31,Minas Gerais,MG,3106002,Bela Vista de Minas,Sudeste,-19.828972,-43.097369
+31,Minas Gerais,MG,3106101,Belmiro Braga,Sudeste,-21.948629,-43.413564
+31,Minas Gerais,MG,3106200,Belo Horizonte,Sudeste,-19.922732,-43.945095
+31,Minas Gerais,MG,3106309,Belo Oriente,Sudeste,-19.223252,-42.480703
+31,Minas Gerais,MG,3106408,Belo Vale,Sudeste,-20.407778,-44.024167
+31,Minas Gerais,MG,3106507,Berilo,Sudeste,-16.951576,-42.464373
+31,Minas Gerais,MG,3106606,Bertópolis,Sudeste,-17.063333,-40.573889
+31,Minas Gerais,MG,3106655,Berizal,Sudeste,-15.611878,-41.741738
+31,Minas Gerais,MG,3106705,Betim,Sudeste,-19.968056,-44.198333
+31,Minas Gerais,MG,3106804,Bias Fortes,Sudeste,-21.605833,-43.756944
+31,Minas Gerais,MG,3106903,Bicas,Sudeste,-21.721372,-43.060433
+31,Minas Gerais,MG,3107000,Biquinhas,Sudeste,-19.840045,-43.941642
+31,Minas Gerais,MG,3107109,Boa Esperança,Sudeste,-21.090125,-45.56602
+31,Minas Gerais,MG,3107208,Bocaina de Minas,Sudeste,-22.167778,-44.394722
+31,Minas Gerais,MG,3107307,Bocaiúva,Sudeste,-17.116021,-43.812268
+31,Minas Gerais,MG,3107406,Bom Despacho,Sudeste,-19.737524,-45.251729
+31,Minas Gerais,MG,3107505,Bom Jardim de Minas,Sudeste,-21.947647,-44.190603
+31,Minas Gerais,MG,3107604,Bom Jesus da Penha,Sudeste,-21.01653,-46.522664
+31,Minas Gerais,MG,3107703,Bom Jesus do Amparo,Sudeste,-19.704513,-43.475291
+31,Minas Gerais,MG,3107802,Bom Jesus do Galho,Sudeste,-19.828319,-42.316226
+31,Minas Gerais,MG,3107901,Bom Repouso,Sudeste,-22.465707,-46.148538
+31,Minas Gerais,MG,3108008,Bom Sucesso,Sudeste,-21.032352,-44.759808
+31,Minas Gerais,MG,3108107,Bonfim,Sudeste,-19.9122,-43.9506
+31,Minas Gerais,MG,3108206,Bonfinópolis de Minas,Sudeste,-16.566001,-45.98645
+31,Minas Gerais,MG,3108255,Bonito de Minas,Sudeste,-15.319127,-44.7544
+31,Minas Gerais,MG,3108305,Borda da Mata,Sudeste,-22.274167,-46.165278
+31,Minas Gerais,MG,3108404,Botelhos,Sudeste,-21.65,-46.394722
+31,Minas Gerais,MG,3108503,Botumirim,Sudeste,-16.862778,-43.011111
+31,Minas Gerais,MG,3108552,Brasilândia de Minas,Sudeste,-17.003534,-46.010927
+31,Minas Gerais,MG,3108602,Brasília de Minas,Sudeste,-16.207511,-44.430559
+31,Minas Gerais,MG,3108701,Brás Pires,Sudeste,-20.846989,-43.243115
+31,Minas Gerais,MG,3108800,Braúnas,Sudeste,-19.8467,-44.0068
+31,Minas Gerais,MG,3108909,Brazópolis,Sudeste,-22.474284,-45.616558
+31,Minas Gerais,MG,3109006,Brumadinho,Sudeste,-20.143611,-44.2
+31,Minas Gerais,MG,3109105,Bueno Brandão,Sudeste,-22.441976,-46.351797
+31,Minas Gerais,MG,3109204,Buenópolis,Sudeste,-17.875661,-44.174937
+31,Minas Gerais,MG,3109253,Bugre,Sudeste,-19.425769,-42.2556
+31,Minas Gerais,MG,3109303,Buritis,Sudeste,-19.9766,-43.9674
+31,Minas Gerais,MG,3109402,Buritizeiro,Sudeste,-17.366776,-44.964778
+31,Minas Gerais,MG,3109451,Cabeceira Grande,Sudeste,-16.02857,-47.086808
+31,Minas Gerais,MG,3109501,Cabo Verde,Sudeste,-21.474334,-46.3965
+31,Minas Gerais,MG,3109600,Cachoeira da Prata,Sudeste,-19.524723,-44.453056
+31,Minas Gerais,MG,3109709,Cachoeira de Minas,Sudeste,-22.355404,-45.779632
+31,Minas Gerais,MG,3109808,Cachoeira Dourada,Sudeste,-18.517136,-49.500206
+31,Minas Gerais,MG,3109907,Caetanópolis,Sudeste,-19.29475,-44.413839
+31,Minas Gerais,MG,3110004,Caeté,Sudeste,-19.897777,-43.670278
+31,Minas Gerais,MG,3110103,Caiana,Sudeste,-20.695555,-41.924723
+31,Minas Gerais,MG,3110202,Cajuri,Sudeste,-20.790141,-42.795449
+31,Minas Gerais,MG,3110301,Caldas,Sudeste,-21.923611,-46.386111
+31,Minas Gerais,MG,3110400,Camacho,Sudeste,-20.625556,-45.156667
+31,Minas Gerais,MG,3110509,Camanducaia,Sudeste,-22.755278,-46.144444
+31,Minas Gerais,MG,3110608,Cambuí,Sudeste,-22.61225,-46.057214
+31,Minas Gerais,MG,3110707,Cambuquira,Sudeste,-21.853056,-45.295362
+31,Minas Gerais,MG,3110806,Campanário,Sudeste,-18.239814,-41.727177
+31,Minas Gerais,MG,3110905,Campanha,Sudeste,-21.836111,-45.401986
+31,Minas Gerais,MG,3111002,Campestre,Sudeste,-21.711111,-46.246389
+31,Minas Gerais,MG,3111101,Campina Verde,Sudeste,-19.535277,-49.486389
+31,Minas Gerais,MG,3111150,Campo Azul,Sudeste,-16.507852,-44.813352
+31,Minas Gerais,MG,3111200,Campo Belo,Sudeste,-20.8975,-45.277223
+31,Minas Gerais,MG,3111309,Campo do Meio,Sudeste,-21.107201,-45.830174
+31,Minas Gerais,MG,3111408,Campo Florido,Sudeste,-19.760833,-48.572223
+31,Minas Gerais,MG,3111507,Campos Altos,Sudeste,-19.696389,-46.171389
+31,Minas Gerais,MG,3111606,Campos Gerais,Sudeste,-21.233334,-45.758413
+31,Minas Gerais,MG,3111705,Canaã,Sudeste,-19.450901,-42.555842
+31,Minas Gerais,MG,3111804,Canápolis,Sudeste,-18.722879,-49.201633
+31,Minas Gerais,MG,3111903,Cana Verde,Sudeste,-21.021308,-45.181788
+31,Minas Gerais,MG,3112000,Candeias,Sudeste,-20.767616,-45.276378
+31,Minas Gerais,MG,3112059,Cantagalo,Sudeste,-18.527168,-42.62522
+31,Minas Gerais,MG,3112109,Caparaó,Sudeste,-20.523273,-41.904998
+31,Minas Gerais,MG,3112208,Capela Nova,Sudeste,-20.923677,-43.617949
+31,Minas Gerais,MG,3112307,Capelinha,Sudeste,-17.693889,-42.518611
+31,Minas Gerais,MG,3112406,Capetinga,Sudeste,-20.619338,-47.057742
+31,Minas Gerais,MG,3112505,Capim Branco,Sudeste,-19.548333,-44.133056
+31,Minas Gerais,MG,3112604,Capinópolis,Sudeste,-18.682778,-49.569723
+31,Minas Gerais,MG,3112653,Capitão Andrade,Sudeste,-19.0675,-41.859722
+31,Minas Gerais,MG,3112703,Capitão Enéas,Sudeste,-16.323602,-43.715458
+31,Minas Gerais,MG,3112802,Capitólio,Sudeste,-20.614244,-46.048765
+31,Minas Gerais,MG,3112901,Caputira,Sudeste,-20.171945,-42.270278
+31,Minas Gerais,MG,3113008,Caraí,Sudeste,-17.18841,-41.697655
+31,Minas Gerais,MG,3113107,Caranaíba,Sudeste,-20.873691,-43.737946
+31,Minas Gerais,MG,3113206,Carandaí,Sudeste,-20.952393,-43.80439
+31,Minas Gerais,MG,3113305,Carangola,Sudeste,-20.733056,-42.029445
+31,Minas Gerais,MG,3113404,Caratinga,Sudeste,-19.790089,-42.140533
+31,Minas Gerais,MG,3113503,Carbonita,Sudeste,-17.530867,-43.013621
+31,Minas Gerais,MG,3113602,Careaçu,Sudeste,-22.044058,-45.694909
+31,Minas Gerais,MG,3113701,Carlos Chagas,Sudeste,-17.70308,-40.763294
+31,Minas Gerais,MG,3113800,Carmésia,Sudeste,-19.085453,-43.1392
+31,Minas Gerais,MG,3113909,Carmo da Cachoeira,Sudeste,-21.460556,-45.223334
+31,Minas Gerais,MG,3114006,Carmo da Mata,Sudeste,-20.558334,-44.870377
+31,Minas Gerais,MG,3114105,Carmo de Minas,Sudeste,-22.121665,-45.132384
+31,Minas Gerais,MG,3114204,Carmo do Cajuru,Sudeste,-20.184444,-44.770834
+31,Minas Gerais,MG,3114303,Carmo do Paranaíba,Sudeste,-18.999233,-46.306916
+31,Minas Gerais,MG,3114402,Carmo do Rio Claro,Sudeste,-20.973315,-46.118675
+31,Minas Gerais,MG,3114501,Carmópolis de Minas,Sudeste,-20.541224,-44.635061
+31,Minas Gerais,MG,3114550,Carneirinho,Sudeste,-19.6975,-50.688055
+31,Minas Gerais,MG,3114600,Carrancas,Sudeste,-21.491046,-44.643615
+31,Minas Gerais,MG,3114709,Carvalhópolis,Sudeste,-21.777346,-45.841212
+31,Minas Gerais,MG,3114808,Carvalhos,Sudeste,-22.001667,-44.461667
+31,Minas Gerais,MG,3114907,Casa Grande,Sudeste,-20.793757,-43.928693
+31,Minas Gerais,MG,3115003,Cascalho Rico,Sudeste,-18.579344,-47.875774
+31,Minas Gerais,MG,3115102,Cássia,Sudeste,-20.579652,-46.926279
+31,Minas Gerais,MG,3115201,Conceição da Barra de Minas,Sudeste,-21.128889,-44.472223
+31,Minas Gerais,MG,3115300,Cataguases,Sudeste,-21.387426,-42.695722
+31,Minas Gerais,MG,3115359,Catas Altas,Sudeste,-20.074899,-43.40783
+31,Minas Gerais,MG,3115409,Catas Altas da Noruega,Sudeste,-20.690277,-43.4975
+31,Minas Gerais,MG,3115458,Catuji,Sudeste,-17.302457,-41.516839
+31,Minas Gerais,MG,3115474,Catuti,Sudeste,-15.3597,-42.9628
+31,Minas Gerais,MG,3115508,Caxambu,Sudeste,-21.975587,-44.93114
+31,Minas Gerais,MG,3115607,Cedro do Abaeté,Sudeste,-19.148333,-45.711389
+31,Minas Gerais,MG,3115706,Central de Minas,Sudeste,-18.761372,-41.306353
+31,Minas Gerais,MG,3115805,Centralina,Sudeste,-18.584335,-49.195474
+31,Minas Gerais,MG,3115904,Chácara,Sudeste,-19.9635,-44.1909
+31,Minas Gerais,MG,3116001,Chalé,Sudeste,-19.276396,-44.403079
+31,Minas Gerais,MG,3116100,Chapada do Norte,Sudeste,-17.088004,-42.538077
+31,Minas Gerais,MG,3116159,Chapada Gaúcha,Sudeste,-15.294625,-45.62849
+31,Minas Gerais,MG,3116209,Chiador,Sudeste,-22.003664,-43.057323499999995
+31,Minas Gerais,MG,3116308,Cipotânea,Sudeste,-20.905278,-43.365556
+31,Minas Gerais,MG,3116407,Claraval,Sudeste,-20.398889,-47.283056
+31,Minas Gerais,MG,3116506,Claro dos Poções,Sudeste,-17.075823,-44.211736
+31,Minas Gerais,MG,3116605,Cláudio,Sudeste,-20.444848,-44.765522
+31,Minas Gerais,MG,3116704,Coimbra,Sudeste,-20.856325,-42.802694
+31,Minas Gerais,MG,3116803,Coluna,Sudeste,-18.232627,-42.840081
+31,Minas Gerais,MG,3116902,Comendador Gomes,Sudeste,-19.699172,-49.081407
+31,Minas Gerais,MG,3117009,Comercinho,Sudeste,-16.296509,-41.793095
+31,Minas Gerais,MG,3117108,Conceição da Aparecida,Sudeste,-21.094166,-46.204444
+31,Minas Gerais,MG,3117207,Conceição das Pedras,Sudeste,-22.159657,-45.455052
+31,Minas Gerais,MG,3117306,Conceição das Alagoas,Sudeste,-19.919401,-48.380341
+31,Minas Gerais,MG,3117405,Conceição de Ipanema,Sudeste,-19.928334,-41.693889
+31,Minas Gerais,MG,3117504,Conceição do Mato Dentro,Sudeste,-19.037222,-43.425278
+31,Minas Gerais,MG,3117603,Conceição do Pará,Sudeste,-19.752222,-44.896944
+31,Minas Gerais,MG,3117702,Conceição do Rio Verde,Sudeste,-21.881078,-45.086853
+31,Minas Gerais,MG,3117801,Conceição dos Ouros,Sudeste,-22.413056,-45.797777
+31,Minas Gerais,MG,3117836,Cônego Marinho,Sudeste,-15.297406,-44.414051
+31,Minas Gerais,MG,3117876,Confins,Sudeste,-19.627875,-43.991231
+31,Minas Gerais,MG,3117900,Congonhal,Sudeste,-22.15325,-46.04047
+31,Minas Gerais,MG,3118007,Congonhas,Sudeste,-20.501517,-43.856459
+31,Minas Gerais,MG,3118106,Congonhas do Norte,Sudeste,-18.810039,-43.678324
+31,Minas Gerais,MG,3118205,Conquista,Sudeste,-19.936944,-47.543055
+31,Minas Gerais,MG,3118304,Conselheiro Lafaiete,Sudeste,-20.659611,-43.785743
+31,Minas Gerais,MG,3118403,Conselheiro Pena,Sudeste,-19.172088,-41.471995
+31,Minas Gerais,MG,3118502,Consolação,Sudeste,-22.551389,-45.921111
+31,Minas Gerais,MG,3118601,Contagem,Sudeste,-19.913275,-44.084095
+31,Minas Gerais,MG,3118700,Coqueiral,Sudeste,-21.189836,-45.440983
+31,Minas Gerais,MG,3118809,Coração de Jesus,Sudeste,-19.94532,-43.951172
+31,Minas Gerais,MG,3118908,Cordisburgo,Sudeste,-19.125834,-44.320278
+31,Minas Gerais,MG,3119005,Cordislândia,Sudeste,-21.7924255,-45.7018805
+31,Minas Gerais,MG,3119104,Corinto,Sudeste,-18.363056,-44.456111
+31,Minas Gerais,MG,3119203,Coroaci,Sudeste,-18.619437,-42.283024
+31,Minas Gerais,MG,3119302,Coromandel,Sudeste,-18.473889,-47.200278
+31,Minas Gerais,MG,3119401,Coronel Fabriciano,Sudeste,-19.520007,-42.628269
+31,Minas Gerais,MG,3119500,Coronel Murta,Sudeste,-16.616503,-42.184807
+31,Minas Gerais,MG,3119609,Coronel Pacheco,Sudeste,-21.587886,-43.261598
+31,Minas Gerais,MG,3119708,Coronel Xavier Chaves,Sudeste,-21.023448,-44.223311
+31,Minas Gerais,MG,3119807,Córrego Danta,Sudeste,-19.8236065,-45.904436000000004
+31,Minas Gerais,MG,3119906,Córrego do Bom Jesus,Sudeste,-22.630556,-46.019723
+31,Minas Gerais,MG,3119955,Córrego Fundo,Sudeste,-20.44904,-45.555824
+31,Minas Gerais,MG,3120003,Córrego Novo,Sudeste,-19.4594,-42.5824
+31,Minas Gerais,MG,3120102,Couto de Magalhães de Minas,Sudeste,-18.073056,-43.471863
+31,Minas Gerais,MG,3120151,Crisólita,Sudeste,-17.239166,-40.913244
+31,Minas Gerais,MG,3120201,Cristais,Sudeste,-20.875834,-45.518611
+31,Minas Gerais,MG,3120300,Cristália,Sudeste,-16.717993,-42.864811
+31,Minas Gerais,MG,3120409,Cristiano Otoni,Sudeste,-20.83241,-43.805306
+31,Minas Gerais,MG,3120508,Cristina,Sudeste,-22.212222,-45.264167
+31,Minas Gerais,MG,3120607,Crucilândia,Sudeste,-20.398565,-44.342928
+31,Minas Gerais,MG,3120706,Cruzeiro da Fortaleza,Sudeste,-18.946187,-46.673801
+31,Minas Gerais,MG,3120805,Cruzília,Sudeste,-21.838333,-44.808056
+31,Minas Gerais,MG,3120839,Cuparaque,Sudeste,-18.9691985,-41.0989105
+31,Minas Gerais,MG,3120870,Curral de Dentro,Sudeste,-15.933266,-41.85689
+31,Minas Gerais,MG,3120904,Curvelo,Sudeste,-18.757193,-44.430599
+31,Minas Gerais,MG,3121001,Datas,Sudeste,-18.4460615,-43.657075
+31,Minas Gerais,MG,3121100,Delfim Moreira,Sudeste,-22.508678,-45.27924
+31,Minas Gerais,MG,3121209,Delfinópolis,Sudeste,-20.344749,-46.854643
+31,Minas Gerais,MG,3121258,Delta,Sudeste,-19.9769,-47.7711
+31,Minas Gerais,MG,3121308,Descoberto,Sudeste,-21.459444,-42.967223
+31,Minas Gerais,MG,3121407,Desterro de Entre Rios,Sudeste,-20.66,-44.332223
+31,Minas Gerais,MG,3121506,Desterro do Melo,Sudeste,-21.146003,-43.518329
+31,Minas Gerais,MG,3121605,Diamantina,Sudeste,-18.244086,-43.600649
+31,Minas Gerais,MG,3121704,Diogo de Vasconcelos,Sudeste,-20.486872,-43.198465
+31,Minas Gerais,MG,3121803,Dionísio,Sudeste,-19.841944,-42.776945
+31,Minas Gerais,MG,3121902,Divinésia,Sudeste,-20.990277,-43.003889
+31,Minas Gerais,MG,3122009,Divino,Sudeste,-20.61515,-42.147473
+31,Minas Gerais,MG,3122108,Divino das Laranjeiras,Sudeste,-18.7775,-41.479167
+31,Minas Gerais,MG,3122207,Divinolândia de Minas,Sudeste,-18.802145,-42.615379
+31,Minas Gerais,MG,3122306,Divinópolis,Sudeste,-20.159792,-44.873934
+31,Minas Gerais,MG,3122355,Divisa Alegre,Sudeste,-15.720775,-41.344281
+31,Minas Gerais,MG,3122405,Divisa Nova,Sudeste,-21.51268,-46.192663
+31,Minas Gerais,MG,3122454,Divisópolis,Sudeste,-20.159792,-44.873934
+31,Minas Gerais,MG,3122470,Dom Bosco,Sudeste,-19.917,-44.0008
+31,Minas Gerais,MG,3122504,Dom Cavati,Sudeste,-19.374415,-42.10673
+31,Minas Gerais,MG,3122603,Dom Joaquim,Sudeste,-19.8781,-43.9189
+31,Minas Gerais,MG,3122702,Dom Silvério,Sudeste,-19.854599,-43.904595
+31,Minas Gerais,MG,3122801,Dom Viçoso,Sudeste,-22.253416,-45.160332
+31,Minas Gerais,MG,3122900,Dona Euzébia,Sudeste,-20.1931617,-42.2404983
+31,Minas Gerais,MG,3123007,Dores de Campos,Sudeste,-21.107222,-44.0225
+31,Minas Gerais,MG,3123106,Dores de Guanhães,Sudeste,-19.057897,-42.929257
+31,Minas Gerais,MG,3123205,Dores do Indaiá,Sudeste,-19.463645,-45.60166
+31,Minas Gerais,MG,3123304,Dores do Turvo,Sudeste,-20.975278,-43.188889
+31,Minas Gerais,MG,3123403,Doresópolis,Sudeste,-20.287222,-45.903056
+31,Minas Gerais,MG,3123502,Douradoquara,Sudeste,-18.431062,-47.608269
+31,Minas Gerais,MG,3123528,Durandé,Sudeste,-20.203611,-41.798055
+31,Minas Gerais,MG,3123601,Elói Mendes,Sudeste,-21.609447,-45.566021
+31,Minas Gerais,MG,3123700,Engenheiro Caldas,Sudeste,-19.201389,-42.046944
+31,Minas Gerais,MG,3123809,Engenheiro Navarro,Sudeste,-17.286622,-43.951572
+31,Minas Gerais,MG,3123858,Entre Folhas,Sudeste,-19.946413,-43.935504
+31,Minas Gerais,MG,3123908,Entre Rios de Minas,Sudeste,-20.670834,-44.065556
+31,Minas Gerais,MG,3124005,Ervália,Sudeste,-20.840016,-42.653352
+31,Minas Gerais,MG,3124104,Esmeraldas,Sudeste,-19.761311,-44.314595
+31,Minas Gerais,MG,3124203,Espera Feliz,Sudeste,-20.649419,-41.908069
+31,Minas Gerais,MG,3124302,Espinosa,Sudeste,-14.923201,-42.809334
+31,Minas Gerais,MG,3124401,Espírito Santo do Dourado,Sudeste,-22.046666,-45.950833
+31,Minas Gerais,MG,3124500,Estiva,Sudeste,-22.463869,-46.01821
+31,Minas Gerais,MG,3124609,Estrela Dalva,Sudeste,-18.8984831,-48.2981818
+31,Minas Gerais,MG,3124708,Estrela do Indaiá,Sudeste,-19.5225,-45.7875
+31,Minas Gerais,MG,3124807,Estrela do Sul,Sudeste,-18.745078499999998,-47.691688
+31,Minas Gerais,MG,3124906,Eugenópolis,Sudeste,-21.096816,-42.185099
+31,Minas Gerais,MG,3125002,Ewbank da Câmara,Sudeste,-21.551389,-43.509722
+31,Minas Gerais,MG,3125101,Extrema,Sudeste,-22.854911,-46.319008
+31,Minas Gerais,MG,3125200,Fama,Sudeste,-20.583555,-46.919868
+31,Minas Gerais,MG,3125309,Faria Lemos,Sudeste,-20.80512,-42.012739
+31,Minas Gerais,MG,3125408,Felício dos Santos,Sudeste,-18.076503,-43.247113
+31,Minas Gerais,MG,3125507,São Gonçalo do Rio Preto,Sudeste,-18.004969,-43.380306
+31,Minas Gerais,MG,3125606,Felisburgo,Sudeste,-16.638889,-40.760556
+31,Minas Gerais,MG,3125705,Felixlândia,Sudeste,-18.757398,-44.899147
+31,Minas Gerais,MG,3125804,Fernandes Tourinho,Sudeste,-19.152778,-42.083056
+31,Minas Gerais,MG,3125903,Ferros,Sudeste,-19.234984,-43.019542
+31,Minas Gerais,MG,3125952,Fervedouro,Sudeste,-20.729224,-42.278594
+31,Minas Gerais,MG,3126000,Florestal,Sudeste,-19.88787,-44.431477
+31,Minas Gerais,MG,3126109,Formiga,Sudeste,-20.464842,-45.426675
+31,Minas Gerais,MG,3126208,Formoso,Sudeste,-14.951308,-46.234247
+31,Minas Gerais,MG,3126307,Fortaleza de Minas,Sudeste,-20.849166,-46.712222
+31,Minas Gerais,MG,3126406,Fortuna de Minas,Sudeste,-19.561662,-44.445185
+31,Minas Gerais,MG,3126505,Francisco Badaró,Sudeste,-16.991752,-42.350899
+31,Minas Gerais,MG,3126604,Francisco Dumont,Sudeste,-17.311754,-44.232223
+31,Minas Gerais,MG,3126703,Francisco Sá,Sudeste,-16.477721,-43.494259
+31,Minas Gerais,MG,3126752,Franciscópolis,Sudeste,-17.959488,-42.008109
+31,Minas Gerais,MG,3126802,Frei Gaspar,Sudeste,-18.063343,-41.430067
+31,Minas Gerais,MG,3126901,Frei Inocêncio,Sudeste,-18.563076,-41.906488
+31,Minas Gerais,MG,3126950,Frei Lagonegro,Sudeste,-18.167118,-42.765689
+31,Minas Gerais,MG,3127008,Fronteira,Sudeste,-20.286111,-49.202778
+31,Minas Gerais,MG,3127057,Fronteira dos Vales,Sudeste,-16.89159,-40.925106
+31,Minas Gerais,MG,3127073,Fruta de Leite,Sudeste,-16.1169,-42.5278
+31,Minas Gerais,MG,3127107,Frutal,Sudeste,-20.022006,-48.928008
+31,Minas Gerais,MG,3127206,Funilândia,Sudeste,-19.371196,-44.059948
+31,Minas Gerais,MG,3127305,Galiléia,Sudeste,-19.000867,-41.538394
+31,Minas Gerais,MG,3127339,Gameleiras,Sudeste,-15.0828,-43.1236
+31,Minas Gerais,MG,3127354,Glaucilândia,Sudeste,-16.8497,-43.6972
+31,Minas Gerais,MG,3127370,Goiabeira,Sudeste,-18.980403,-41.224571
+31,Minas Gerais,MG,3127388,Goianá,Sudeste,-21.5375,-43.2014
+31,Minas Gerais,MG,3127404,Gonçalves,Sudeste,-22.658883,-45.855841
+31,Minas Gerais,MG,3127503,Gonzaga,Sudeste,-18.823915,-42.478706
+31,Minas Gerais,MG,3127602,Gouveia,Sudeste,-18.454573,-43.74159
+31,Minas Gerais,MG,3127701,Governador Valadares,Sudeste,-18.85395,-41.945875
+31,Minas Gerais,MG,3127800,Grão Mogol,Sudeste,-16.563462,-42.893211
+31,Minas Gerais,MG,3127909,Grupiara,Sudeste,-18.244858,-43.596793
+31,Minas Gerais,MG,3128006,Guanhães,Sudeste,-18.775363,-42.934063
+31,Minas Gerais,MG,3128105,Guapé,Sudeste,-20.761945,-45.917497
+31,Minas Gerais,MG,3128204,Guaraciaba,Sudeste,-20.571804,-43.005708
+31,Minas Gerais,MG,3128253,Guaraciama,Sudeste,-17.01299,-43.669645
+31,Minas Gerais,MG,3128303,Guaranésia,Sudeste,-21.302483,-46.795696
+31,Minas Gerais,MG,3128402,Guarani,Sudeste,-19.8422,-43.9254
+31,Minas Gerais,MG,3128501,Guarará,Sudeste,-21.731945,-43.037777
+31,Minas Gerais,MG,3128600,Guarda-Mor,Sudeste,-17.769823,-47.098683
+31,Minas Gerais,MG,3128709,Guaxupé,Sudeste,-21.308761,-46.719061
+31,Minas Gerais,MG,3128808,Guidoval,Sudeste,-21.151448,-42.799715
+31,Minas Gerais,MG,3128907,Guimarânia,Sudeste,-18.844225,-46.792514
+31,Minas Gerais,MG,3129004,Guiricema,Sudeste,-21.008606,-42.719089
+31,Minas Gerais,MG,3129103,Gurinhatã,Sudeste,-19.211449,-49.784008
+31,Minas Gerais,MG,3129202,Heliodora,Sudeste,-22.0675,-45.542222
+31,Minas Gerais,MG,3129301,Iapu,Sudeste,-19.436389,-42.217223
+31,Minas Gerais,MG,3129400,Ibertioga,Sudeste,-21.431111,-43.966111
+31,Minas Gerais,MG,3129509,Ibiá,Sudeste,-19.477184,-46.538696
+31,Minas Gerais,MG,3129608,Ibiaí,Sudeste,-16.861111,-44.913889
+31,Minas Gerais,MG,3129657,Ibiracatu,Sudeste,-15.666642,-44.165117
+31,Minas Gerais,MG,3129707,Ibiraci,Sudeste,-20.461944,-47.122223
+31,Minas Gerais,MG,3129806,Ibirité,Sudeste,-20.021425,-44.062151
+31,Minas Gerais,MG,3129905,Ibitiúra de Minas,Sudeste,-22.060833,-46.439722
+31,Minas Gerais,MG,3130002,Ibituruna,Sudeste,-21.151572,-44.747435
+31,Minas Gerais,MG,3130051,Icaraí de Minas,Sudeste,-16.217659,-44.902344
+31,Minas Gerais,MG,3130101,Igarapé,Sudeste,-20.068789,-44.301744
+31,Minas Gerais,MG,3130200,Igaratinga,Sudeste,-19.955278,-44.708925
+31,Minas Gerais,MG,3130309,Iguatama,Sudeste,-20.174445,-45.711111
+31,Minas Gerais,MG,3130408,Ijaci,Sudeste,-21.170093,-44.928062
+31,Minas Gerais,MG,3130507,Ilicínea,Sudeste,-20.93902,-45.826356
+31,Minas Gerais,MG,3130556,Imbé de Minas,Sudeste,-19.598945,-41.969429
+31,Minas Gerais,MG,3130606,Inconfidentes,Sudeste,-22.316887,-46.327918
+31,Minas Gerais,MG,3130655,Indaiabira,Sudeste,-15.4914,-42.1981
+31,Minas Gerais,MG,3130705,Indianópolis,Sudeste,-19.039197,-47.917844
+31,Minas Gerais,MG,3130804,Ingaí,Sudeste,-21.400833,-44.917223
+31,Minas Gerais,MG,3130903,Inhapim,Sudeste,-19.550183,-42.120988
+31,Minas Gerais,MG,3131000,Inhaúma,Sudeste,-19.496286,-44.390001
+31,Minas Gerais,MG,3131109,Inimutaba,Sudeste,-18.730173,-44.362397
+31,Minas Gerais,MG,3131158,Ipaba,Sudeste,-19.411389,-42.42
+31,Minas Gerais,MG,3131208,Ipanema,Sudeste,-19.799995,-41.713881
+31,Minas Gerais,MG,3131307,Ipatinga,Sudeste,-19.477781,-42.52708
+31,Minas Gerais,MG,3131406,Ipiaçu,Sudeste,-18.69345,-49.943957
+31,Minas Gerais,MG,3131505,Ipuiúna,Sudeste,-22.098076,-46.191318499999994
+31,Minas Gerais,MG,3131604,Iraí de Minas,Sudeste,-18.986534,-47.46422
+31,Minas Gerais,MG,3131703,Itabira,Sudeste,-19.618626,-43.226701
+31,Minas Gerais,MG,3131802,Itabirinha,Sudeste,-18.571189,-41.233986
+31,Minas Gerais,MG,3131901,Itabirito,Sudeste,-20.251972,-43.802917
+31,Minas Gerais,MG,3132008,Itacambira,Sudeste,-17.067162,-43.313092
+31,Minas Gerais,MG,3132107,Itacarambi,Sudeste,-15.1,-44.092222
+31,Minas Gerais,MG,3132206,Itaguara,Sudeste,-20.391389,-44.488055
+31,Minas Gerais,MG,3132305,Itaipé,Sudeste,-17.401944,-41.670278
+31,Minas Gerais,MG,3132404,Itajubá,Sudeste,-22.423823,-45.452416
+31,Minas Gerais,MG,3132503,Itamarandiba,Sudeste,-17.8575,-42.859722
+31,Minas Gerais,MG,3132602,Itamarati de Minas,Sudeste,-21.415833,-42.817778
+31,Minas Gerais,MG,3132701,Itambacuri,Sudeste,-18.039197,-41.675188
+31,Minas Gerais,MG,3132800,Itambé do Mato Dentro,Sudeste,-19.41444,-43.322306
+31,Minas Gerais,MG,3132909,Itamogi,Sudeste,-21.079321,-47.048612
+31,Minas Gerais,MG,3133006,Itamonte,Sudeste,-22.283073,-44.869579
+31,Minas Gerais,MG,3133105,Itanhandu,Sudeste,-22.295791,-44.936673
+31,Minas Gerais,MG,3133204,Itanhomi,Sudeste,-19.171111,-41.864167
+31,Minas Gerais,MG,3133303,Itaobim,Sudeste,-16.561493,-41.502275
+31,Minas Gerais,MG,3133402,Itapagipe,Sudeste,-19.903388,-49.366693
+31,Minas Gerais,MG,3133501,Itapecerica,Sudeste,-20.472778,-45.125556
+31,Minas Gerais,MG,3133600,Itapeva,Sudeste,-22.769064,-46.221934
+31,Minas Gerais,MG,3133709,Itatiaiuçu,Sudeste,-20.197572,-44.422489
+31,Minas Gerais,MG,3133758,Itaú de Minas,Sudeste,-20.739722,-46.752222
+31,Minas Gerais,MG,3133808,Itaúna,Sudeste,-20.075556,-44.576389
+31,Minas Gerais,MG,3133907,Itaverava,Sudeste,-20.676312,-43.609899
+31,Minas Gerais,MG,3134004,Itinga,Sudeste,-16.606676,-41.770208
+31,Minas Gerais,MG,3134103,Itueta,Sudeste,-19.396246,-41.226308
+31,Minas Gerais,MG,3134202,Ituiutaba,Sudeste,-18.969189,-49.463934
+31,Minas Gerais,MG,3134301,Itumirim,Sudeste,-21.317223,-44.870556
+31,Minas Gerais,MG,3134400,Iturama,Sudeste,-19.727273,-50.193488
+31,Minas Gerais,MG,3134509,Itutinga,Sudeste,-21.297383,-44.657508
+31,Minas Gerais,MG,3134608,Jaboticatubas,Sudeste,-19.521667,-43.745277
+31,Minas Gerais,MG,3134707,Jacinto,Sudeste,-16.146099,-40.294803
+31,Minas Gerais,MG,3134806,Jacuí,Sudeste,-21.016957,-46.74583
+31,Minas Gerais,MG,3134905,Jacutinga,Sudeste,-22.285833,-46.612222
+31,Minas Gerais,MG,3135001,Jaguaraçu,Sudeste,-19.647195,-42.751329
+31,Minas Gerais,MG,3135050,Jaíba,Sudeste,-15.337374,-43.673444
+31,Minas Gerais,MG,3135076,Jampruca,Sudeste,-18.461398,-41.80923
+31,Minas Gerais,MG,3135100,Janaúba,Sudeste,-15.801929,-43.309246
+31,Minas Gerais,MG,3135209,Januária,Sudeste,-15.4875,-44.361111
+31,Minas Gerais,MG,3135308,Japaraíba,Sudeste,-20.141635,-45.50321
+31,Minas Gerais,MG,3135357,Japonvar,Sudeste,-15.998039,-44.275506
+31,Minas Gerais,MG,3135407,Jeceaba,Sudeste,-20.535382,-43.983346
+31,Minas Gerais,MG,3135456,Jenipapo de Minas,Sudeste,-17.08493,-42.259576
+31,Minas Gerais,MG,3135506,Jequeri,Sudeste,-20.453056,-42.666111
+31,Minas Gerais,MG,3135605,Jequitaí,Sudeste,-17.232822,-44.438346
+31,Minas Gerais,MG,3135704,Jequitibá,Sudeste,-19.236158,-44.03063
+31,Minas Gerais,MG,3135803,Jequitinhonha,Sudeste,-16.433333,-41.003056
+31,Minas Gerais,MG,3135902,Jesuânia,Sudeste,-21.997777,-45.290833
+31,Minas Gerais,MG,3136009,Joaíma,Sudeste,-16.656314,-41.023496
+31,Minas Gerais,MG,3136108,Joanésia,Sudeste,-19.175628,-42.681553
+31,Minas Gerais,MG,3136207,João Monlevade,Sudeste,-19.809444,-43.173334
+31,Minas Gerais,MG,3136306,João Pinheiro,Sudeste,-17.742777,-46.175278
+31,Minas Gerais,MG,3136405,Joaquim Felício,Sudeste,-17.760244,-44.170164
+31,Minas Gerais,MG,3136504,Jordânia,Sudeste,-15.899444,-40.178889
+31,Minas Gerais,MG,3136520,José Gonçalves de Minas,Sudeste,-16.906654,-42.6075
+31,Minas Gerais,MG,3136553,José Raydan,Sudeste,-18.222067,-42.499112
+31,Minas Gerais,MG,3136579,Josenópolis,Sudeste,-16.546093,-42.514096
+31,Minas Gerais,MG,3136603,Nova União,Sudeste,-19.690189,-43.580107
+31,Minas Gerais,MG,3136652,Juatuba,Sudeste,-19.954001,-44.340792
+31,Minas Gerais,MG,3136702,Juiz de Fora,Sudeste,-21.760953,-43.350113
+31,Minas Gerais,MG,3136801,Juramento,Sudeste,-16.845829,-43.586735
+31,Minas Gerais,MG,3136900,Juruaia,Sudeste,-21.252778,-46.577223
+31,Minas Gerais,MG,3136959,Juvenília,Sudeste,-14.266079,-44.161853
+31,Minas Gerais,MG,3137007,Ladainha,Sudeste,-17.626508,-41.738579
+31,Minas Gerais,MG,3137106,Lagamar,Sudeste,-18.178984,-46.807704
+31,Minas Gerais,MG,3137205,Lagoa da Prata,Sudeste,-20.022778,-45.544046
+31,Minas Gerais,MG,3137304,Lagoa dos Patos,Sudeste,-16.981337,-44.578313
+31,Minas Gerais,MG,3137403,Lagoa Dourada,Sudeste,-20.914444,-44.077778
+31,Minas Gerais,MG,3137502,Lagoa Formosa,Sudeste,-18.77419,-46.408251
+31,Minas Gerais,MG,3137536,Lagoa Grande,Sudeste,-18.6,-46.52
+31,Minas Gerais,MG,3137601,Lagoa Santa,Sudeste,-19.635738,-43.896613
+31,Minas Gerais,MG,3137700,Lajinha,Sudeste,-20.152059,-41.624062
+31,Minas Gerais,MG,3137809,Lambari,Sudeste,-21.975401,-45.350542
+31,Minas Gerais,MG,3137908,Lamim,Sudeste,-20.790539,-43.473322
+31,Minas Gerais,MG,3138005,Laranjal,Sudeste,-21.365278,-42.477778
+31,Minas Gerais,MG,3138104,Lassance,Sudeste,-17.886944,-44.576667
+31,Minas Gerais,MG,3138203,Lavras,Sudeste,-21.242551,-44.999198
+31,Minas Gerais,MG,3138302,Leandro Ferreira,Sudeste,-19.716963,-45.0245
+31,Minas Gerais,MG,3138351,Leme do Prado,Sudeste,-17.082799,-42.695273
+31,Minas Gerais,MG,3138401,Leopoldina,Sudeste,-21.531428,-42.640353
+31,Minas Gerais,MG,3138500,Liberdade,Sudeste,-19.8612,-43.9549
+31,Minas Gerais,MG,3138609,Lima Duarte,Sudeste,-21.842777,-43.792777
+31,Minas Gerais,MG,3138625,Limeira do Oeste,Sudeste,-19.551548500000003,-50.579736499999996
+31,Minas Gerais,MG,3138658,Lontra,Sudeste,-15.903478,-44.303038
+31,Minas Gerais,MG,3138674,Luisburgo,Sudeste,-20.4394,-42.1025
+31,Minas Gerais,MG,3138682,Luislândia,Sudeste,-16.115017,-44.584935
+31,Minas Gerais,MG,3138708,Luminárias,Sudeste,-21.511329000000003,-44.902531999999994
+31,Minas Gerais,MG,3138807,Luz,Sudeste,-19.787117,-45.684674
+31,Minas Gerais,MG,3138906,Machacalis,Sudeste,-17.077034,-40.718727
+31,Minas Gerais,MG,3139003,Machado,Sudeste,-21.676286,-45.92117
+31,Minas Gerais,MG,3139102,Madre de Deus de Minas,Sudeste,-21.482582999999998,-44.3300165
+31,Minas Gerais,MG,3139201,Malacacheta,Sudeste,-17.843055,-42.077778
+31,Minas Gerais,MG,3139250,Mamonas,Sudeste,-15.04771,-42.949959
+31,Minas Gerais,MG,3139300,Manga,Sudeste,-14.752803,-43.941704
+31,Minas Gerais,MG,3139409,Manhuaçu,Sudeste,-20.257443,-42.034077
+31,Minas Gerais,MG,3139508,Manhumirim,Sudeste,-20.359914,-41.955461
+31,Minas Gerais,MG,3139607,Mantena,Sudeste,-18.780994,-40.980828
+31,Minas Gerais,MG,3139706,Maravilhas,Sudeste,-19.515278,-44.676389
+31,Minas Gerais,MG,3139805,Mar de Espanha,Sudeste,-21.866945,-43.01
+31,Minas Gerais,MG,3139904,Maria da Fé,Sudeste,-22.308165,-45.375277
+31,Minas Gerais,MG,3140001,Mariana,Sudeste,-20.378147,-43.417486
+31,Minas Gerais,MG,3140100,Marilac,Sudeste,-18.5075,-42.080278
+31,Minas Gerais,MG,3140159,Mário Campos,Sudeste,-20.0511,-44.1858
+31,Minas Gerais,MG,3140209,Maripá de Minas,Sudeste,-21.6983295,-42.9593305
+31,Minas Gerais,MG,3140308,Marliéria,Sudeste,-19.712328999999997,-42.7328305
+31,Minas Gerais,MG,3140407,Marmelópolis,Sudeste,-22.448889,-45.165278
+31,Minas Gerais,MG,3140506,Martinho Campos,Sudeste,-19.331945,-45.236666
+31,Minas Gerais,MG,3140530,Martins Soares,Sudeste,-20.257951,-41.877299
+31,Minas Gerais,MG,3140555,Mata Verde,Sudeste,-16.1715338,-40.680474
+31,Minas Gerais,MG,3140605,Materlândia,Sudeste,-18.473889,-43.06
+31,Minas Gerais,MG,3140704,Mateus Leme,Sudeste,-19.986666,-44.428056
+31,Minas Gerais,MG,3140803,Matias Barbosa,Sudeste,-21.869164,-43.318062
+31,Minas Gerais,MG,3140852,Matias Cardoso,Sudeste,-14.860311,-43.921244
+31,Minas Gerais,MG,3140902,Matipó,Sudeste,-20.289669,-42.34266
+31,Minas Gerais,MG,3141009,Mato Verde,Sudeste,-15.396513,-42.859881
+31,Minas Gerais,MG,3141108,Matozinhos,Sudeste,-19.557655,-44.081604
+31,Minas Gerais,MG,3141207,Matutina,Sudeste,-19.221956,-45.970165
+31,Minas Gerais,MG,3141306,Medeiros,Sudeste,-19.897208,-44.038616
+31,Minas Gerais,MG,3141405,Medina,Sudeste,-16.227047,-41.476337
+31,Minas Gerais,MG,3141504,Mendes Pimentel,Sudeste,-18.661164,-41.402072
+31,Minas Gerais,MG,3141603,Mercês,Sudeste,-21.194726,-43.340727
+31,Minas Gerais,MG,3141702,Mesquita,Sudeste,-19.221667,-42.607222
+31,Minas Gerais,MG,3141801,Minas Novas,Sudeste,-17.217583,-42.594368
+31,Minas Gerais,MG,3141900,Minduri,Sudeste,-21.681722,-44.6037
+31,Minas Gerais,MG,3142007,Mirabela,Sudeste,-16.254721,-44.163908
+31,Minas Gerais,MG,3142106,Miradouro,Sudeste,-20.890459,-42.342825500000004
+31,Minas Gerais,MG,3142205,Miraí,Sudeste,-21.195742,-42.612515
+31,Minas Gerais,MG,3142254,Miravânia,Sudeste,-14.749287,-44.410845
+31,Minas Gerais,MG,3142304,Moeda,Sudeste,-20.333056,-44.0525
+31,Minas Gerais,MG,3142403,Moema,Sudeste,-19.843541,-45.410624
+31,Minas Gerais,MG,3142502,Monjolos,Sudeste,-18.324267,-44.118773
+31,Minas Gerais,MG,3142601,Monsenhor Paulo,Sudeste,-21.757778,-45.541111
+31,Minas Gerais,MG,3142700,Montalvânia,Sudeste,-14.423017,-44.370178
+31,Minas Gerais,MG,3142809,Monte Alegre de Minas,Sudeste,-18.870278,-48.880556
+31,Minas Gerais,MG,3142908,Monte Azul,Sudeste,-15.1532,-42.871174
+31,Minas Gerais,MG,3143005,Monte Belo,Sudeste,-21.322505,-46.364977
+31,Minas Gerais,MG,3143104,Monte Carmelo,Sudeste,-18.726094,-47.495886
+31,Minas Gerais,MG,3143153,Monte Formoso,Sudeste,-16.866939,-41.254354
+31,Minas Gerais,MG,3143203,Monte Santo de Minas,Sudeste,-21.186781,-46.976902
+31,Minas Gerais,MG,3143302,Montes Claros,Sudeste,-16.727354,-43.871768
+31,Minas Gerais,MG,3143401,Monte Sião,Sudeste,-22.432778,-46.572778
+31,Minas Gerais,MG,3143450,Montezuma,Sudeste,-15.171512,-42.49877
+31,Minas Gerais,MG,3143500,Morada Nova de Minas,Sudeste,-18.602489,-45.351387
+31,Minas Gerais,MG,3143609,Morro da Garça,Sudeste,-18.543519,-44.60302
+31,Minas Gerais,MG,3143708,Morro do Pilar,Sudeste,-19.216389,-43.376667
+31,Minas Gerais,MG,3143807,Munhoz,Sudeste,-22.613056,-46.360556
+31,Minas Gerais,MG,3143906,Muriaé,Sudeste,-21.130556,-42.366389
+31,Minas Gerais,MG,3144003,Mutum,Sudeste,-19.817223,-41.438333
+31,Minas Gerais,MG,3144102,Muzambinho,Sudeste,-21.372709,-46.51927
+31,Minas Gerais,MG,3144201,Nacip Raydan,Sudeste,-18.457563,-42.249607
+31,Minas Gerais,MG,3144300,Nanuque,Sudeste,-17.839111,-40.353722
+31,Minas Gerais,MG,3144359,Naque,Sudeste,-19.227127,-42.328019
+31,Minas Gerais,MG,3144375,Natalândia,Sudeste,-16.5042,-46.4933
+31,Minas Gerais,MG,3144409,Natércia,Sudeste,-22.12,-45.511389
+31,Minas Gerais,MG,3144508,Nazareno,Sudeste,-21.218981,-44.615135
+31,Minas Gerais,MG,3144607,Nepomuceno,Sudeste,-21.232744,-45.235228
+31,Minas Gerais,MG,3144656,Ninheira,Sudeste,-15.318872,-41.753558
+31,Minas Gerais,MG,3144672,Nova Belém,Sudeste,-18.491433,-41.105005
+31,Minas Gerais,MG,3144706,Nova Era,Sudeste,-19.766111,-43.036944
+31,Minas Gerais,MG,3144805,Nova Lima,Sudeste,-19.985409,-43.847069
+31,Minas Gerais,MG,3144904,Nova Módica,Sudeste,-18.438986,-41.497365
+31,Minas Gerais,MG,3145000,Nova Ponte,Sudeste,-19.169221,-47.671764
+31,Minas Gerais,MG,3145059,Nova Porteirinha,Sudeste,-15.803056,-43.301184
+31,Minas Gerais,MG,3145109,Nova Resende,Sudeste,-21.126386,-46.424537
+31,Minas Gerais,MG,3145208,Nova Serrana,Sudeste,-19.875834,-44.984166
+31,Minas Gerais,MG,3145307,Novo Cruzeiro,Sudeste,-17.467778,-41.876111
+31,Minas Gerais,MG,3145356,Novo Oriente de Minas,Sudeste,-17.415391,-41.219023
+31,Minas Gerais,MG,3145372,Novorizonte,Sudeste,-16.017691499999998,-42.407891
+31,Minas Gerais,MG,3145406,Olaria,Sudeste,-19.9909,-44.0278
+31,Minas Gerais,MG,3145455,Olhos-d'Água,Sudeste,-19.99,-43.9631
+31,Minas Gerais,MG,3145505,Olímpio Noronha,Sudeste,-22.067778,-45.263889
+31,Minas Gerais,MG,3145604,Oliveira,Sudeste,-20.697195,-44.827397
+31,Minas Gerais,MG,3145703,Oliveira Fortes,Sudeste,-21.339116,-43.457714
+31,Minas Gerais,MG,3145802,Onça de Pitangui,Sudeste,-19.73,-44.807222
+31,Minas Gerais,MG,3145851,Oratórios,Sudeste,-20.4303,-42.8056
+31,Minas Gerais,MG,3145877,Orizânia,Sudeste,-20.50577,-42.208707
+31,Minas Gerais,MG,3145901,Ouro Branco,Sudeste,-20.523026,-43.691733
+31,Minas Gerais,MG,3146008,Ouro Fino,Sudeste,-22.283056,-46.369167
+31,Minas Gerais,MG,3146107,Ouro Preto,Sudeste,-20.385169,-43.503634
+31,Minas Gerais,MG,3146206,Ouro Verde de Minas,Sudeste,-18.068722,-41.271062
+31,Minas Gerais,MG,3146255,Padre Carvalho,Sudeste,-16.3647,-42.515
+31,Minas Gerais,MG,3146305,Padre Paraíso,Sudeste,-17.073889,-41.484444

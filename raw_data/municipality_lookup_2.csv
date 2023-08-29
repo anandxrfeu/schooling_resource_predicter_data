@@ -1,0 +1,1394 @@
+Código_UF,Estado,UF,Código_IBGE,Município,Região
+25,Paraíba,PB,2512200,Prata,Nordeste
+25,Paraíba,PB,2512309,Princesa Isabel,Nordeste
+25,Paraíba,PB,2512408,Puxinanã,Nordeste
+25,Paraíba,PB,2512507,Queimadas,Nordeste
+25,Paraíba,PB,2512606,Quixaba,Nordeste
+25,Paraíba,PB,2512705,Remígio,Nordeste
+25,Paraíba,PB,2512721,Pedro Régis,Nordeste
+25,Paraíba,PB,2512747,Riachão,Nordeste
+25,Paraíba,PB,2512754,Riachão do Bacamarte,Nordeste
+25,Paraíba,PB,2512762,Riachão do Poço,Nordeste
+25,Paraíba,PB,2512788,Riacho de Santo Antônio,Nordeste
+25,Paraíba,PB,2512804,Riacho dos Cavalos,Nordeste
+25,Paraíba,PB,2512903,Rio Tinto,Nordeste
+25,Paraíba,PB,2513000,Salgadinho,Nordeste
+25,Paraíba,PB,2513109,Salgado de São Félix,Nordeste
+25,Paraíba,PB,2513158,Santa Cecília,Nordeste
+25,Paraíba,PB,2513208,Santa Cruz,Nordeste
+25,Paraíba,PB,2513307,Santa Helena,Nordeste
+25,Paraíba,PB,2513356,Santa Inês,Nordeste
+25,Paraíba,PB,2513406,Santa Luzia,Nordeste
+25,Paraíba,PB,2513505,Santana de Mangueira,Nordeste
+25,Paraíba,PB,2513604,Santana dos Garrotes,Nordeste
+25,Paraíba,PB,2513653,Joca Claudino,Nordeste
+25,Paraíba,PB,2513703,Santa Rita,Nordeste
+25,Paraíba,PB,2513802,Santa Teresinha,Nordeste
+25,Paraíba,PB,2513851,Santo André,Nordeste
+25,Paraíba,PB,2513901,São Bento,Nordeste
+25,Paraíba,PB,2513927,São Bentinho,Nordeste
+25,Paraíba,PB,2513943,São Domingos do Cariri,Nordeste
+25,Paraíba,PB,2513968,São Domingos,Nordeste
+25,Paraíba,PB,2513984,São Francisco,Nordeste
+25,Paraíba,PB,2514008,São João do Cariri,Nordeste
+25,Paraíba,PB,2514107,São João do Tigre,Nordeste
+25,Paraíba,PB,2514206,São José da Lagoa Tapada,Nordeste
+25,Paraíba,PB,2514305,São José de Caiana,Nordeste
+25,Paraíba,PB,2514404,São José de Espinharas,Nordeste
+25,Paraíba,PB,2514453,São José dos Ramos,Nordeste
+25,Paraíba,PB,2514503,São José de Piranhas,Nordeste
+25,Paraíba,PB,2514552,São José de Princesa,Nordeste
+25,Paraíba,PB,2514602,São José do Bonfim,Nordeste
+25,Paraíba,PB,2514651,São José do Brejo do Cruz,Nordeste
+25,Paraíba,PB,2514701,São José do Sabugi,Nordeste
+25,Paraíba,PB,2514800,São José dos Cordeiros,Nordeste
+25,Paraíba,PB,2514909,São Mamede,Nordeste
+25,Paraíba,PB,2515005,São Miguel de Taipu,Nordeste
+25,Paraíba,PB,2515104,São Sebastião de Lagoa de Roça,Nordeste
+25,Paraíba,PB,2515203,São Sebastião do Umbuzeiro,Nordeste
+25,Paraíba,PB,2515302,Sapé,Nordeste
+25,Paraíba,PB,2515401,São Vicente do Seridó,Nordeste
+25,Paraíba,PB,2515500,Serra Branca,Nordeste
+25,Paraíba,PB,2515609,Serra da Raiz,Nordeste
+25,Paraíba,PB,2515708,Serra Grande,Nordeste
+25,Paraíba,PB,2515807,Serra Redonda,Nordeste
+25,Paraíba,PB,2515906,Serraria,Nordeste
+25,Paraíba,PB,2515930,Sertãozinho,Nordeste
+25,Paraíba,PB,2515971,Sobrado,Nordeste
+25,Paraíba,PB,2516003,Solânea,Nordeste
+25,Paraíba,PB,2516102,Soledade,Nordeste
+25,Paraíba,PB,2516151,Sossêgo,Nordeste
+25,Paraíba,PB,2516201,Sousa,Nordeste
+25,Paraíba,PB,2516300,Sumé,Nordeste
+25,Paraíba,PB,2516409,Tacima,Nordeste
+25,Paraíba,PB,2516508,Taperoá,Nordeste
+25,Paraíba,PB,2516607,Tavares,Nordeste
+25,Paraíba,PB,2516706,Teixeira,Nordeste
+25,Paraíba,PB,2516755,Tenório,Nordeste
+25,Paraíba,PB,2516805,Triunfo,Nordeste
+25,Paraíba,PB,2516904,Uiraúna,Nordeste
+25,Paraíba,PB,2517001,Umbuzeiro,Nordeste
+25,Paraíba,PB,2517100,Várzea,Nordeste
+25,Paraíba,PB,2517209,Vieirópolis,Nordeste
+25,Paraíba,PB,2517407,Zabelê,Nordeste
+26,Pernambuco,PE,2600054,Abreu e Lima,Nordeste
+26,Pernambuco,PE,2600104,Afogados da Ingazeira,Nordeste
+26,Pernambuco,PE,2600203,Afrânio,Nordeste
+26,Pernambuco,PE,2600302,Agrestina,Nordeste
+26,Pernambuco,PE,2600401,Água Preta,Nordeste
+26,Pernambuco,PE,2600500,Águas Belas,Nordeste
+26,Pernambuco,PE,2600609,Alagoinha,Nordeste
+26,Pernambuco,PE,2600708,Aliança,Nordeste
+26,Pernambuco,PE,2600807,Altinho,Nordeste
+26,Pernambuco,PE,2600906,Amaraji,Nordeste
+26,Pernambuco,PE,2601003,Angelim,Nordeste
+26,Pernambuco,PE,2601052,Araçoiaba,Nordeste
+26,Pernambuco,PE,2601102,Araripina,Nordeste
+26,Pernambuco,PE,2601201,Arcoverde,Nordeste
+26,Pernambuco,PE,2601300,Barra de Guabiraba,Nordeste
+26,Pernambuco,PE,2601409,Barreiros,Nordeste
+26,Pernambuco,PE,2601508,Belém de Maria,Nordeste
+26,Pernambuco,PE,2601607,Belém do São Francisco,Nordeste
+26,Pernambuco,PE,2601706,Belo Jardim,Nordeste
+26,Pernambuco,PE,2601805,Betânia,Nordeste
+26,Pernambuco,PE,2601904,Bezerros,Nordeste
+26,Pernambuco,PE,2602001,Bodocó,Nordeste
+26,Pernambuco,PE,2602100,Bom Conselho,Nordeste
+26,Pernambuco,PE,2602209,Bom Jardim,Nordeste
+26,Pernambuco,PE,2602308,Bonito,Nordeste
+26,Pernambuco,PE,2602407,Brejão,Nordeste
+26,Pernambuco,PE,2602506,Brejinho,Nordeste
+26,Pernambuco,PE,2602605,Brejo da Madre de Deus,Nordeste
+26,Pernambuco,PE,2602704,Buenos Aires,Nordeste
+26,Pernambuco,PE,2602803,Buíque,Nordeste
+26,Pernambuco,PE,2602902,Cabo de Santo Agostinho,Nordeste
+26,Pernambuco,PE,2603009,Cabrobó,Nordeste
+26,Pernambuco,PE,2603108,Cachoeirinha,Nordeste
+26,Pernambuco,PE,2603207,Caetés,Nordeste
+26,Pernambuco,PE,2603306,Calçado,Nordeste
+26,Pernambuco,PE,2603405,Calumbi,Nordeste
+26,Pernambuco,PE,2603454,Camaragibe,Nordeste
+26,Pernambuco,PE,2603504,Camocim de São Félix,Nordeste
+26,Pernambuco,PE,2603603,Camutanga,Nordeste
+26,Pernambuco,PE,2603702,Canhotinho,Nordeste
+26,Pernambuco,PE,2603801,Capoeiras,Nordeste
+26,Pernambuco,PE,2603900,Carnaíba,Nordeste
+26,Pernambuco,PE,2603926,Carnaubeira da Penha,Nordeste
+26,Pernambuco,PE,2604007,Carpina,Nordeste
+26,Pernambuco,PE,2604106,Caruaru,Nordeste
+26,Pernambuco,PE,2604155,Casinhas,Nordeste
+26,Pernambuco,PE,2604205,Catende,Nordeste
+26,Pernambuco,PE,2604304,Cedro,Nordeste
+26,Pernambuco,PE,2604403,Chã de Alegria,Nordeste
+26,Pernambuco,PE,2604502,Chã Grande,Nordeste
+26,Pernambuco,PE,2604601,Condado,Nordeste
+26,Pernambuco,PE,2604700,Correntes,Nordeste
+26,Pernambuco,PE,2604809,Cortês,Nordeste
+26,Pernambuco,PE,2604908,Cumaru,Nordeste
+26,Pernambuco,PE,2605004,Cupira,Nordeste
+26,Pernambuco,PE,2605103,Custódia,Nordeste
+26,Pernambuco,PE,2605152,Dormentes,Nordeste
+26,Pernambuco,PE,2605202,Escada,Nordeste
+26,Pernambuco,PE,2605301,Exu,Nordeste
+26,Pernambuco,PE,2605400,Feira Nova,Nordeste
+26,Pernambuco,PE,2605459,Fernando de Noronha,Nordeste
+26,Pernambuco,PE,2605509,Ferreiros,Nordeste
+26,Pernambuco,PE,2605608,Flores,Nordeste
+26,Pernambuco,PE,2605707,Floresta,Nordeste
+26,Pernambuco,PE,2605806,Frei Miguelinho,Nordeste
+26,Pernambuco,PE,2605905,Gameleira,Nordeste
+26,Pernambuco,PE,2606002,Garanhuns,Nordeste
+26,Pernambuco,PE,2606101,Glória do Goitá,Nordeste
+26,Pernambuco,PE,2606200,Goiana,Nordeste
+26,Pernambuco,PE,2606309,Granito,Nordeste
+26,Pernambuco,PE,2606408,Gravatá,Nordeste
+26,Pernambuco,PE,2606507,Iati,Nordeste
+26,Pernambuco,PE,2606606,Ibimirim,Nordeste
+26,Pernambuco,PE,2606705,Ibirajuba,Nordeste
+26,Pernambuco,PE,2606804,Igarassu,Nordeste
+26,Pernambuco,PE,2606903,Iguaracy,Nordeste
+26,Pernambuco,PE,2607000,Inajá,Nordeste
+26,Pernambuco,PE,2607109,Ingazeira,Nordeste
+26,Pernambuco,PE,2607208,Ipojuca,Nordeste
+26,Pernambuco,PE,2607307,Ipubi,Nordeste
+26,Pernambuco,PE,2607406,Itacuruba,Nordeste
+26,Pernambuco,PE,2607505,Itaíba,Nordeste
+26,Pernambuco,PE,2607604,Ilha de Itamaracá,Nordeste
+26,Pernambuco,PE,2607653,Itambé,Nordeste
+26,Pernambuco,PE,2607703,Itapetim,Nordeste
+26,Pernambuco,PE,2607752,Itapissuma,Nordeste
+26,Pernambuco,PE,2607802,Itaquitinga,Nordeste
+26,Pernambuco,PE,2607901,Jaboatão dos Guararapes,Nordeste
+26,Pernambuco,PE,2607950,Jaqueira,Nordeste
+26,Pernambuco,PE,2608008,Jataúba,Nordeste
+26,Pernambuco,PE,2608057,Jatobá,Nordeste
+26,Pernambuco,PE,2608107,João Alfredo,Nordeste
+26,Pernambuco,PE,2608206,Joaquim Nabuco,Nordeste
+26,Pernambuco,PE,2608255,Jucati,Nordeste
+26,Pernambuco,PE,2608305,Jupi,Nordeste
+26,Pernambuco,PE,2608404,Jurema,Nordeste
+26,Pernambuco,PE,2608453,Lagoa do Carro,Nordeste
+26,Pernambuco,PE,2608503,Lagoa de Itaenga,Nordeste
+26,Pernambuco,PE,2608602,Lagoa do Ouro,Nordeste
+26,Pernambuco,PE,2608701,Lagoa dos Gatos,Nordeste
+26,Pernambuco,PE,2608750,Lagoa Grande,Nordeste
+26,Pernambuco,PE,2608800,Lajedo,Nordeste
+26,Pernambuco,PE,2608909,Limoeiro,Nordeste
+26,Pernambuco,PE,2609006,Macaparana,Nordeste
+26,Pernambuco,PE,2609105,Machados,Nordeste
+26,Pernambuco,PE,2609154,Manari,Nordeste
+26,Pernambuco,PE,2609204,Maraial,Nordeste
+26,Pernambuco,PE,2609303,Mirandiba,Nordeste
+26,Pernambuco,PE,2609402,Moreno,Nordeste
+26,Pernambuco,PE,2609501,Nazaré da Mata,Nordeste
+26,Pernambuco,PE,2609600,Olinda,Nordeste
+26,Pernambuco,PE,2609709,Orobó,Nordeste
+26,Pernambuco,PE,2609808,Orocó,Nordeste
+26,Pernambuco,PE,2609907,Ouricuri,Nordeste
+26,Pernambuco,PE,2610004,Palmares,Nordeste
+26,Pernambuco,PE,2610103,Palmeirina,Nordeste
+26,Pernambuco,PE,2610202,Panelas,Nordeste
+26,Pernambuco,PE,2610301,Paranatama,Nordeste
+26,Pernambuco,PE,2610400,Parnamirim,Nordeste
+26,Pernambuco,PE,2610509,Passira,Nordeste
+26,Pernambuco,PE,2610608,Paudalho,Nordeste
+26,Pernambuco,PE,2610707,Paulista,Nordeste
+26,Pernambuco,PE,2610806,Pedra,Nordeste
+26,Pernambuco,PE,2610905,Pesqueira,Nordeste
+26,Pernambuco,PE,2611002,Petrolândia,Nordeste
+26,Pernambuco,PE,2611101,Petrolina,Nordeste
+26,Pernambuco,PE,2611200,Poção,Nordeste
+26,Pernambuco,PE,2611309,Pombos,Nordeste
+26,Pernambuco,PE,2611408,Primavera,Nordeste
+26,Pernambuco,PE,2611507,Quipapá,Nordeste
+26,Pernambuco,PE,2611533,Quixaba,Nordeste
+26,Pernambuco,PE,2611606,Recife,Nordeste
+26,Pernambuco,PE,2611705,Riacho das Almas,Nordeste
+26,Pernambuco,PE,2611804,Ribeirão,Nordeste
+26,Pernambuco,PE,2611903,Rio Formoso,Nordeste
+26,Pernambuco,PE,2612000,Sairé,Nordeste
+26,Pernambuco,PE,2612109,Salgadinho,Nordeste
+26,Pernambuco,PE,2612208,Salgueiro,Nordeste
+26,Pernambuco,PE,2612307,Saloá,Nordeste
+26,Pernambuco,PE,2612406,Sanharó,Nordeste
+26,Pernambuco,PE,2612455,Santa Cruz,Nordeste
+26,Pernambuco,PE,2612471,Santa Cruz da Baixa Verde,Nordeste
+26,Pernambuco,PE,2612505,Santa Cruz do Capibaribe,Nordeste
+26,Pernambuco,PE,2612554,Santa Filomena,Nordeste
+26,Pernambuco,PE,2612604,Santa Maria da Boa Vista,Nordeste
+26,Pernambuco,PE,2612703,Santa Maria do Cambucá,Nordeste
+26,Pernambuco,PE,2612802,Santa Terezinha,Nordeste
+26,Pernambuco,PE,2612901,São Benedito do Sul,Nordeste
+26,Pernambuco,PE,2613008,São Bento do Una,Nordeste
+26,Pernambuco,PE,2613107,São Caitano,Nordeste
+26,Pernambuco,PE,2613206,São João,Nordeste
+26,Pernambuco,PE,2613305,São Joaquim do Monte,Nordeste
+26,Pernambuco,PE,2613404,São José da Coroa Grande,Nordeste
+26,Pernambuco,PE,2613503,São José do Belmonte,Nordeste
+26,Pernambuco,PE,2613602,São José do Egito,Nordeste
+26,Pernambuco,PE,2613701,São Lourenço da Mata,Nordeste
+26,Pernambuco,PE,2613800,São Vicente Férrer,Nordeste
+26,Pernambuco,PE,2613909,Serra Talhada,Nordeste
+26,Pernambuco,PE,2614006,Serrita,Nordeste
+26,Pernambuco,PE,2614105,Sertânia,Nordeste
+26,Pernambuco,PE,2614204,Sirinhaém,Nordeste
+26,Pernambuco,PE,2614303,Moreilândia,Nordeste
+26,Pernambuco,PE,2614402,Solidão,Nordeste
+26,Pernambuco,PE,2614501,Surubim,Nordeste
+26,Pernambuco,PE,2614600,Tabira,Nordeste
+26,Pernambuco,PE,2614709,Tacaimbó,Nordeste
+26,Pernambuco,PE,2614808,Tacaratu,Nordeste
+26,Pernambuco,PE,2614857,Tamandaré,Nordeste
+26,Pernambuco,PE,2615003,Taquaritinga do Norte,Nordeste
+26,Pernambuco,PE,2615102,Terezinha,Nordeste
+26,Pernambuco,PE,2615201,Terra Nova,Nordeste
+26,Pernambuco,PE,2615300,Timbaúba,Nordeste
+26,Pernambuco,PE,2615409,Toritama,Nordeste
+26,Pernambuco,PE,2615508,Tracunhaém,Nordeste
+26,Pernambuco,PE,2615607,Trindade,Nordeste
+26,Pernambuco,PE,2615706,Triunfo,Nordeste
+26,Pernambuco,PE,2615805,Tupanatinga,Nordeste
+26,Pernambuco,PE,2615904,Tuparetama,Nordeste
+26,Pernambuco,PE,2616001,Venturosa,Nordeste
+26,Pernambuco,PE,2616100,Verdejante,Nordeste
+26,Pernambuco,PE,2616183,Vertente do Lério,Nordeste
+26,Pernambuco,PE,2616209,Vertentes,Nordeste
+26,Pernambuco,PE,2616308,Vicência,Nordeste
+26,Pernambuco,PE,2616407,Vitória de Santo Antão,Nordeste
+26,Pernambuco,PE,2616506,Xexéu,Nordeste
+27,Alagoas,AL,2700102,Água Branca,Nordeste
+27,Alagoas,AL,2700201,Anadia,Nordeste
+27,Alagoas,AL,2700300,Arapiraca,Nordeste
+27,Alagoas,AL,2700409,Atalaia,Nordeste
+27,Alagoas,AL,2700508,Barra de Santo Antônio,Nordeste
+27,Alagoas,AL,2700607,Barra de São Miguel,Nordeste
+27,Alagoas,AL,2700706,Batalha,Nordeste
+27,Alagoas,AL,2700805,Belém,Nordeste
+27,Alagoas,AL,2700904,Belo Monte,Nordeste
+27,Alagoas,AL,2701001,Boca da Mata,Nordeste
+27,Alagoas,AL,2701100,Branquinha,Nordeste
+27,Alagoas,AL,2701209,Cacimbinhas,Nordeste
+27,Alagoas,AL,2701308,Cajueiro,Nordeste
+27,Alagoas,AL,2701357,Campestre,Nordeste
+27,Alagoas,AL,2701407,Campo Alegre,Nordeste
+27,Alagoas,AL,2701506,Campo Grande,Nordeste
+27,Alagoas,AL,2701605,Canapi,Nordeste
+27,Alagoas,AL,2701704,Capela,Nordeste
+27,Alagoas,AL,2701803,Carneiros,Nordeste
+27,Alagoas,AL,2701902,Chã Preta,Nordeste
+27,Alagoas,AL,2702009,Coité do Nóia,Nordeste
+27,Alagoas,AL,2702108,Colônia Leopoldina,Nordeste
+27,Alagoas,AL,2702207,Coqueiro Seco,Nordeste
+27,Alagoas,AL,2702306,Coruripe,Nordeste
+27,Alagoas,AL,2702355,Craíbas,Nordeste
+27,Alagoas,AL,2702405,Delmiro Gouveia,Nordeste
+27,Alagoas,AL,2702504,Dois Riachos,Nordeste
+27,Alagoas,AL,2702553,Estrela de Alagoas,Nordeste
+27,Alagoas,AL,2702603,Feira Grande,Nordeste
+27,Alagoas,AL,2702702,Feliz Deserto,Nordeste
+27,Alagoas,AL,2702801,Flexeiras,Nordeste
+27,Alagoas,AL,2702900,Girau do Ponciano,Nordeste
+27,Alagoas,AL,2703007,Ibateguara,Nordeste
+27,Alagoas,AL,2703106,Igaci,Nordeste
+27,Alagoas,AL,2703205,Igreja Nova,Nordeste
+27,Alagoas,AL,2703304,Inhapi,Nordeste
+27,Alagoas,AL,2703403,Jacaré dos Homens,Nordeste
+27,Alagoas,AL,2703502,Jacuípe,Nordeste
+27,Alagoas,AL,2703601,Japaratinga,Nordeste
+27,Alagoas,AL,2703700,Jaramataia,Nordeste
+27,Alagoas,AL,2703759,Jequiá da Praia,Nordeste
+27,Alagoas,AL,2703809,Joaquim Gomes,Nordeste
+27,Alagoas,AL,2703908,Jundiá,Nordeste
+27,Alagoas,AL,2704005,Junqueiro,Nordeste
+27,Alagoas,AL,2704104,Lagoa da Canoa,Nordeste
+27,Alagoas,AL,2704203,Limoeiro de Anadia,Nordeste
+27,Alagoas,AL,2704302,Maceió,Nordeste
+27,Alagoas,AL,2704401,Major Isidoro,Nordeste
+27,Alagoas,AL,2704500,Maragogi,Nordeste
+27,Alagoas,AL,2704609,Maravilha,Nordeste
+27,Alagoas,AL,2704708,Marechal Deodoro,Nordeste
+27,Alagoas,AL,2704807,Maribondo,Nordeste
+27,Alagoas,AL,2704906,Mar Vermelho,Nordeste
+27,Alagoas,AL,2705002,Mata Grande,Nordeste
+27,Alagoas,AL,2705101,Matriz de Camaragibe,Nordeste
+27,Alagoas,AL,2705200,Messias,Nordeste
+27,Alagoas,AL,2705309,Minador do Negrão,Nordeste
+27,Alagoas,AL,2705408,Monteirópolis,Nordeste
+27,Alagoas,AL,2705507,Murici,Nordeste
+27,Alagoas,AL,2705606,Novo Lino,Nordeste
+27,Alagoas,AL,2705705,Olho d'Água das Flores,Nordeste
+27,Alagoas,AL,2705804,Olho d'Água do Casado,Nordeste
+27,Alagoas,AL,2705903,Olho d'Água Grande,Nordeste
+27,Alagoas,AL,2706000,Olivença,Nordeste
+27,Alagoas,AL,2706109,Ouro Branco,Nordeste
+27,Alagoas,AL,2706208,Palestina,Nordeste
+27,Alagoas,AL,2706307,Palmeira dos Índios,Nordeste
+27,Alagoas,AL,2706406,Pão de Açúcar,Nordeste
+27,Alagoas,AL,2706422,Pariconha,Nordeste
+27,Alagoas,AL,2706448,Paripueira,Nordeste
+27,Alagoas,AL,2706505,Passo de Camaragibe,Nordeste
+27,Alagoas,AL,2706604,Paulo Jacinto,Nordeste
+27,Alagoas,AL,2706703,Penedo,Nordeste
+27,Alagoas,AL,2706802,Piaçabuçu,Nordeste
+27,Alagoas,AL,2706901,Pilar,Nordeste
+27,Alagoas,AL,2707008,Pindoba,Nordeste
+27,Alagoas,AL,2707107,Piranhas,Nordeste
+27,Alagoas,AL,2707206,Poço das Trincheiras,Nordeste
+27,Alagoas,AL,2707305,Porto Calvo,Nordeste
+27,Alagoas,AL,2707404,Porto de Pedras,Nordeste
+27,Alagoas,AL,2707503,Porto Real do Colégio,Nordeste
+27,Alagoas,AL,2707602,Quebrangulo,Nordeste
+27,Alagoas,AL,2707701,Rio Largo,Nordeste
+27,Alagoas,AL,2707800,Roteiro,Nordeste
+27,Alagoas,AL,2707909,Santa Luzia do Norte,Nordeste
+27,Alagoas,AL,2708006,Santana do Ipanema,Nordeste
+27,Alagoas,AL,2708105,Santana do Mundaú,Nordeste
+27,Alagoas,AL,2708204,São Brás,Nordeste
+27,Alagoas,AL,2708303,São José da Laje,Nordeste
+27,Alagoas,AL,2708402,São José da Tapera,Nordeste
+27,Alagoas,AL,2708501,São Luís do Quitunde,Nordeste
+27,Alagoas,AL,2708600,São Miguel dos Campos,Nordeste
+27,Alagoas,AL,2708709,São Miguel dos Milagres,Nordeste
+27,Alagoas,AL,2708808,São Sebastião,Nordeste
+27,Alagoas,AL,2708907,Satuba,Nordeste
+27,Alagoas,AL,2708956,Senador Rui Palmeira,Nordeste
+27,Alagoas,AL,2709004,Tanque d'Arca,Nordeste
+27,Alagoas,AL,2709103,Taquarana,Nordeste
+27,Alagoas,AL,2709152,Teotônio Vilela,Nordeste
+27,Alagoas,AL,2709202,Traipu,Nordeste
+27,Alagoas,AL,2709301,União dos Palmares,Nordeste
+27,Alagoas,AL,2709400,Viçosa,Nordeste
+28,Sergipe,SE,2800100,Amparo do São Francisco,Nordeste
+28,Sergipe,SE,2800209,Aquidabã,Nordeste
+28,Sergipe,SE,2800308,Aracaju,Nordeste
+28,Sergipe,SE,2800407,Arauá,Nordeste
+28,Sergipe,SE,2800506,Areia Branca,Nordeste
+28,Sergipe,SE,2800605,Barra dos Coqueiros,Nordeste
+28,Sergipe,SE,2800670,Boquim,Nordeste
+28,Sergipe,SE,2800704,Brejo Grande,Nordeste
+28,Sergipe,SE,2801009,Campo do Brito,Nordeste
+28,Sergipe,SE,2801108,Canhoba,Nordeste
+28,Sergipe,SE,2801207,Canindé de São Francisco,Nordeste
+28,Sergipe,SE,2801306,Capela,Nordeste
+28,Sergipe,SE,2801405,Carira,Nordeste
+28,Sergipe,SE,2801504,Carmópolis,Nordeste
+28,Sergipe,SE,2801603,Cedro de São João,Nordeste
+28,Sergipe,SE,2801702,Cristinápolis,Nordeste
+28,Sergipe,SE,2801900,Cumbe,Nordeste
+28,Sergipe,SE,2802007,Divina Pastora,Nordeste
+28,Sergipe,SE,2802106,Estância,Nordeste
+28,Sergipe,SE,2802205,Feira Nova,Nordeste
+28,Sergipe,SE,2802304,Frei Paulo,Nordeste
+28,Sergipe,SE,2802403,Gararu,Nordeste
+28,Sergipe,SE,2802502,General Maynard,Nordeste
+28,Sergipe,SE,2802601,Gracho Cardoso,Nordeste
+28,Sergipe,SE,2802700,Ilha das Flores,Nordeste
+28,Sergipe,SE,2802809,Indiaroba,Nordeste
+28,Sergipe,SE,2802908,Itabaiana,Nordeste
+28,Sergipe,SE,2803005,Itabaianinha,Nordeste
+28,Sergipe,SE,2803104,Itabi,Nordeste
+28,Sergipe,SE,2803203,Itaporanga d'Ajuda,Nordeste
+28,Sergipe,SE,2803302,Japaratuba,Nordeste
+28,Sergipe,SE,2803401,Japoatã,Nordeste
+28,Sergipe,SE,2803500,Lagarto,Nordeste
+28,Sergipe,SE,2803609,Laranjeiras,Nordeste
+28,Sergipe,SE,2803708,Macambira,Nordeste
+28,Sergipe,SE,2803807,Malhada dos Bois,Nordeste
+28,Sergipe,SE,2803906,Malhador,Nordeste
+28,Sergipe,SE,2804003,Maruim,Nordeste
+28,Sergipe,SE,2804102,Moita Bonita,Nordeste
+28,Sergipe,SE,2804201,Monte Alegre de Sergipe,Nordeste
+28,Sergipe,SE,2804300,Muribeca,Nordeste
+28,Sergipe,SE,2804409,Neópolis,Nordeste
+28,Sergipe,SE,2804458,Nossa Senhora Aparecida,Nordeste
+28,Sergipe,SE,2804508,Nossa Senhora da Glória,Nordeste
+28,Sergipe,SE,2804607,Nossa Senhora das Dores,Nordeste
+28,Sergipe,SE,2804706,Nossa Senhora de Lourdes,Nordeste
+28,Sergipe,SE,2804805,Nossa Senhora do Socorro,Nordeste
+28,Sergipe,SE,2804904,Pacatuba,Nordeste
+28,Sergipe,SE,2805000,Pedra Mole,Nordeste
+28,Sergipe,SE,2805109,Pedrinhas,Nordeste
+28,Sergipe,SE,2805208,Pinhão,Nordeste
+28,Sergipe,SE,2805307,Pirambu,Nordeste
+28,Sergipe,SE,2805406,Poço Redondo,Nordeste
+28,Sergipe,SE,2805505,Poço Verde,Nordeste
+28,Sergipe,SE,2805604,Porto da Folha,Nordeste
+28,Sergipe,SE,2805703,Propriá,Nordeste
+28,Sergipe,SE,2805802,Riachão do Dantas,Nordeste
+28,Sergipe,SE,2805901,Riachuelo,Nordeste
+28,Sergipe,SE,2806008,Ribeirópolis,Nordeste
+28,Sergipe,SE,2806107,Rosário do Catete,Nordeste
+28,Sergipe,SE,2806206,Salgado,Nordeste
+28,Sergipe,SE,2806305,Santa Luzia do Itanhy,Nordeste
+28,Sergipe,SE,2806404,Santana do São Francisco,Nordeste
+28,Sergipe,SE,2806503,Santa Rosa de Lima,Nordeste
+28,Sergipe,SE,2806602,Santo Amaro das Brotas,Nordeste
+28,Sergipe,SE,2806701,São Cristóvão,Nordeste
+28,Sergipe,SE,2806800,São Domingos,Nordeste
+28,Sergipe,SE,2806909,São Francisco,Nordeste
+28,Sergipe,SE,2807006,São Miguel do Aleixo,Nordeste
+28,Sergipe,SE,2807105,Simão Dias,Nordeste
+28,Sergipe,SE,2807204,Siriri,Nordeste
+28,Sergipe,SE,2807303,Telha,Nordeste
+28,Sergipe,SE,2807402,Tobias Barreto,Nordeste
+28,Sergipe,SE,2807501,Tomar do Geru,Nordeste
+28,Sergipe,SE,2807600,Umbaúba,Nordeste
+29,Bahia,BA,2900108,Abaíra,Nordeste
+29,Bahia,BA,2900207,Abaré,Nordeste
+29,Bahia,BA,2900306,Acajutiba,Nordeste
+29,Bahia,BA,2900355,Adustina,Nordeste
+29,Bahia,BA,2900405,Água Fria,Nordeste
+29,Bahia,BA,2900504,Érico Cardoso,Nordeste
+29,Bahia,BA,2900603,Aiquara,Nordeste
+29,Bahia,BA,2900702,Alagoinhas,Nordeste
+29,Bahia,BA,2900801,Alcobaça,Nordeste
+29,Bahia,BA,2900900,Almadina,Nordeste
+29,Bahia,BA,2901007,Amargosa,Nordeste
+29,Bahia,BA,2901106,Amélia Rodrigues,Nordeste
+29,Bahia,BA,2901155,América Dourada,Nordeste
+29,Bahia,BA,2901205,Anagé,Nordeste
+29,Bahia,BA,2901304,Andaraí,Nordeste
+29,Bahia,BA,2901353,Andorinha,Nordeste
+29,Bahia,BA,2901403,Angical,Nordeste
+29,Bahia,BA,2901502,Anguera,Nordeste
+29,Bahia,BA,2901601,Antas,Nordeste
+29,Bahia,BA,2901700,Antônio Cardoso,Nordeste
+29,Bahia,BA,2901809,Antônio Gonçalves,Nordeste
+29,Bahia,BA,2901908,Aporá,Nordeste
+29,Bahia,BA,2901957,Apuarema,Nordeste
+29,Bahia,BA,2902005,Aracatu,Nordeste
+29,Bahia,BA,2902054,Araçás,Nordeste
+29,Bahia,BA,2902104,Araci,Nordeste
+29,Bahia,BA,2902203,Aramari,Nordeste
+29,Bahia,BA,2902252,Arataca,Nordeste
+29,Bahia,BA,2902302,Aratuípe,Nordeste
+29,Bahia,BA,2902401,Aurelino Leal,Nordeste
+29,Bahia,BA,2902500,Baianópolis,Nordeste
+29,Bahia,BA,2902609,Baixa Grande,Nordeste
+29,Bahia,BA,2902658,Banzaê,Nordeste
+29,Bahia,BA,2902708,Barra,Nordeste
+29,Bahia,BA,2902807,Barra da Estiva,Nordeste
+29,Bahia,BA,2902906,Barra do Choça,Nordeste
+29,Bahia,BA,2903003,Barra do Mendes,Nordeste
+29,Bahia,BA,2903102,Barra do Rocha,Nordeste
+29,Bahia,BA,2903201,Barreiras,Nordeste
+29,Bahia,BA,2903235,Barro Alto,Nordeste
+29,Bahia,BA,2903276,Barrocas,Nordeste
+29,Bahia,BA,2903300,Barro Preto,Nordeste
+29,Bahia,BA,2903409,Belmonte,Nordeste
+29,Bahia,BA,2903508,Belo Campo,Nordeste
+29,Bahia,BA,2903607,Biritinga,Nordeste
+29,Bahia,BA,2903706,Boa Nova,Nordeste
+29,Bahia,BA,2903805,Boa Vista do Tupim,Nordeste
+29,Bahia,BA,2903904,Bom Jesus da Lapa,Nordeste
+29,Bahia,BA,2903953,Bom Jesus da Serra,Nordeste
+29,Bahia,BA,2904001,Boninal,Nordeste
+29,Bahia,BA,2904050,Bonito,Nordeste
+29,Bahia,BA,2904100,Boquira,Nordeste
+29,Bahia,BA,2904209,Botuporã,Nordeste
+29,Bahia,BA,2904308,Brejões,Nordeste
+29,Bahia,BA,2904407,Brejolândia,Nordeste
+29,Bahia,BA,2904506,Brotas de Macaúbas,Nordeste
+29,Bahia,BA,2904605,Brumado,Nordeste
+29,Bahia,BA,2904704,Buerarema,Nordeste
+29,Bahia,BA,2904753,Buritirama,Nordeste
+29,Bahia,BA,2904803,Caatiba,Nordeste
+29,Bahia,BA,2904852,Cabaceiras do Paraguaçu,Nordeste
+29,Bahia,BA,2904902,Cachoeira,Nordeste
+29,Bahia,BA,2905008,Caculé,Nordeste
+29,Bahia,BA,2905107,Caém,Nordeste
+29,Bahia,BA,2905156,Caetanos,Nordeste
+29,Bahia,BA,2905206,Caetité,Nordeste
+29,Bahia,BA,2905305,Cafarnaum,Nordeste
+29,Bahia,BA,2905404,Cairu,Nordeste
+29,Bahia,BA,2905503,Caldeirão Grande,Nordeste
+29,Bahia,BA,2905602,Camacan,Nordeste
+29,Bahia,BA,2905701,Camaçari,Nordeste
+29,Bahia,BA,2905800,Camamu,Nordeste
+29,Bahia,BA,2905909,Campo Alegre de Lourdes,Nordeste
+29,Bahia,BA,2906006,Campo Formoso,Nordeste
+29,Bahia,BA,2906105,Canápolis,Nordeste
+29,Bahia,BA,2906204,Canarana,Nordeste
+29,Bahia,BA,2906303,Canavieiras,Nordeste
+29,Bahia,BA,2906402,Candeal,Nordeste
+29,Bahia,BA,2906501,Candeias,Nordeste
+29,Bahia,BA,2906600,Candiba,Nordeste
+29,Bahia,BA,2906709,Cândido Sales,Nordeste
+29,Bahia,BA,2906808,Cansanção,Nordeste
+29,Bahia,BA,2906824,Canudos,Nordeste
+29,Bahia,BA,2906857,Capela do Alto Alegre,Nordeste
+29,Bahia,BA,2906873,Capim Grosso,Nordeste
+29,Bahia,BA,2906899,Caraíbas,Nordeste
+29,Bahia,BA,2906907,Caravelas,Nordeste
+29,Bahia,BA,2907004,Cardeal da Silva,Nordeste
+29,Bahia,BA,2907103,Carinhanha,Nordeste
+29,Bahia,BA,2907202,Casa Nova,Nordeste
+29,Bahia,BA,2907301,Castro Alves,Nordeste
+29,Bahia,BA,2907400,Catolândia,Nordeste
+29,Bahia,BA,2907509,Catu,Nordeste
+29,Bahia,BA,2907558,Caturama,Nordeste
+29,Bahia,BA,2907608,Central,Nordeste
+29,Bahia,BA,2907707,Chorrochó,Nordeste
+29,Bahia,BA,2907806,Cícero Dantas,Nordeste
+29,Bahia,BA,2907905,Cipó,Nordeste
+29,Bahia,BA,2908002,Coaraci,Nordeste
+29,Bahia,BA,2908101,Cocos,Nordeste
+29,Bahia,BA,2908200,Conceição da Feira,Nordeste
+29,Bahia,BA,2908309,Conceição do Almeida,Nordeste
+29,Bahia,BA,2908408,Conceição do Coité,Nordeste
+29,Bahia,BA,2908507,Conceição do Jacuípe,Nordeste
+29,Bahia,BA,2908606,Conde,Nordeste
+29,Bahia,BA,2908705,Condeúba,Nordeste
+29,Bahia,BA,2908804,Contendas do Sincorá,Nordeste
+29,Bahia,BA,2908903,Coração de Maria,Nordeste
+29,Bahia,BA,2909000,Cordeiros,Nordeste
+29,Bahia,BA,2909109,Coribe,Nordeste
+29,Bahia,BA,2909208,Coronel João Sá,Nordeste
+29,Bahia,BA,2909307,Correntina,Nordeste
+29,Bahia,BA,2909406,Cotegipe,Nordeste
+29,Bahia,BA,2909505,Cravolândia,Nordeste
+29,Bahia,BA,2909604,Crisópolis,Nordeste
+29,Bahia,BA,2909703,Cristópolis,Nordeste
+29,Bahia,BA,2909802,Cruz das Almas,Nordeste
+29,Bahia,BA,2909901,Curaçá,Nordeste
+29,Bahia,BA,2910008,Dário Meira,Nordeste
+29,Bahia,BA,2910057,Dias d'Ávila,Nordeste
+29,Bahia,BA,2910107,Dom Basílio,Nordeste
+29,Bahia,BA,2910206,Dom Macedo Costa,Nordeste
+29,Bahia,BA,2910305,Elísio Medrado,Nordeste
+29,Bahia,BA,2910404,Encruzilhada,Nordeste
+29,Bahia,BA,2910503,Entre Rios,Nordeste
+29,Bahia,BA,2910602,Esplanada,Nordeste
+29,Bahia,BA,2910701,Euclides da Cunha,Nordeste
+29,Bahia,BA,2910727,Eunápolis,Nordeste
+29,Bahia,BA,2910750,Fátima,Nordeste
+29,Bahia,BA,2910776,Feira da Mata,Nordeste
+29,Bahia,BA,2910800,Feira de Santana,Nordeste
+29,Bahia,BA,2910859,Filadélfia,Nordeste
+29,Bahia,BA,2910909,Firmino Alves,Nordeste
+29,Bahia,BA,2911006,Floresta Azul,Nordeste
+29,Bahia,BA,2911105,Formosa do Rio Preto,Nordeste
+29,Bahia,BA,2911204,Gandu,Nordeste
+29,Bahia,BA,2911253,Gavião,Nordeste
+29,Bahia,BA,2911303,Gentio do Ouro,Nordeste
+29,Bahia,BA,2911402,Glória,Nordeste
+29,Bahia,BA,2911501,Gongogi,Nordeste
+29,Bahia,BA,2911600,Governador Mangabeira,Nordeste
+29,Bahia,BA,2911659,Guajeru,Nordeste
+29,Bahia,BA,2911709,Guanambi,Nordeste
+29,Bahia,BA,2911808,Guaratinga,Nordeste
+29,Bahia,BA,2911857,Heliópolis,Nordeste
+29,Bahia,BA,2911907,Iaçu,Nordeste
+29,Bahia,BA,2912004,Ibiassucê,Nordeste
+29,Bahia,BA,2912103,Ibicaraí,Nordeste
+29,Bahia,BA,2912202,Ibicoara,Nordeste
+29,Bahia,BA,2912301,Ibicuí,Nordeste
+29,Bahia,BA,2912400,Ibipeba,Nordeste
+29,Bahia,BA,2912509,Ibipitanga,Nordeste
+29,Bahia,BA,2912608,Ibiquera,Nordeste
+29,Bahia,BA,2912707,Ibirapitanga,Nordeste
+29,Bahia,BA,2912806,Ibirapuã,Nordeste
+29,Bahia,BA,2912905,Ibirataia,Nordeste
+29,Bahia,BA,2913002,Ibitiara,Nordeste
+29,Bahia,BA,2913101,Ibititá,Nordeste
+29,Bahia,BA,2913200,Ibotirama,Nordeste
+29,Bahia,BA,2913309,Ichu,Nordeste
+29,Bahia,BA,2913408,Igaporã,Nordeste
+29,Bahia,BA,2913457,Igrapiúna,Nordeste
+29,Bahia,BA,2913507,Iguaí,Nordeste
+29,Bahia,BA,2913606,Ilhéus,Nordeste
+29,Bahia,BA,2913705,Inhambupe,Nordeste
+29,Bahia,BA,2913804,Ipecaetá,Nordeste
+29,Bahia,BA,2913903,Ipiaú,Nordeste
+29,Bahia,BA,2914000,Ipirá,Nordeste
+29,Bahia,BA,2914109,Ipupiara,Nordeste
+29,Bahia,BA,2914208,Irajuba,Nordeste
+29,Bahia,BA,2914307,Iramaia,Nordeste
+29,Bahia,BA,2914406,Iraquara,Nordeste
+29,Bahia,BA,2914505,Irará,Nordeste
+29,Bahia,BA,2914604,Irecê,Nordeste
+29,Bahia,BA,2914653,Itabela,Nordeste
+29,Bahia,BA,2914703,Itaberaba,Nordeste
+29,Bahia,BA,2914802,Itabuna,Nordeste
+29,Bahia,BA,2914901,Itacaré,Nordeste
+29,Bahia,BA,2915007,Itaeté,Nordeste
+29,Bahia,BA,2915106,Itagi,Nordeste
+29,Bahia,BA,2915205,Itagibá,Nordeste
+29,Bahia,BA,2915304,Itagimirim,Nordeste
+29,Bahia,BA,2915353,Itaguaçu da Bahia,Nordeste
+29,Bahia,BA,2915403,Itaju do Colônia,Nordeste
+29,Bahia,BA,2915502,Itajuípe,Nordeste
+29,Bahia,BA,2915601,Itamaraju,Nordeste
+29,Bahia,BA,2915700,Itamari,Nordeste
+29,Bahia,BA,2915809,Itambé,Nordeste
+29,Bahia,BA,2915908,Itanagra,Nordeste
+29,Bahia,BA,2916005,Itanhém,Nordeste
+29,Bahia,BA,2916104,Itaparica,Nordeste
+29,Bahia,BA,2916203,Itapé,Nordeste
+29,Bahia,BA,2916302,Itapebi,Nordeste
+29,Bahia,BA,2916401,Itapetinga,Nordeste
+29,Bahia,BA,2916500,Itapicuru,Nordeste
+29,Bahia,BA,2916609,Itapitanga,Nordeste
+29,Bahia,BA,2916708,Itaquara,Nordeste
+29,Bahia,BA,2916807,Itarantim,Nordeste
+29,Bahia,BA,2916856,Itatim,Nordeste
+29,Bahia,BA,2916906,Itiruçu,Nordeste
+29,Bahia,BA,2917003,Itiúba,Nordeste
+29,Bahia,BA,2917102,Itororó,Nordeste
+29,Bahia,BA,2917201,Ituaçu,Nordeste
+29,Bahia,BA,2917300,Ituberá,Nordeste
+29,Bahia,BA,2917334,Iuiu,Nordeste
+29,Bahia,BA,2917359,Jaborandi,Nordeste
+29,Bahia,BA,2917409,Jacaraci,Nordeste
+29,Bahia,BA,2917508,Jacobina,Nordeste
+29,Bahia,BA,2917607,Jaguaquara,Nordeste
+29,Bahia,BA,2917706,Jaguarari,Nordeste
+29,Bahia,BA,2917805,Jaguaripe,Nordeste
+29,Bahia,BA,2917904,Jandaíra,Nordeste
+29,Bahia,BA,2918001,Jequié,Nordeste
+29,Bahia,BA,2918100,Jeremoabo,Nordeste
+29,Bahia,BA,2918209,Jiquiriçá,Nordeste
+29,Bahia,BA,2918308,Jitaúna,Nordeste
+29,Bahia,BA,2918357,João Dourado,Nordeste
+29,Bahia,BA,2918407,Juazeiro,Nordeste
+29,Bahia,BA,2918456,Jucuruçu,Nordeste
+29,Bahia,BA,2918506,Jussara,Nordeste
+29,Bahia,BA,2918555,Jussari,Nordeste
+29,Bahia,BA,2918605,Jussiape,Nordeste
+29,Bahia,BA,2918704,Lafaiete Coutinho,Nordeste
+29,Bahia,BA,2918753,Lagoa Real,Nordeste
+29,Bahia,BA,2918803,Laje,Nordeste
+29,Bahia,BA,2918902,Lajedão,Nordeste
+29,Bahia,BA,2919009,Lajedinho,Nordeste
+29,Bahia,BA,2919058,Lajedo do Tabocal,Nordeste
+29,Bahia,BA,2919108,Lamarão,Nordeste
+29,Bahia,BA,2919157,Lapão,Nordeste
+29,Bahia,BA,2919207,Lauro de Freitas,Nordeste
+29,Bahia,BA,2919306,Lençóis,Nordeste
+29,Bahia,BA,2919405,Licínio de Almeida,Nordeste
+29,Bahia,BA,2919504,Livramento de Nossa Senhora,Nordeste
+29,Bahia,BA,2919553,Luís Eduardo Magalhães,Nordeste
+29,Bahia,BA,2919603,Macajuba,Nordeste
+29,Bahia,BA,2919702,Macarani,Nordeste
+29,Bahia,BA,2919801,Macaúbas,Nordeste
+29,Bahia,BA,2919900,Macururé,Nordeste
+29,Bahia,BA,2919926,Madre de Deus,Nordeste
+29,Bahia,BA,2919959,Maetinga,Nordeste
+29,Bahia,BA,2920007,Maiquinique,Nordeste
+29,Bahia,BA,2920106,Mairi,Nordeste
+29,Bahia,BA,2920205,Malhada,Nordeste
+29,Bahia,BA,2920304,Malhada de Pedras,Nordeste
+29,Bahia,BA,2920403,Manoel Vitorino,Nordeste
+29,Bahia,BA,2920452,Mansidão,Nordeste
+29,Bahia,BA,2920502,Maracás,Nordeste
+29,Bahia,BA,2920601,Maragogipe,Nordeste
+29,Bahia,BA,2920700,Maraú,Nordeste
+29,Bahia,BA,2920809,Marcionílio Souza,Nordeste
+29,Bahia,BA,2920908,Mascote,Nordeste
+29,Bahia,BA,2921005,Mata de São João,Nordeste
+29,Bahia,BA,2921054,Matina,Nordeste
+29,Bahia,BA,2921104,Medeiros Neto,Nordeste
+29,Bahia,BA,2921203,Miguel Calmon,Nordeste
+29,Bahia,BA,2921302,Milagres,Nordeste
+29,Bahia,BA,2921401,Mirangaba,Nordeste
+29,Bahia,BA,2921450,Mirante,Nordeste
+29,Bahia,BA,2921500,Monte Santo,Nordeste
+29,Bahia,BA,2921609,Morpará,Nordeste
+29,Bahia,BA,2921708,Morro do Chapéu,Nordeste
+29,Bahia,BA,2921807,Mortugaba,Nordeste
+29,Bahia,BA,2921906,Mucugê,Nordeste
+29,Bahia,BA,2922003,Mucuri,Nordeste
+29,Bahia,BA,2922052,Mulungu do Morro,Nordeste
+29,Bahia,BA,2922102,Mundo Novo,Nordeste
+29,Bahia,BA,2922201,Muniz Ferreira,Nordeste
+29,Bahia,BA,2922250,Muquém do São Francisco,Nordeste
+29,Bahia,BA,2922300,Muritiba,Nordeste
+29,Bahia,BA,2922409,Mutuípe,Nordeste
+29,Bahia,BA,2922508,Nazaré,Nordeste
+29,Bahia,BA,2922607,Nilo Peçanha,Nordeste
+29,Bahia,BA,2922656,Nordestina,Nordeste
+29,Bahia,BA,2922706,Nova Canaã,Nordeste
+29,Bahia,BA,2922730,Nova Fátima,Nordeste
+29,Bahia,BA,2922755,Nova Ibiá,Nordeste
+29,Bahia,BA,2922805,Nova Itarana,Nordeste
+29,Bahia,BA,2922854,Nova Redenção,Nordeste
+29,Bahia,BA,2922904,Nova Soure,Nordeste
+29,Bahia,BA,2923001,Nova Viçosa,Nordeste
+29,Bahia,BA,2923035,Novo Horizonte,Nordeste
+29,Bahia,BA,2923050,Novo Triunfo,Nordeste
+29,Bahia,BA,2923100,Olindina,Nordeste
+29,Bahia,BA,2923209,Oliveira dos Brejinhos,Nordeste
+29,Bahia,BA,2923308,Ouriçangas,Nordeste
+29,Bahia,BA,2923357,Ourolândia,Nordeste
+29,Bahia,BA,2923407,Palmas de Monte Alto,Nordeste
+29,Bahia,BA,2923506,Palmeiras,Nordeste
+29,Bahia,BA,2923605,Paramirim,Nordeste
+29,Bahia,BA,2923704,Paratinga,Nordeste
+29,Bahia,BA,2923803,Paripiranga,Nordeste
+29,Bahia,BA,2923902,Pau Brasil,Nordeste
+29,Bahia,BA,2924009,Paulo Afonso,Nordeste
+29,Bahia,BA,2924058,Pé de Serra,Nordeste
+29,Bahia,BA,2924108,Pedrão,Nordeste
+29,Bahia,BA,2924207,Pedro Alexandre,Nordeste
+29,Bahia,BA,2924306,Piatã,Nordeste
+29,Bahia,BA,2924405,Pilão Arcado,Nordeste
+29,Bahia,BA,2924504,Pindaí,Nordeste
+29,Bahia,BA,2924603,Pindobaçu,Nordeste
+29,Bahia,BA,2924652,Pintadas,Nordeste
+29,Bahia,BA,2924678,Piraí do Norte,Nordeste
+29,Bahia,BA,2924702,Piripá,Nordeste
+29,Bahia,BA,2924801,Piritiba,Nordeste
+29,Bahia,BA,2924900,Planaltino,Nordeste
+29,Bahia,BA,2925006,Planalto,Nordeste
+29,Bahia,BA,2925105,Poções,Nordeste
+29,Bahia,BA,2925204,Pojuca,Nordeste
+29,Bahia,BA,2925253,Ponto Novo,Nordeste
+29,Bahia,BA,2925303,Porto Seguro,Nordeste
+29,Bahia,BA,2925402,Potiraguá,Nordeste
+29,Bahia,BA,2925501,Prado,Nordeste
+29,Bahia,BA,2925600,Presidente Dutra,Nordeste
+29,Bahia,BA,2925709,Presidente Jânio Quadros,Nordeste
+29,Bahia,BA,2925758,Presidente Tancredo Neves,Nordeste
+29,Bahia,BA,2925808,Queimadas,Nordeste
+29,Bahia,BA,2925907,Quijingue,Nordeste
+29,Bahia,BA,2925931,Quixabeira,Nordeste
+29,Bahia,BA,2925956,Rafael Jambeiro,Nordeste
+29,Bahia,BA,2926004,Remanso,Nordeste
+29,Bahia,BA,2926103,Retirolândia,Nordeste
+29,Bahia,BA,2926202,Riachão das Neves,Nordeste
+29,Bahia,BA,2926301,Riachão do Jacuípe,Nordeste
+29,Bahia,BA,2926400,Riacho de Santana,Nordeste
+29,Bahia,BA,2926509,Ribeira do Amparo,Nordeste
+29,Bahia,BA,2926608,Ribeira do Pombal,Nordeste
+29,Bahia,BA,2926657,Ribeirão do Largo,Nordeste
+29,Bahia,BA,2926707,Rio de Contas,Nordeste
+29,Bahia,BA,2926806,Rio do Antônio,Nordeste
+29,Bahia,BA,2926905,Rio do Pires,Nordeste
+29,Bahia,BA,2927002,Rio Real,Nordeste
+29,Bahia,BA,2927101,Rodelas,Nordeste
+29,Bahia,BA,2927200,Ruy Barbosa,Nordeste
+29,Bahia,BA,2927309,Salinas da Margarida,Nordeste
+29,Bahia,BA,2927408,Salvador,Nordeste
+29,Bahia,BA,2927507,Santa Bárbara,Nordeste
+29,Bahia,BA,2927606,Santa Brígida,Nordeste
+29,Bahia,BA,2927705,Santa Cruz Cabrália,Nordeste
+29,Bahia,BA,2927804,Santa Cruz da Vitória,Nordeste
+29,Bahia,BA,2927903,Santa Inês,Nordeste
+29,Bahia,BA,2928000,Santaluz,Nordeste
+29,Bahia,BA,2928059,Santa Luzia,Nordeste
+29,Bahia,BA,2928109,Santa Maria da Vitória,Nordeste
+29,Bahia,BA,2928208,Santana,Nordeste
+29,Bahia,BA,2928307,Santanópolis,Nordeste
+29,Bahia,BA,2928406,Santa Rita de Cássia,Nordeste
+29,Bahia,BA,2928505,Santa Terezinha,Nordeste
+29,Bahia,BA,2928604,Santo Amaro,Nordeste
+29,Bahia,BA,2928703,Santo Antônio de Jesus,Nordeste
+29,Bahia,BA,2928802,Santo Estêvão,Nordeste
+29,Bahia,BA,2928901,São Desidério,Nordeste
+29,Bahia,BA,2928950,São Domingos,Nordeste
+29,Bahia,BA,2929008,São Félix,Nordeste
+29,Bahia,BA,2929057,São Félix do Coribe,Nordeste
+29,Bahia,BA,2929107,São Felipe,Nordeste
+29,Bahia,BA,2929206,São Francisco do Conde,Nordeste
+29,Bahia,BA,2929255,São Gabriel,Nordeste
+29,Bahia,BA,2929305,São Gonçalo dos Campos,Nordeste
+29,Bahia,BA,2929354,São José da Vitória,Nordeste
+29,Bahia,BA,2929370,São José do Jacuípe,Nordeste
+29,Bahia,BA,2929404,São Miguel das Matas,Nordeste
+29,Bahia,BA,2929503,São Sebastião do Passé,Nordeste
+29,Bahia,BA,2929602,Sapeaçu,Nordeste
+29,Bahia,BA,2929701,Sátiro Dias,Nordeste
+29,Bahia,BA,2929750,Saubara,Nordeste
+29,Bahia,BA,2929800,Saúde,Nordeste
+29,Bahia,BA,2929909,Seabra,Nordeste
+29,Bahia,BA,2930006,Sebastião Laranjeiras,Nordeste
+29,Bahia,BA,2930105,Senhor do Bonfim,Nordeste
+29,Bahia,BA,2930154,Serra do Ramalho,Nordeste
+29,Bahia,BA,2930204,Sento Sé,Nordeste
+29,Bahia,BA,2930303,Serra Dourada,Nordeste
+29,Bahia,BA,2930402,Serra Preta,Nordeste
+29,Bahia,BA,2930501,Serrinha,Nordeste
+29,Bahia,BA,2930600,Serrolândia,Nordeste
+29,Bahia,BA,2930709,Simões Filho,Nordeste
+29,Bahia,BA,2930758,Sítio do Mato,Nordeste
+29,Bahia,BA,2930766,Sítio do Quinto,Nordeste
+29,Bahia,BA,2930774,Sobradinho,Nordeste
+29,Bahia,BA,2930808,Souto Soares,Nordeste
+29,Bahia,BA,2930907,Tabocas do Brejo Velho,Nordeste
+29,Bahia,BA,2931004,Tanhaçu,Nordeste
+29,Bahia,BA,2931053,Tanque Novo,Nordeste
+29,Bahia,BA,2931103,Tanquinho,Nordeste
+29,Bahia,BA,2931202,Taperoá,Nordeste
+29,Bahia,BA,2931301,Tapiramutá,Nordeste
+29,Bahia,BA,2931350,Teixeira de Freitas,Nordeste
+29,Bahia,BA,2931400,Teodoro Sampaio,Nordeste
+29,Bahia,BA,2931509,Teofilândia,Nordeste
+29,Bahia,BA,2931608,Teolândia,Nordeste
+29,Bahia,BA,2931707,Terra Nova,Nordeste
+29,Bahia,BA,2931806,Tremedal,Nordeste
+29,Bahia,BA,2931905,Tucano,Nordeste
+29,Bahia,BA,2932002,Uauá,Nordeste
+29,Bahia,BA,2932101,Ubaíra,Nordeste
+29,Bahia,BA,2932200,Ubaitaba,Nordeste
+29,Bahia,BA,2932309,Ubatã,Nordeste
+29,Bahia,BA,2932408,Uibaí,Nordeste
+29,Bahia,BA,2932457,Umburanas,Nordeste
+29,Bahia,BA,2932507,Una,Nordeste
+29,Bahia,BA,2932606,Urandi,Nordeste
+29,Bahia,BA,2932705,Uruçuca,Nordeste
+29,Bahia,BA,2932804,Utinga,Nordeste
+29,Bahia,BA,2932903,Valença,Nordeste
+29,Bahia,BA,2933000,Valente,Nordeste
+29,Bahia,BA,2933059,Várzea da Roça,Nordeste
+29,Bahia,BA,2933109,Várzea do Poço,Nordeste
+29,Bahia,BA,2933158,Várzea Nova,Nordeste
+29,Bahia,BA,2933174,Varzedo,Nordeste
+29,Bahia,BA,2933208,Vera Cruz,Nordeste
+29,Bahia,BA,2933257,Vereda,Nordeste
+29,Bahia,BA,2933307,Vitória da Conquista,Nordeste
+29,Bahia,BA,2933406,Wagner,Nordeste
+29,Bahia,BA,2933455,Wanderley,Nordeste
+29,Bahia,BA,2933505,Wenceslau Guimarães,Nordeste
+29,Bahia,BA,2933604,Xique-Xique,Nordeste
+31,Minas Gerais,MG,3100104,Abadia dos Dourados,Sudeste
+31,Minas Gerais,MG,3100203,Abaeté,Sudeste
+31,Minas Gerais,MG,3100302,Abre Campo,Sudeste
+31,Minas Gerais,MG,3100401,Acaiaca,Sudeste
+31,Minas Gerais,MG,3100500,Açucena,Sudeste
+31,Minas Gerais,MG,3100609,Água Boa,Sudeste
+31,Minas Gerais,MG,3100708,Água Comprida,Sudeste
+31,Minas Gerais,MG,3100807,Aguanil,Sudeste
+31,Minas Gerais,MG,3100906,Águas Formosas,Sudeste
+31,Minas Gerais,MG,3101003,Águas Vermelhas,Sudeste
+31,Minas Gerais,MG,3101102,Aimorés,Sudeste
+31,Minas Gerais,MG,3101201,Aiuruoca,Sudeste
+31,Minas Gerais,MG,3101300,Alagoa,Sudeste
+31,Minas Gerais,MG,3101409,Albertina,Sudeste
+31,Minas Gerais,MG,3101508,Além Paraíba,Sudeste
+31,Minas Gerais,MG,3101607,Alfenas,Sudeste
+31,Minas Gerais,MG,3101631,Alfredo Vasconcelos,Sudeste
+31,Minas Gerais,MG,3101706,Almenara,Sudeste
+31,Minas Gerais,MG,3101805,Alpercata,Sudeste
+31,Minas Gerais,MG,3101904,Alpinópolis,Sudeste
+31,Minas Gerais,MG,3102001,Alterosa,Sudeste
+31,Minas Gerais,MG,3102050,Alto Caparaó,Sudeste
+31,Minas Gerais,MG,3102100,Alto Rio Doce,Sudeste
+31,Minas Gerais,MG,3102209,Alvarenga,Sudeste
+31,Minas Gerais,MG,3102308,Alvinópolis,Sudeste
+31,Minas Gerais,MG,3102407,Alvorada de Minas,Sudeste
+31,Minas Gerais,MG,3102506,Amparo do Serra,Sudeste
+31,Minas Gerais,MG,3102605,Andradas,Sudeste
+31,Minas Gerais,MG,3102704,Cachoeira de Pajeú,Sudeste
+31,Minas Gerais,MG,3102803,Andrelândia,Sudeste
+31,Minas Gerais,MG,3102852,Angelândia,Sudeste
+31,Minas Gerais,MG,3102902,Antônio Carlos,Sudeste
+31,Minas Gerais,MG,3103009,Antônio Dias,Sudeste
+31,Minas Gerais,MG,3103108,Antônio Prado de Minas,Sudeste
+31,Minas Gerais,MG,3103207,Araçaí,Sudeste
+31,Minas Gerais,MG,3103306,Aracitaba,Sudeste
+31,Minas Gerais,MG,3103405,Araçuaí,Sudeste
+31,Minas Gerais,MG,3103504,Araguari,Sudeste
+31,Minas Gerais,MG,3103603,Arantina,Sudeste
+31,Minas Gerais,MG,3103702,Araponga,Sudeste
+31,Minas Gerais,MG,3103751,Araporã,Sudeste
+31,Minas Gerais,MG,3103801,Arapuá,Sudeste
+31,Minas Gerais,MG,3103900,Araújos,Sudeste
+31,Minas Gerais,MG,3104007,Araxá,Sudeste
+31,Minas Gerais,MG,3104106,Arceburgo,Sudeste
+31,Minas Gerais,MG,3104205,Arcos,Sudeste
+31,Minas Gerais,MG,3104304,Areado,Sudeste
+31,Minas Gerais,MG,3104403,Argirita,Sudeste
+31,Minas Gerais,MG,3104452,Aricanduva,Sudeste
+31,Minas Gerais,MG,3104502,Arinos,Sudeste
+31,Minas Gerais,MG,3104601,Astolfo Dutra,Sudeste
+31,Minas Gerais,MG,3104700,Ataléia,Sudeste
+31,Minas Gerais,MG,3104809,Augusto de Lima,Sudeste
+31,Minas Gerais,MG,3104908,Baependi,Sudeste
+31,Minas Gerais,MG,3105004,Baldim,Sudeste
+31,Minas Gerais,MG,3105103,Bambuí,Sudeste
+31,Minas Gerais,MG,3105202,Bandeira,Sudeste
+31,Minas Gerais,MG,3105301,Bandeira do Sul,Sudeste
+31,Minas Gerais,MG,3105400,Barão de Cocais,Sudeste
+31,Minas Gerais,MG,3105509,Barão de Monte Alto,Sudeste
+31,Minas Gerais,MG,3105608,Barbacena,Sudeste
+31,Minas Gerais,MG,3105707,Barra Longa,Sudeste
+31,Minas Gerais,MG,3105905,Barroso,Sudeste
+31,Minas Gerais,MG,3106002,Bela Vista de Minas,Sudeste
+31,Minas Gerais,MG,3106101,Belmiro Braga,Sudeste
+31,Minas Gerais,MG,3106200,Belo Horizonte,Sudeste
+31,Minas Gerais,MG,3106309,Belo Oriente,Sudeste
+31,Minas Gerais,MG,3106408,Belo Vale,Sudeste
+31,Minas Gerais,MG,3106507,Berilo,Sudeste
+31,Minas Gerais,MG,3106606,Bertópolis,Sudeste
+31,Minas Gerais,MG,3106655,Berizal,Sudeste
+31,Minas Gerais,MG,3106705,Betim,Sudeste
+31,Minas Gerais,MG,3106804,Bias Fortes,Sudeste
+31,Minas Gerais,MG,3106903,Bicas,Sudeste
+31,Minas Gerais,MG,3107000,Biquinhas,Sudeste
+31,Minas Gerais,MG,3107109,Boa Esperança,Sudeste
+31,Minas Gerais,MG,3107208,Bocaina de Minas,Sudeste
+31,Minas Gerais,MG,3107307,Bocaiúva,Sudeste
+31,Minas Gerais,MG,3107406,Bom Despacho,Sudeste
+31,Minas Gerais,MG,3107505,Bom Jardim de Minas,Sudeste
+31,Minas Gerais,MG,3107604,Bom Jesus da Penha,Sudeste
+31,Minas Gerais,MG,3107703,Bom Jesus do Amparo,Sudeste
+31,Minas Gerais,MG,3107802,Bom Jesus do Galho,Sudeste
+31,Minas Gerais,MG,3107901,Bom Repouso,Sudeste
+31,Minas Gerais,MG,3108008,Bom Sucesso,Sudeste
+31,Minas Gerais,MG,3108107,Bonfim,Sudeste
+31,Minas Gerais,MG,3108206,Bonfinópolis de Minas,Sudeste
+31,Minas Gerais,MG,3108255,Bonito de Minas,Sudeste
+31,Minas Gerais,MG,3108305,Borda da Mata,Sudeste
+31,Minas Gerais,MG,3108404,Botelhos,Sudeste
+31,Minas Gerais,MG,3108503,Botumirim,Sudeste
+31,Minas Gerais,MG,3108552,Brasilândia de Minas,Sudeste
+31,Minas Gerais,MG,3108602,Brasília de Minas,Sudeste
+31,Minas Gerais,MG,3108701,Brás Pires,Sudeste
+31,Minas Gerais,MG,3108800,Braúnas,Sudeste
+31,Minas Gerais,MG,3108909,Brazópolis,Sudeste
+31,Minas Gerais,MG,3109006,Brumadinho,Sudeste
+31,Minas Gerais,MG,3109105,Bueno Brandão,Sudeste
+31,Minas Gerais,MG,3109204,Buenópolis,Sudeste
+31,Minas Gerais,MG,3109253,Bugre,Sudeste
+31,Minas Gerais,MG,3109303,Buritis,Sudeste
+31,Minas Gerais,MG,3109402,Buritizeiro,Sudeste
+31,Minas Gerais,MG,3109451,Cabeceira Grande,Sudeste
+31,Minas Gerais,MG,3109501,Cabo Verde,Sudeste
+31,Minas Gerais,MG,3109600,Cachoeira da Prata,Sudeste
+31,Minas Gerais,MG,3109709,Cachoeira de Minas,Sudeste
+31,Minas Gerais,MG,3109808,Cachoeira Dourada,Sudeste
+31,Minas Gerais,MG,3109907,Caetanópolis,Sudeste
+31,Minas Gerais,MG,3110004,Caeté,Sudeste
+31,Minas Gerais,MG,3110103,Caiana,Sudeste
+31,Minas Gerais,MG,3110202,Cajuri,Sudeste
+31,Minas Gerais,MG,3110301,Caldas,Sudeste
+31,Minas Gerais,MG,3110400,Camacho,Sudeste
+31,Minas Gerais,MG,3110509,Camanducaia,Sudeste
+31,Minas Gerais,MG,3110608,Cambuí,Sudeste
+31,Minas Gerais,MG,3110707,Cambuquira,Sudeste
+31,Minas Gerais,MG,3110806,Campanário,Sudeste
+31,Minas Gerais,MG,3110905,Campanha,Sudeste
+31,Minas Gerais,MG,3111002,Campestre,Sudeste
+31,Minas Gerais,MG,3111101,Campina Verde,Sudeste
+31,Minas Gerais,MG,3111150,Campo Azul,Sudeste
+31,Minas Gerais,MG,3111200,Campo Belo,Sudeste
+31,Minas Gerais,MG,3111309,Campo do Meio,Sudeste
+31,Minas Gerais,MG,3111408,Campo Florido,Sudeste
+31,Minas Gerais,MG,3111507,Campos Altos,Sudeste
+31,Minas Gerais,MG,3111606,Campos Gerais,Sudeste
+31,Minas Gerais,MG,3111705,Canaã,Sudeste
+31,Minas Gerais,MG,3111804,Canápolis,Sudeste
+31,Minas Gerais,MG,3111903,Cana Verde,Sudeste
+31,Minas Gerais,MG,3112000,Candeias,Sudeste
+31,Minas Gerais,MG,3112059,Cantagalo,Sudeste
+31,Minas Gerais,MG,3112109,Caparaó,Sudeste
+31,Minas Gerais,MG,3112208,Capela Nova,Sudeste
+31,Minas Gerais,MG,3112307,Capelinha,Sudeste
+31,Minas Gerais,MG,3112406,Capetinga,Sudeste
+31,Minas Gerais,MG,3112505,Capim Branco,Sudeste
+31,Minas Gerais,MG,3112604,Capinópolis,Sudeste
+31,Minas Gerais,MG,3112653,Capitão Andrade,Sudeste
+31,Minas Gerais,MG,3112703,Capitão Enéas,Sudeste
+31,Minas Gerais,MG,3112802,Capitólio,Sudeste
+31,Minas Gerais,MG,3112901,Caputira,Sudeste
+31,Minas Gerais,MG,3113008,Caraí,Sudeste
+31,Minas Gerais,MG,3113107,Caranaíba,Sudeste
+31,Minas Gerais,MG,3113206,Carandaí,Sudeste
+31,Minas Gerais,MG,3113305,Carangola,Sudeste
+31,Minas Gerais,MG,3113404,Caratinga,Sudeste
+31,Minas Gerais,MG,3113503,Carbonita,Sudeste
+31,Minas Gerais,MG,3113602,Careaçu,Sudeste
+31,Minas Gerais,MG,3113701,Carlos Chagas,Sudeste
+31,Minas Gerais,MG,3113800,Carmésia,Sudeste
+31,Minas Gerais,MG,3113909,Carmo da Cachoeira,Sudeste
+31,Minas Gerais,MG,3114006,Carmo da Mata,Sudeste
+31,Minas Gerais,MG,3114105,Carmo de Minas,Sudeste
+31,Minas Gerais,MG,3114204,Carmo do Cajuru,Sudeste
+31,Minas Gerais,MG,3114303,Carmo do Paranaíba,Sudeste
+31,Minas Gerais,MG,3114402,Carmo do Rio Claro,Sudeste
+31,Minas Gerais,MG,3114501,Carmópolis de Minas,Sudeste
+31,Minas Gerais,MG,3114550,Carneirinho,Sudeste
+31,Minas Gerais,MG,3114600,Carrancas,Sudeste
+31,Minas Gerais,MG,3114709,Carvalhópolis,Sudeste
+31,Minas Gerais,MG,3114808,Carvalhos,Sudeste
+31,Minas Gerais,MG,3114907,Casa Grande,Sudeste
+31,Minas Gerais,MG,3115003,Cascalho Rico,Sudeste
+31,Minas Gerais,MG,3115102,Cássia,Sudeste
+31,Minas Gerais,MG,3115201,Conceição da Barra de Minas,Sudeste
+31,Minas Gerais,MG,3115300,Cataguases,Sudeste
+31,Minas Gerais,MG,3115359,Catas Altas,Sudeste
+31,Minas Gerais,MG,3115409,Catas Altas da Noruega,Sudeste
+31,Minas Gerais,MG,3115458,Catuji,Sudeste
+31,Minas Gerais,MG,3115474,Catuti,Sudeste
+31,Minas Gerais,MG,3115508,Caxambu,Sudeste
+31,Minas Gerais,MG,3115607,Cedro do Abaeté,Sudeste
+31,Minas Gerais,MG,3115706,Central de Minas,Sudeste
+31,Minas Gerais,MG,3115805,Centralina,Sudeste
+31,Minas Gerais,MG,3115904,Chácara,Sudeste
+31,Minas Gerais,MG,3116001,Chalé,Sudeste
+31,Minas Gerais,MG,3116100,Chapada do Norte,Sudeste
+31,Minas Gerais,MG,3116159,Chapada Gaúcha,Sudeste
+31,Minas Gerais,MG,3116209,Chiador,Sudeste
+31,Minas Gerais,MG,3116308,Cipotânea,Sudeste
+31,Minas Gerais,MG,3116407,Claraval,Sudeste
+31,Minas Gerais,MG,3116506,Claro dos Poções,Sudeste
+31,Minas Gerais,MG,3116605,Cláudio,Sudeste
+31,Minas Gerais,MG,3116704,Coimbra,Sudeste
+31,Minas Gerais,MG,3116803,Coluna,Sudeste
+31,Minas Gerais,MG,3116902,Comendador Gomes,Sudeste
+31,Minas Gerais,MG,3117009,Comercinho,Sudeste
+31,Minas Gerais,MG,3117108,Conceição da Aparecida,Sudeste
+31,Minas Gerais,MG,3117207,Conceição das Pedras,Sudeste
+31,Minas Gerais,MG,3117306,Conceição das Alagoas,Sudeste
+31,Minas Gerais,MG,3117405,Conceição de Ipanema,Sudeste
+31,Minas Gerais,MG,3117504,Conceição do Mato Dentro,Sudeste
+31,Minas Gerais,MG,3117603,Conceição do Pará,Sudeste
+31,Minas Gerais,MG,3117702,Conceição do Rio Verde,Sudeste
+31,Minas Gerais,MG,3117801,Conceição dos Ouros,Sudeste
+31,Minas Gerais,MG,3117836,Cônego Marinho,Sudeste
+31,Minas Gerais,MG,3117876,Confins,Sudeste
+31,Minas Gerais,MG,3117900,Congonhal,Sudeste
+31,Minas Gerais,MG,3118007,Congonhas,Sudeste
+31,Minas Gerais,MG,3118106,Congonhas do Norte,Sudeste
+31,Minas Gerais,MG,3118205,Conquista,Sudeste
+31,Minas Gerais,MG,3118304,Conselheiro Lafaiete,Sudeste
+31,Minas Gerais,MG,3118403,Conselheiro Pena,Sudeste
+31,Minas Gerais,MG,3118502,Consolação,Sudeste
+31,Minas Gerais,MG,3118601,Contagem,Sudeste
+31,Minas Gerais,MG,3118700,Coqueiral,Sudeste
+31,Minas Gerais,MG,3118809,Coração de Jesus,Sudeste
+31,Minas Gerais,MG,3118908,Cordisburgo,Sudeste
+31,Minas Gerais,MG,3119005,Cordislândia,Sudeste
+31,Minas Gerais,MG,3119104,Corinto,Sudeste
+31,Minas Gerais,MG,3119203,Coroaci,Sudeste
+31,Minas Gerais,MG,3119302,Coromandel,Sudeste
+31,Minas Gerais,MG,3119401,Coronel Fabriciano,Sudeste
+31,Minas Gerais,MG,3119500,Coronel Murta,Sudeste
+31,Minas Gerais,MG,3119609,Coronel Pacheco,Sudeste
+31,Minas Gerais,MG,3119708,Coronel Xavier Chaves,Sudeste
+31,Minas Gerais,MG,3119807,Córrego Danta,Sudeste
+31,Minas Gerais,MG,3119906,Córrego do Bom Jesus,Sudeste
+31,Minas Gerais,MG,3119955,Córrego Fundo,Sudeste
+31,Minas Gerais,MG,3120003,Córrego Novo,Sudeste
+31,Minas Gerais,MG,3120102,Couto de Magalhães de Minas,Sudeste
+31,Minas Gerais,MG,3120151,Crisólita,Sudeste
+31,Minas Gerais,MG,3120201,Cristais,Sudeste
+31,Minas Gerais,MG,3120300,Cristália,Sudeste
+31,Minas Gerais,MG,3120409,Cristiano Otoni,Sudeste
+31,Minas Gerais,MG,3120508,Cristina,Sudeste
+31,Minas Gerais,MG,3120607,Crucilândia,Sudeste
+31,Minas Gerais,MG,3120706,Cruzeiro da Fortaleza,Sudeste
+31,Minas Gerais,MG,3120805,Cruzília,Sudeste
+31,Minas Gerais,MG,3120839,Cuparaque,Sudeste
+31,Minas Gerais,MG,3120870,Curral de Dentro,Sudeste
+31,Minas Gerais,MG,3120904,Curvelo,Sudeste
+31,Minas Gerais,MG,3121001,Datas,Sudeste
+31,Minas Gerais,MG,3121100,Delfim Moreira,Sudeste
+31,Minas Gerais,MG,3121209,Delfinópolis,Sudeste
+31,Minas Gerais,MG,3121258,Delta,Sudeste
+31,Minas Gerais,MG,3121308,Descoberto,Sudeste
+31,Minas Gerais,MG,3121407,Desterro de Entre Rios,Sudeste
+31,Minas Gerais,MG,3121506,Desterro do Melo,Sudeste
+31,Minas Gerais,MG,3121605,Diamantina,Sudeste
+31,Minas Gerais,MG,3121704,Diogo de Vasconcelos,Sudeste
+31,Minas Gerais,MG,3121803,Dionísio,Sudeste
+31,Minas Gerais,MG,3121902,Divinésia,Sudeste
+31,Minas Gerais,MG,3122009,Divino,Sudeste
+31,Minas Gerais,MG,3122108,Divino das Laranjeiras,Sudeste
+31,Minas Gerais,MG,3122207,Divinolândia de Minas,Sudeste
+31,Minas Gerais,MG,3122306,Divinópolis,Sudeste
+31,Minas Gerais,MG,3122355,Divisa Alegre,Sudeste
+31,Minas Gerais,MG,3122405,Divisa Nova,Sudeste
+31,Minas Gerais,MG,3122454,Divisópolis,Sudeste
+31,Minas Gerais,MG,3122470,Dom Bosco,Sudeste
+31,Minas Gerais,MG,3122504,Dom Cavati,Sudeste
+31,Minas Gerais,MG,3122603,Dom Joaquim,Sudeste
+31,Minas Gerais,MG,3122702,Dom Silvério,Sudeste
+31,Minas Gerais,MG,3122801,Dom Viçoso,Sudeste
+31,Minas Gerais,MG,3122900,Dona Euzébia,Sudeste
+31,Minas Gerais,MG,3123007,Dores de Campos,Sudeste
+31,Minas Gerais,MG,3123106,Dores de Guanhães,Sudeste
+31,Minas Gerais,MG,3123205,Dores do Indaiá,Sudeste
+31,Minas Gerais,MG,3123304,Dores do Turvo,Sudeste
+31,Minas Gerais,MG,3123403,Doresópolis,Sudeste
+31,Minas Gerais,MG,3123502,Douradoquara,Sudeste
+31,Minas Gerais,MG,3123528,Durandé,Sudeste
+31,Minas Gerais,MG,3123601,Elói Mendes,Sudeste
+31,Minas Gerais,MG,3123700,Engenheiro Caldas,Sudeste
+31,Minas Gerais,MG,3123809,Engenheiro Navarro,Sudeste
+31,Minas Gerais,MG,3123858,Entre Folhas,Sudeste
+31,Minas Gerais,MG,3123908,Entre Rios de Minas,Sudeste
+31,Minas Gerais,MG,3124005,Ervália,Sudeste
+31,Minas Gerais,MG,3124104,Esmeraldas,Sudeste
+31,Minas Gerais,MG,3124203,Espera Feliz,Sudeste
+31,Minas Gerais,MG,3124302,Espinosa,Sudeste
+31,Minas Gerais,MG,3124401,Espírito Santo do Dourado,Sudeste
+31,Minas Gerais,MG,3124500,Estiva,Sudeste
+31,Minas Gerais,MG,3124609,Estrela Dalva,Sudeste
+31,Minas Gerais,MG,3124708,Estrela do Indaiá,Sudeste
+31,Minas Gerais,MG,3124807,Estrela do Sul,Sudeste
+31,Minas Gerais,MG,3124906,Eugenópolis,Sudeste
+31,Minas Gerais,MG,3125002,Ewbank da Câmara,Sudeste
+31,Minas Gerais,MG,3125101,Extrema,Sudeste
+31,Minas Gerais,MG,3125200,Fama,Sudeste
+31,Minas Gerais,MG,3125309,Faria Lemos,Sudeste
+31,Minas Gerais,MG,3125408,Felício dos Santos,Sudeste
+31,Minas Gerais,MG,3125507,São Gonçalo do Rio Preto,Sudeste
+31,Minas Gerais,MG,3125606,Felisburgo,Sudeste
+31,Minas Gerais,MG,3125705,Felixlândia,Sudeste
+31,Minas Gerais,MG,3125804,Fernandes Tourinho,Sudeste
+31,Minas Gerais,MG,3125903,Ferros,Sudeste
+31,Minas Gerais,MG,3125952,Fervedouro,Sudeste
+31,Minas Gerais,MG,3126000,Florestal,Sudeste
+31,Minas Gerais,MG,3126109,Formiga,Sudeste
+31,Minas Gerais,MG,3126208,Formoso,Sudeste
+31,Minas Gerais,MG,3126307,Fortaleza de Minas,Sudeste
+31,Minas Gerais,MG,3126406,Fortuna de Minas,Sudeste
+31,Minas Gerais,MG,3126505,Francisco Badaró,Sudeste
+31,Minas Gerais,MG,3126604,Francisco Dumont,Sudeste
+31,Minas Gerais,MG,3126703,Francisco Sá,Sudeste
+31,Minas Gerais,MG,3126752,Franciscópolis,Sudeste
+31,Minas Gerais,MG,3126802,Frei Gaspar,Sudeste
+31,Minas Gerais,MG,3126901,Frei Inocêncio,Sudeste
+31,Minas Gerais,MG,3126950,Frei Lagonegro,Sudeste
+31,Minas Gerais,MG,3127008,Fronteira,Sudeste
+31,Minas Gerais,MG,3127057,Fronteira dos Vales,Sudeste
+31,Minas Gerais,MG,3127073,Fruta de Leite,Sudeste
+31,Minas Gerais,MG,3127107,Frutal,Sudeste
+31,Minas Gerais,MG,3127206,Funilândia,Sudeste
+31,Minas Gerais,MG,3127305,Galiléia,Sudeste
+31,Minas Gerais,MG,3127339,Gameleiras,Sudeste
+31,Minas Gerais,MG,3127354,Glaucilândia,Sudeste
+31,Minas Gerais,MG,3127370,Goiabeira,Sudeste
+31,Minas Gerais,MG,3127388,Goianá,Sudeste
+31,Minas Gerais,MG,3127404,Gonçalves,Sudeste
+31,Minas Gerais,MG,3127503,Gonzaga,Sudeste
+31,Minas Gerais,MG,3127602,Gouveia,Sudeste
+31,Minas Gerais,MG,3127701,Governador Valadares,Sudeste
+31,Minas Gerais,MG,3127800,Grão Mogol,Sudeste
+31,Minas Gerais,MG,3127909,Grupiara,Sudeste
+31,Minas Gerais,MG,3128006,Guanhães,Sudeste
+31,Minas Gerais,MG,3128105,Guapé,Sudeste
+31,Minas Gerais,MG,3128204,Guaraciaba,Sudeste
+31,Minas Gerais,MG,3128253,Guaraciama,Sudeste
+31,Minas Gerais,MG,3128303,Guaranésia,Sudeste
+31,Minas Gerais,MG,3128402,Guarani,Sudeste
+31,Minas Gerais,MG,3128501,Guarará,Sudeste
+31,Minas Gerais,MG,3128600,Guarda-Mor,Sudeste
+31,Minas Gerais,MG,3128709,Guaxupé,Sudeste
+31,Minas Gerais,MG,3128808,Guidoval,Sudeste
+31,Minas Gerais,MG,3128907,Guimarânia,Sudeste
+31,Minas Gerais,MG,3129004,Guiricema,Sudeste
+31,Minas Gerais,MG,3129103,Gurinhatã,Sudeste
+31,Minas Gerais,MG,3129202,Heliodora,Sudeste
+31,Minas Gerais,MG,3129301,Iapu,Sudeste
+31,Minas Gerais,MG,3129400,Ibertioga,Sudeste
+31,Minas Gerais,MG,3129509,Ibiá,Sudeste
+31,Minas Gerais,MG,3129608,Ibiaí,Sudeste
+31,Minas Gerais,MG,3129657,Ibiracatu,Sudeste
+31,Minas Gerais,MG,3129707,Ibiraci,Sudeste
+31,Minas Gerais,MG,3129806,Ibirité,Sudeste
+31,Minas Gerais,MG,3129905,Ibitiúra de Minas,Sudeste
+31,Minas Gerais,MG,3130002,Ibituruna,Sudeste
+31,Minas Gerais,MG,3130051,Icaraí de Minas,Sudeste
+31,Minas Gerais,MG,3130101,Igarapé,Sudeste
+31,Minas Gerais,MG,3130200,Igaratinga,Sudeste
+31,Minas Gerais,MG,3130309,Iguatama,Sudeste
+31,Minas Gerais,MG,3130408,Ijaci,Sudeste
+31,Minas Gerais,MG,3130507,Ilicínea,Sudeste
+31,Minas Gerais,MG,3130556,Imbé de Minas,Sudeste
+31,Minas Gerais,MG,3130606,Inconfidentes,Sudeste
+31,Minas Gerais,MG,3130655,Indaiabira,Sudeste
+31,Minas Gerais,MG,3130705,Indianópolis,Sudeste
+31,Minas Gerais,MG,3130804,Ingaí,Sudeste
+31,Minas Gerais,MG,3130903,Inhapim,Sudeste
+31,Minas Gerais,MG,3131000,Inhaúma,Sudeste
+31,Minas Gerais,MG,3131109,Inimutaba,Sudeste
+31,Minas Gerais,MG,3131158,Ipaba,Sudeste
+31,Minas Gerais,MG,3131208,Ipanema,Sudeste
+31,Minas Gerais,MG,3131307,Ipatinga,Sudeste
+31,Minas Gerais,MG,3131406,Ipiaçu,Sudeste
+31,Minas Gerais,MG,3131505,Ipuiúna,Sudeste
+31,Minas Gerais,MG,3131604,Iraí de Minas,Sudeste
+31,Minas Gerais,MG,3131703,Itabira,Sudeste
+31,Minas Gerais,MG,3131802,Itabirinha,Sudeste
+31,Minas Gerais,MG,3131901,Itabirito,Sudeste
+31,Minas Gerais,MG,3132008,Itacambira,Sudeste
+31,Minas Gerais,MG,3132107,Itacarambi,Sudeste
+31,Minas Gerais,MG,3132206,Itaguara,Sudeste
+31,Minas Gerais,MG,3132305,Itaipé,Sudeste
+31,Minas Gerais,MG,3132404,Itajubá,Sudeste
+31,Minas Gerais,MG,3132503,Itamarandiba,Sudeste
+31,Minas Gerais,MG,3132602,Itamarati de Minas,Sudeste
+31,Minas Gerais,MG,3132701,Itambacuri,Sudeste
+31,Minas Gerais,MG,3132800,Itambé do Mato Dentro,Sudeste
+31,Minas Gerais,MG,3132909,Itamogi,Sudeste
+31,Minas Gerais,MG,3133006,Itamonte,Sudeste
+31,Minas Gerais,MG,3133105,Itanhandu,Sudeste
+31,Minas Gerais,MG,3133204,Itanhomi,Sudeste
+31,Minas Gerais,MG,3133303,Itaobim,Sudeste
+31,Minas Gerais,MG,3133402,Itapagipe,Sudeste
+31,Minas Gerais,MG,3133501,Itapecerica,Sudeste
+31,Minas Gerais,MG,3133600,Itapeva,Sudeste
+31,Minas Gerais,MG,3133709,Itatiaiuçu,Sudeste
+31,Minas Gerais,MG,3133758,Itaú de Minas,Sudeste
+31,Minas Gerais,MG,3133808,Itaúna,Sudeste
+31,Minas Gerais,MG,3133907,Itaverava,Sudeste
+31,Minas Gerais,MG,3134004,Itinga,Sudeste
+31,Minas Gerais,MG,3134103,Itueta,Sudeste
+31,Minas Gerais,MG,3134202,Ituiutaba,Sudeste
+31,Minas Gerais,MG,3134301,Itumirim,Sudeste
+31,Minas Gerais,MG,3134400,Iturama,Sudeste
+31,Minas Gerais,MG,3134509,Itutinga,Sudeste
+31,Minas Gerais,MG,3134608,Jaboticatubas,Sudeste
+31,Minas Gerais,MG,3134707,Jacinto,Sudeste
+31,Minas Gerais,MG,3134806,Jacuí,Sudeste
+31,Minas Gerais,MG,3134905,Jacutinga,Sudeste
+31,Minas Gerais,MG,3135001,Jaguaraçu,Sudeste
+31,Minas Gerais,MG,3135050,Jaíba,Sudeste
+31,Minas Gerais,MG,3135076,Jampruca,Sudeste
+31,Minas Gerais,MG,3135100,Janaúba,Sudeste
+31,Minas Gerais,MG,3135209,Januária,Sudeste
+31,Minas Gerais,MG,3135308,Japaraíba,Sudeste
+31,Minas Gerais,MG,3135357,Japonvar,Sudeste
+31,Minas Gerais,MG,3135407,Jeceaba,Sudeste
+31,Minas Gerais,MG,3135456,Jenipapo de Minas,Sudeste
+31,Minas Gerais,MG,3135506,Jequeri,Sudeste
+31,Minas Gerais,MG,3135605,Jequitaí,Sudeste
+31,Minas Gerais,MG,3135704,Jequitibá,Sudeste
+31,Minas Gerais,MG,3135803,Jequitinhonha,Sudeste
+31,Minas Gerais,MG,3135902,Jesuânia,Sudeste
+31,Minas Gerais,MG,3136009,Joaíma,Sudeste
+31,Minas Gerais,MG,3136108,Joanésia,Sudeste
+31,Minas Gerais,MG,3136207,João Monlevade,Sudeste
+31,Minas Gerais,MG,3136306,João Pinheiro,Sudeste
+31,Minas Gerais,MG,3136405,Joaquim Felício,Sudeste
+31,Minas Gerais,MG,3136504,Jordânia,Sudeste
+31,Minas Gerais,MG,3136520,José Gonçalves de Minas,Sudeste
+31,Minas Gerais,MG,3136553,José Raydan,Sudeste
+31,Minas Gerais,MG,3136579,Josenópolis,Sudeste
+31,Minas Gerais,MG,3136603,Nova União,Sudeste
+31,Minas Gerais,MG,3136652,Juatuba,Sudeste
+31,Minas Gerais,MG,3136702,Juiz de Fora,Sudeste
+31,Minas Gerais,MG,3136801,Juramento,Sudeste
+31,Minas Gerais,MG,3136900,Juruaia,Sudeste
+31,Minas Gerais,MG,3136959,Juvenília,Sudeste
+31,Minas Gerais,MG,3137007,Ladainha,Sudeste
+31,Minas Gerais,MG,3137106,Lagamar,Sudeste
+31,Minas Gerais,MG,3137205,Lagoa da Prata,Sudeste
+31,Minas Gerais,MG,3137304,Lagoa dos Patos,Sudeste
+31,Minas Gerais,MG,3137403,Lagoa Dourada,Sudeste
+31,Minas Gerais,MG,3137502,Lagoa Formosa,Sudeste
+31,Minas Gerais,MG,3137536,Lagoa Grande,Sudeste
+31,Minas Gerais,MG,3137601,Lagoa Santa,Sudeste
+31,Minas Gerais,MG,3137700,Lajinha,Sudeste
+31,Minas Gerais,MG,3137809,Lambari,Sudeste
+31,Minas Gerais,MG,3137908,Lamim,Sudeste
+31,Minas Gerais,MG,3138005,Laranjal,Sudeste
+31,Minas Gerais,MG,3138104,Lassance,Sudeste
+31,Minas Gerais,MG,3138203,Lavras,Sudeste
+31,Minas Gerais,MG,3138302,Leandro Ferreira,Sudeste
+31,Minas Gerais,MG,3138351,Leme do Prado,Sudeste
+31,Minas Gerais,MG,3138401,Leopoldina,Sudeste
+31,Minas Gerais,MG,3138500,Liberdade,Sudeste
+31,Minas Gerais,MG,3138609,Lima Duarte,Sudeste
+31,Minas Gerais,MG,3138625,Limeira do Oeste,Sudeste
+31,Minas Gerais,MG,3138658,Lontra,Sudeste
+31,Minas Gerais,MG,3138674,Luisburgo,Sudeste
+31,Minas Gerais,MG,3138682,Luislândia,Sudeste
+31,Minas Gerais,MG,3138708,Luminárias,Sudeste
+31,Minas Gerais,MG,3138807,Luz,Sudeste
+31,Minas Gerais,MG,3138906,Machacalis,Sudeste
+31,Minas Gerais,MG,3139003,Machado,Sudeste
+31,Minas Gerais,MG,3139102,Madre de Deus de Minas,Sudeste
+31,Minas Gerais,MG,3139201,Malacacheta,Sudeste
+31,Minas Gerais,MG,3139250,Mamonas,Sudeste
+31,Minas Gerais,MG,3139300,Manga,Sudeste
+31,Minas Gerais,MG,3139409,Manhuaçu,Sudeste
+31,Minas Gerais,MG,3139508,Manhumirim,Sudeste
+31,Minas Gerais,MG,3139607,Mantena,Sudeste
+31,Minas Gerais,MG,3139706,Maravilhas,Sudeste
+31,Minas Gerais,MG,3139805,Mar de Espanha,Sudeste
+31,Minas Gerais,MG,3139904,Maria da Fé,Sudeste
+31,Minas Gerais,MG,3140001,Mariana,Sudeste
+31,Minas Gerais,MG,3140100,Marilac,Sudeste
+31,Minas Gerais,MG,3140159,Mário Campos,Sudeste
+31,Minas Gerais,MG,3140209,Maripá de Minas,Sudeste
+31,Minas Gerais,MG,3140308,Marliéria,Sudeste
+31,Minas Gerais,MG,3140407,Marmelópolis,Sudeste
+31,Minas Gerais,MG,3140506,Martinho Campos,Sudeste
+31,Minas Gerais,MG,3140530,Martins Soares,Sudeste
+31,Minas Gerais,MG,3140555,Mata Verde,Sudeste
+31,Minas Gerais,MG,3140605,Materlândia,Sudeste
+31,Minas Gerais,MG,3140704,Mateus Leme,Sudeste
+31,Minas Gerais,MG,3140803,Matias Barbosa,Sudeste
+31,Minas Gerais,MG,3140852,Matias Cardoso,Sudeste
+31,Minas Gerais,MG,3140902,Matipó,Sudeste
+31,Minas Gerais,MG,3141009,Mato Verde,Sudeste
+31,Minas Gerais,MG,3141108,Matozinhos,Sudeste
+31,Minas Gerais,MG,3141207,Matutina,Sudeste
+31,Minas Gerais,MG,3141306,Medeiros,Sudeste
+31,Minas Gerais,MG,3141405,Medina,Sudeste
+31,Minas Gerais,MG,3141504,Mendes Pimentel,Sudeste
+31,Minas Gerais,MG,3141603,Mercês,Sudeste
+31,Minas Gerais,MG,3141702,Mesquita,Sudeste
+31,Minas Gerais,MG,3141801,Minas Novas,Sudeste
+31,Minas Gerais,MG,3141900,Minduri,Sudeste
+31,Minas Gerais,MG,3142007,Mirabela,Sudeste
+31,Minas Gerais,MG,3142106,Miradouro,Sudeste
+31,Minas Gerais,MG,3142205,Miraí,Sudeste
+31,Minas Gerais,MG,3142254,Miravânia,Sudeste
+31,Minas Gerais,MG,3142304,Moeda,Sudeste
+31,Minas Gerais,MG,3142403,Moema,Sudeste
+31,Minas Gerais,MG,3142502,Monjolos,Sudeste
+31,Minas Gerais,MG,3142601,Monsenhor Paulo,Sudeste
+31,Minas Gerais,MG,3142700,Montalvânia,Sudeste
+31,Minas Gerais,MG,3142809,Monte Alegre de Minas,Sudeste
+31,Minas Gerais,MG,3142908,Monte Azul,Sudeste
+31,Minas Gerais,MG,3143005,Monte Belo,Sudeste
+31,Minas Gerais,MG,3143104,Monte Carmelo,Sudeste
+31,Minas Gerais,MG,3143153,Monte Formoso,Sudeste
+31,Minas Gerais,MG,3143203,Monte Santo de Minas,Sudeste
+31,Minas Gerais,MG,3143302,Montes Claros,Sudeste
+31,Minas Gerais,MG,3143401,Monte Sião,Sudeste
+31,Minas Gerais,MG,3143450,Montezuma,Sudeste
+31,Minas Gerais,MG,3143500,Morada Nova de Minas,Sudeste
+31,Minas Gerais,MG,3143609,Morro da Garça,Sudeste
+31,Minas Gerais,MG,3143708,Morro do Pilar,Sudeste
+31,Minas Gerais,MG,3143807,Munhoz,Sudeste
+31,Minas Gerais,MG,3143906,Muriaé,Sudeste
+31,Minas Gerais,MG,3144003,Mutum,Sudeste
+31,Minas Gerais,MG,3144102,Muzambinho,Sudeste
+31,Minas Gerais,MG,3144201,Nacip Raydan,Sudeste
+31,Minas Gerais,MG,3144300,Nanuque,Sudeste
+31,Minas Gerais,MG,3144359,Naque,Sudeste
+31,Minas Gerais,MG,3144375,Natalândia,Sudeste
+31,Minas Gerais,MG,3144409,Natércia,Sudeste
+31,Minas Gerais,MG,3144508,Nazareno,Sudeste
+31,Minas Gerais,MG,3144607,Nepomuceno,Sudeste
+31,Minas Gerais,MG,3144656,Ninheira,Sudeste
+31,Minas Gerais,MG,3144672,Nova Belém,Sudeste
+31,Minas Gerais,MG,3144706,Nova Era,Sudeste
+31,Minas Gerais,MG,3144805,Nova Lima,Sudeste
+31,Minas Gerais,MG,3144904,Nova Módica,Sudeste
+31,Minas Gerais,MG,3145000,Nova Ponte,Sudeste
+31,Minas Gerais,MG,3145059,Nova Porteirinha,Sudeste
+31,Minas Gerais,MG,3145109,Nova Resende,Sudeste
+31,Minas Gerais,MG,3145208,Nova Serrana,Sudeste
+31,Minas Gerais,MG,3145307,Novo Cruzeiro,Sudeste
+31,Minas Gerais,MG,3145356,Novo Oriente de Minas,Sudeste
+31,Minas Gerais,MG,3145372,Novorizonte,Sudeste
+31,Minas Gerais,MG,3145406,Olaria,Sudeste
+31,Minas Gerais,MG,3145455,Olhos-d'Água,Sudeste
+31,Minas Gerais,MG,3145505,Olímpio Noronha,Sudeste
+31,Minas Gerais,MG,3145604,Oliveira,Sudeste
+31,Minas Gerais,MG,3145703,Oliveira Fortes,Sudeste
+31,Minas Gerais,MG,3145802,Onça de Pitangui,Sudeste
+31,Minas Gerais,MG,3145851,Oratórios,Sudeste
+31,Minas Gerais,MG,3145877,Orizânia,Sudeste
+31,Minas Gerais,MG,3145901,Ouro Branco,Sudeste
+31,Minas Gerais,MG,3146008,Ouro Fino,Sudeste
+31,Minas Gerais,MG,3146107,Ouro Preto,Sudeste
+31,Minas Gerais,MG,3146206,Ouro Verde de Minas,Sudeste
+31,Minas Gerais,MG,3146255,Padre Carvalho,Sudeste
+31,Minas Gerais,MG,3146305,Padre Paraíso,Sudeste
